@@ -1,6 +1,6 @@
 <system>
   <name>55 Cnc</name>
-  <distance>None</distance>
+  <distance>12.5</distance>
   <star>
     <mass>0.905</mass>
     <metallicity>0.31</metallicity>
