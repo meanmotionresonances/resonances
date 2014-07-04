@@ -1,0 +1,99 @@
+<system>
+  <name>HD 82943</name>
+  <distance>None</distance>
+  <star>
+    <mass>1.18</mass>
+    <metallicity>0.32</metallicity>
+    <age>3.08</age>
+    <temperature>5874.0</temperature>
+    <planet>
+      <name>HD 82943 c</name>
+      <massearths>None</massearths>
+      <massjupiters errorminus="0.04" errorplus="0.04">3.559</massjupiters>
+      <period errorminus="0.033" errorplus="0.033">220.158</period>
+      <semimajoraxis errorminus="7.3e-05" errorplus="7.3e-05">0.743963</semimajoraxis>
+      <eccentricity errorminus="0.0093" errorplus="0.0093">0.4257</eccentricity>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron errorminus="1.1" errorplus="1.1">118.0</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2012/11/07</lastupdate>
+    </planet>
+    <planet>
+      <name>HD 82943 b</name>
+      <massearths>None</massearths>
+      <massjupiters errorminus="0.048" errorplus="0.048">3.529</massjupiters>
+      <period errorminus="0.1" errorplus="0.1">439.16</period>
+      <semimajoraxis errorminus="0.00019" errorplus="0.00019">1.18006</semimajoraxis>
+      <eccentricity errorminus="0.005" errorplus="0.005">0.146</eccentricity>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron errorminus="1.1" errorplus="1.1">118.0</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2012/11/07</lastupdate>
+    </planet>
+    <planet>
+      <name>HD 82943 d</name>
+      <massearths>None</massearths>
+      <massjupiters errorminus="0.07" errorplus="0.07">0.653</massjupiters>
+      <period errorminus="13.0" errorplus="13.0">1075.0</period>
+      <semimajoraxis errorminus="0.017" errorplus="0.017">2.144</semimajoraxis>
+      <eccentricity>0.0</eccentricity>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <epoch/>
+      <status>U</status>
+      <lastupdate>2012/11/07</lastupdate>
+    </planet>
+  </star>
+  <resonance>
+    <p p="2">b</p>
+    <q q="1">c</q>
+    <literature>
+      <title>Reliability of orbital ?ts for resonant extrasolar planetary systems: the case of HD82943</title>
+      <authors>Beauge et al. (2008)</authors>
+      <link>http://adsabs.harvard.edu/abs/2008MNRAS.385.2151B</link>
+      <publisher>Monthly Notices of the Royal Astronomical Society, Volume 385, Issue 4, pp. 2151-2160</publisher>
+    </literature>
+    <literature>
+      <title>Characterizing the Orbital and Dynamical State of the HD 82943 Planetary System With Keck Radial Velocity Data</title>
+      <authors>Tan, Xianyu; Payne, Matthew J.; Hoi Lee, Man; Ford, Eric B.; Howard, Andrew W.; Johnson, John. A.; Marcy, Geoff W.; Wright, Jason T.</authors>
+      <link>http://adsabs.harvard.edu/abs/2013arXiv1306.0687T</link>
+      <publisher>The Astrophysical Journal, Volume 777, Issue 2, article id. 101, 21 pp. (2013)</publisher>
+    </literature>
+    <literature>
+      <title>Possible solution to the riddle of HD 82943 multiplanet system: the three-planet resonance 1:2:5?</title>
+      <authors>Baluev, Roman V.; Beaugé, Cristian</authors>
+      <link>http://adsabs.harvard.edu/doi/10.1093/mnras/stt2486</link>
+      <publisher>Monthly Notices of the Royal Astronomical Society, Volume 439, Issue 1, p.673-689</publisher>
+    </literature>
+  </resonance>
+  <resonance>
+    <p p="5">d</p>
+    <q q="2">b</q>
+    <literature>
+      <title>Reliability of orbital ?ts for resonant extrasolar planetary systems: the case of HD82943</title>
+      <authors>Beauge et al. (2008)</authors>
+      <link>http://adsabs.harvard.edu/abs/2008MNRAS.385.2151B</link>
+      <publisher/>
+    </literature>
+    <literature>
+      <title>Characterizing the Orbital and Dynamical State of the HD 82943 Planetary System With Keck Radial Velocity Data</title>
+      <authors>Tan, Xianyu; Payne, Matthew J.; Hoi Lee, Man; Ford, Eric B.; Howard, Andrew W.; Johnson, John. A.; Marcy, Geoff W.; Wright, Jason T.</authors>
+      <link>http://adsabs.harvard.edu/abs/2013arXiv1306.0687T</link>
+      <publisher>Submitted to ApJ</publisher>
+    </literature>
+    <literature>
+      <title>Possible solution to the riddle of HD 82943 multiplanet system: the three-planet resonance 1:2:5?</title>
+      <authors>Baluev, Roman V.; Beaugé, Cristian</authors>
+      <link>http://adsabs.harvard.edu/doi/10.1093/mnras/stt2486</link>
+      <publisher>Monthly Notices of the Royal Astronomical Society, 2014</publisher>
+    </literature>
+  </resonance>
+</system>

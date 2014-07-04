@@ -1,0 +1,65 @@
+<system>
+  <name>Kepler-18</name>
+  <distance>None</distance>
+  <star>
+    <mass>0.972</mass>
+    <metallicity>0.2</metallicity>
+    <age>10.0</age>
+    <temperature>5383.0</temperature>
+    <planet>
+      <name>Kepler-18 b</name>
+      <massearths errorminus="3.4" errorplus="3.4">6.9</massearths>
+      <massjupiters>None</massjupiters>
+      <period errorminus="2.8e-05" errorplus="2.8e-05">3.504725</period>
+      <semimajoraxis errorminus="0.0006" errorplus="0.0006">0.0447</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <timeofpericentre>2454966.5068</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2012/11/07</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-18 c</name>
+      <massearths errorminus="1.9" errorplus="1.9">17.3</massearths>
+      <massjupiters>None</massjupiters>
+      <period errorminus="3e-05" errorplus="3e-05">7.64159</period>
+      <semimajoraxis errorminus="0.0011" errorplus="0.0011">0.0752</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <timeofpericentre>2455167.0883</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2012/11/07</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-18 d</name>
+      <massearths errorminus="1.4" errorplus="1.4">16.4</massearths>
+      <massjupiters>None</massjupiters>
+      <period errorminus="4e-05" errorplus="4e-05">14.85888</period>
+      <semimajoraxis errorminus="0.0017" errorplus="0.0017">0.1172</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <timeofpericentre>2455169.1776</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2012/11/07</lastupdate>
+    </planet>
+  </star>
+  <resonance>
+    <p p="2">d</p>
+    <q q="1">c</q>
+    <literature>
+      <title>KEPLER-18b, c, AND d: A SYSTEM OF THREE PLANETS CONFIRMED BY TRANSIT TIMING VARIATIONS, LIGHT CURVE VALIDATION, WARM-SPITZER PHOTOMETRY, AND RADIAL VELOCITY MEASUREMENTS</title>
+      <authors>Cochran et al. (2011)</authors>
+      <link>http://adsabs.harvard.edu/abs/2011ApJS..197....7C</link>
+      <publisher>The Astrophysical Journal Supplement, Volume 197, Issue 1, article id. 7, 19 pp. (2011)</publisher>
+    </literature>
+  </resonance>
+</system>

@@ -1,0 +1,50 @@
+<system>
+  <name>HD 202206</name>
+  <distance>None</distance>
+  <star>
+    <mass>1.13</mass>
+    <metallicity>0.37</metallicity>
+    <age>2.04</age>
+    <temperature>5750.0</temperature>
+    <planet>
+      <name>HD 202206 b</name>
+      <massearths>None</massearths>
+      <massjupiters>16.59</massjupiters>
+      <period errorminus="0.044" errorplus="0.044">256.389</period>
+      <semimajoraxis>0.8053</semimajoraxis>
+      <eccentricity errorminus="0.001" errorplus="0.001">0.431</eccentricity>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>0.0</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron errorminus="0.27" errorplus="0.27">161.91</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2014/06/06</lastupdate>
+    </planet>
+    <planet>
+      <name>HD 202206 c</name>
+      <massearths>None</massearths>
+      <massjupiters>2.179</massjupiters>
+      <period errorminus="19.056" errorplus="19.056">1397.445</period>
+      <semimajoraxis>2.4832</semimajoraxis>
+      <eccentricity errorminus="0.024" errorplus="0.024">0.104</eccentricity>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>0.0</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron errorminus="15.77" errorplus="15.77">105.56</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2014/06/06</lastupdate>
+    </planet>
+  </star>
+  <resonance>
+    <p p="5">c</p>
+    <q q="1">b</q>
+    <literature>
+      <title>Dynamical stability analysis of the HD202206 system and constraints to the planetary orbits</title>
+      <authors>Couetdic et al. (2010)</authors>
+      <link>http://adsabs.harvard.edu/abs/2010A%26A...519A..10C</link>
+      <publisher>Astronomy and Astrophysics, Volume 519, id.A10, 14 pp</publisher>
+    </literature>
+  </resonance>
+</system>

@@ -1,0 +1,80 @@
+<system>
+  <name>Upsilon And</name>
+  <distance>None</distance>
+  <star>
+    <mass>1.27</mass>
+    <metallicity>0.09</metallicity>
+    <age>3.8</age>
+    <temperature>6212.0</temperature>
+    <planet>
+      <name>Upsilon And b</name>
+      <massearths>None</massearths>
+      <massjupiters errorminus="0.0044" errorplus="0.0044">0.6876</massjupiters>
+      <period errorminus="2.3e-05" errorplus="2.3e-05">4.617033</period>
+      <semimajoraxis errorminus="2e-07" errorplus="2e-07">0.05922166</semimajoraxis>
+      <eccentricity errorminus="0.0007" errorplus="0.0007">0.0215</eccentricity>
+      <timeofpericentre errorminus="0.049" errorplus="0.049">2450005.368</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>51.0</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2012/11/14</lastupdate>
+    </planet>
+    <planet>
+      <name>Upsilon And d</name>
+      <massearths>None</massearths>
+      <massjupiters errorminus="0.019" errorplus="0.019">1.981</massjupiters>
+      <period errorminus="0.064" errorplus="0.064">241.258</period>
+      <semimajoraxis errorminus="1.5e-05" errorplus="1.5e-05">0.827774</semimajoraxis>
+      <eccentricity errorminus="0.0079" errorplus="0.0079">0.2596</eccentricity>
+      <timeofpericentre errorminus="0.84" errorplus="0.84">2450157.78</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>240.8</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2012/11/14</lastupdate>
+    </planet>
+    <planet>
+      <name>Upsilon And c</name>
+      <massearths>None</massearths>
+      <massjupiters errorminus="0.029" errorplus="0.029">4.132</massjupiters>
+      <period errorminus="0.57" errorplus="0.57">1276.46</period>
+      <semimajoraxis errorminus="0.00075" errorplus="0.00075">2.51329</semimajoraxis>
+      <eccentricity errorminus="0.0072" errorplus="0.0072">0.2987</eccentricity>
+      <timeofpericentre errorminus="0.48" errorplus="0.48">2451347.48</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>250.8</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2012/11/14</lastupdate>
+    </planet>
+    <planet>
+      <name>Upsilon And e</name>
+      <massearths>None</massearths>
+      <massjupiters errorminus="0.028" errorplus="0.028">1.059</massjupiters>
+      <period errorminus="0.74" errorplus="0.74">3848.86</period>
+      <semimajoraxis errorminus="0.00067" errorplus="0.00067">5.24558</semimajoraxis>
+      <eccentricity errorminus="0.00044" errorplus="0.00044">0.00536</eccentricity>
+      <timeofpericentre errorminus="0.76" errorplus="0.76">2449535.95</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>367.3</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2012/11/14</lastupdate>
+    </planet>
+  </star>
+  <resonance>
+    <p p="3">e</p>
+    <q q="1">d</q>
+    <literature>
+      <title>A fourth planet orbiting Andromedae</title>
+      <authors>Curiel et al. (2011)</authors>
+      <link>http://adsabs.harvard.edu/abs/2011A%26A...525A..78C</link>
+      <publisher>Astronomy and Astrophysics, Volume 525, id.A78, 5 pp.</publisher>
+    </literature>
+  </resonance>
+</system>

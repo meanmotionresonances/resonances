@@ -1,0 +1,56 @@
+<system>
+  <name>WASP-10</name>
+  <distance>None</distance>
+  <star>
+    <mass>0.71</mass>
+    <metallicity>0.03</metallicity>
+    <age>0.8</age>
+    <temperature>4675.0</temperature>
+    <planet>
+      <name>WASP-10 b</name>
+      <massearths errorminus="0.091" errorplus="0.022">None</massearths>
+      <massjupiters errorminus="0.17" errorplus="0.22">2.96</massjupiters>
+      <period errorminus="2.1e-05" errorplus="9.4e-06">3.0927636</period>
+      <semimajoraxis errorminus="0.0014" errorplus="0.0012">0.0369</semimajoraxis>
+      <eccentricity errorminus="0.004" errorplus="0.014">0.059</eccentricity>
+      <timeofpericentre>2454357.85808</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron errorminus="14.038" errorplus="12.72">167.132</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2012/11/07</lastupdate>
+    </planet>
+    <planet>
+      <name>WASP-10 c</name>
+      <massearths>None</massearths>
+      <massjupiters>0.1</massjupiters>
+      <period>5.2293</period>
+      <semimajoraxis>0.0536</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <epoch/>
+      <status>U</status>
+      <lastupdate>2012/11/07</lastupdate>
+    </planet>
+  </star>
+  <resonance>
+    <p p="5">c</p>
+    <q q="3">b</q>
+    <literature>
+      <title>WASP-10b: a 3M_J, gas-giant planet transiting a late-type K star</title>
+      <authors>Christian et al. (2009)</authors>
+      <link>http://adsabs.harvard.edu/abs/2009MNRAS.392.1585C</link>
+      <publisher>Monthly Notices of the Royal Astronomical Society, Volume 392, Issue 4, pp. 1585-1590.</publisher>
+    </literature>
+    <literature>
+      <title>Transit timing variation and activity in the WASP-10 planetary system</title>
+      <authors>Maciejewski et al. (2011)</authors>
+      <link>http://adsabs.harvard.edu/abs/2011MNRAS.411.1204M</link>
+      <publisher>Monthly Notices of the Royal Astronomical Society, Volume 411, Issue 2, pp. 1204-1212.</publisher>
+    </literature>
+  </resonance>
+</system>

@@ -1,0 +1,65 @@
+<system>
+  <name>Kepler-9</name>
+  <distance>None</distance>
+  <star>
+    <mass>1.0</mass>
+    <metallicity>0.17</metallicity>
+    <age>3.0</age>
+    <temperature>5722.0</temperature>
+    <planet>
+      <name>Kepler-9 03</name>
+      <massearths>None</massearths>
+      <massjupiters>None</massjupiters>
+      <period errorminus="4.5e-05">1.5925</period>
+      <semimajoraxis errorminus="0.00043" errorplus="0.00042">0.0273</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2014/06/11</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-9 b</name>
+      <massearths errorminus="0.013" errorplus="0.013">None</massearths>
+      <massjupiters errorminus="0.013" errorplus="0.013">0.252</massjupiters>
+      <period errorminus="9.8e-05" errorplus="9.8e-05">19.243159</period>
+      <semimajoraxis errorminus="0.001" errorplus="0.001">0.14</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2012/11/14</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-9 c</name>
+      <massearths errorminus="0.013" errorplus="0.013">None</massearths>
+      <massjupiters errorminus="0.013" errorplus="0.013">0.171</massjupiters>
+      <period errorminus="-0.000738" errorplus="0.000738">38.90861</period>
+      <semimajoraxis errorminus="0.001" errorplus="0.001">0.225</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2012/11/14</lastupdate>
+    </planet>
+  </star>
+  <resonance>
+    <p p="2">c</p>
+    <q q="1">b</q>
+    <literature>
+      <title>Kepler-9: A System of Multiple Planets Transiting a Sun-Like Star, Confirmed by Timing Variations</title>
+      <authors>Holman et al. (2009)</authors>
+      <link>http://adsabs.harvard.edu/abs/2010Sci...330...51H</link>
+      <publisher>Science, Volume 330, Issue 6000, pp. 51- (2010)</publisher>
+    </literature>
+  </resonance>
+</system>

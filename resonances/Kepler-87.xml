@@ -1,0 +1,80 @@
+<system>
+  <name>Kepler-87</name>
+  <distance>None</distance>
+  <star>
+    <mass>1.1</mass>
+    <metallicity>None</metallicity>
+    <age>7.5</age>
+    <temperature>None</temperature>
+    <planet>
+      <name>Kepler-87 03</name>
+      <massearths>None</massearths>
+      <massjupiters>None</massjupiters>
+      <period errorminus="5.9e-05" errorplus="5e-05">5.833904</period>
+      <semimajoraxis errorminus="0.0039" errorplus="0.0036">0.066</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <epoch/>
+      <status>U</status>
+      <lastupdate>2014/06/11</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-87 04</name>
+      <massearths>None</massearths>
+      <massjupiters>None</massjupiters>
+      <period errorminus="0.00011" errorplus="0.00011">8.97741</period>
+      <semimajoraxis errorminus="0.0052" errorplus="0.0048">0.088</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <epoch/>
+      <status>U</status>
+      <lastupdate>2014/06/11</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-87 b</name>
+      <massearths errorminus="8.8" errorplus="8.8">324.2</massearths>
+      <massjupiters>None</massjupiters>
+      <period errorminus="0.0005" errorplus="0.0005">114.73635</period>
+      <semimajoraxis errorminus="0.01" errorplus="0.01">0.471</semimajoraxis>
+      <eccentricity errorminus="0.009" errorplus="0.009">0.036</eccentricity>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron errorminus="27.6" errorplus="27.6">238.6</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2014/06/11</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-87 c</name>
+      <massearths errorminus="0.8" errorplus="0.8">6.4</massearths>
+      <massjupiters>None</massjupiters>
+      <period errorminus="0.0015" errorplus="0.0015">191.2318</period>
+      <semimajoraxis errorminus="0.013" errorplus="0.013">0.664</semimajoraxis>
+      <eccentricity errorminus="0.012" errorplus="0.012">0.039</eccentricity>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron errorminus="18.8" errorplus="18.8">223.2</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2014/06/11</lastupdate>
+    </planet>
+  </star>
+  <resonance>
+    <p p="5">c</p>
+    <q q="3">b</q>
+    <literature>
+      <title>An independent planet search in the Kepler dataset. II. An extremely low-density super-Earth mass planet around Kepler-87</title>
+      <authors>Ofir, Aviv; Dreizler, Stefan; Zechmeister, Mathias; Husser, Tim-Oliver</authors>
+      <link>http://adsabs.harvard.edu/abs/2014A%26A...561A.103O</link>
+      <publisher>Astronomy &amp; Astrophysics, Volume 561, id.A103, 7 pp.</publisher>
+    </literature>
+  </resonance>
+</system>

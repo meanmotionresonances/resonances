@@ -1,0 +1,50 @@
+<system>
+  <name>HD 102272</name>
+  <distance>None</distance>
+  <star>
+    <mass>1.9</mass>
+    <metallicity>0.26</metallicity>
+    <age>0.0</age>
+    <temperature>4908.0</temperature>
+    <planet>
+      <name>HD 102272 b</name>
+      <massearths errorminus="0.2" errorplus="0.2">None</massearths>
+      <massjupiters>5.9</massjupiters>
+      <period errorminus="0.3" errorplus="0.3">127.58</period>
+      <semimajoraxis errorminus="0.001" errorplus="0.001">0.614</semimajoraxis>
+      <eccentricity errorminus="0.04" errorplus="0.04">0.05</eccentricity>
+      <timeofpericentre>2452146.5</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>118.0</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2012/11/14</lastupdate>
+    </planet>
+    <planet>
+      <name>HD 102272 c</name>
+      <massearths errorminus="0.4" errorplus="0.4">None</massearths>
+      <massjupiters>2.6</massjupiters>
+      <period errorminus="26.0" errorplus="26.0">520.0</period>
+      <semimajoraxis errorminus="0.05" errorplus="0.05">1.57</semimajoraxis>
+      <eccentricity errorminus="0.06" errorplus="0.06">0.68</eccentricity>
+      <timeofpericentre>2454135.5</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>320.0</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2012/11/14</lastupdate>
+    </planet>
+  </star>
+  <resonance>
+    <p p="4">c</p>
+    <q q="1">b</q>
+    <literature>
+      <title>A Planet in a 0.6-AU Orbit Around the K0 Giant HD 102272</title>
+      <authors>Niedzielski et al. (2009)</authors>
+      <link>http://adsabs.harvard.edu/abs/2009ApJ...693..276N</link>
+      <publisher>The Astrophysical Journal, Volume 693, Issue 1, pp. 276-280 (2009)</publisher>
+    </literature>
+  </resonance>
+</system>

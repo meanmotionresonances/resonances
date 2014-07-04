@@ -1,0 +1,80 @@
+<system>
+  <name>Kepler-49</name>
+  <distance>None</distance>
+  <star>
+    <mass>None</mass>
+    <metallicity>None</metallicity>
+    <age>None</age>
+    <temperature>None</temperature>
+    <planet>
+      <name>Kepler-49 03</name>
+      <massearths>None</massearths>
+      <massjupiters>None</massjupiters>
+      <period errorminus="0.00012" errorplus="0.00012">2.576555</period>
+      <semimajoraxis>None</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <epoch/>
+      <status>U</status>
+      <lastupdate>2014/06/08</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-49 b</name>
+      <massearths>None</massearths>
+      <massjupiters>0.98</massjupiters>
+      <period errorminus="2.2e-05" errorplus="2.2e-05">7.2037945</period>
+      <semimajoraxis>None</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2012/11/21</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-49 c</name>
+      <massearths>None</massearths>
+      <massjupiters>0.72</massjupiters>
+      <period errorminus="6.9e-05" errorplus="6.9e-05">10.9129343</period>
+      <semimajoraxis>None</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2012/11/21</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-49 04</name>
+      <massearths>None</massearths>
+      <massjupiters>None</massjupiters>
+      <period errorminus="0.00021" errorplus="0.00021">74.26167</period>
+      <semimajoraxis>None</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <epoch/>
+      <status>U</status>
+      <lastupdate>2014/06/08</lastupdate>
+    </planet>
+  </star>
+  <resonance>
+    <p p="3">c</p>
+    <q q="2">b</q>
+    <literature>
+      <title>Transit Timing Observations from Kepler: VII. Conﬁrmation of 27 planets in 13 multiplanet systems via Transit Timing Variations and orbital stability</title>
+      <authors>Steffen J H et al. (2012)</authors>
+      <link>http://adsabs.harvard.edu/abs/2013MNRAS.428.1077S</link>
+      <publisher>Monthly Notices of the Royal Astronomical Society, Volume 428, Issue 2, p.1077-1087</publisher>
+    </literature>
+  </resonance>
+</system>

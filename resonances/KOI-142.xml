@@ -1,0 +1,50 @@
+<system>
+  <name>KOI-142</name>
+  <distance>None</distance>
+  <star>
+    <mass>1.02</mass>
+    <metallicity>0.37</metallicity>
+    <age>None</age>
+    <temperature>5513.0</temperature>
+    <planet>
+      <name>KOI-142 b</name>
+      <massearths>None</massearths>
+      <massjupiters>0.06</massjupiters>
+      <period errorminus="0.00143" errorplus="6.4e-05">10.954204</period>
+      <semimajoraxis>None</semimajoraxis>
+      <eccentricity errorminus="0.00047" errorplus="0.00108">0.05608</eccentricity>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>270.0</ascendingnode>
+      <periastron errorminus="1.1" errorplus="3.7">90.9</periastron>
+      <argumentofperiastron>180.9</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2013/08/18</lastupdate>
+    </planet>
+    <planet>
+      <name>KOI-142 c</name>
+      <massearths errorminus="0.013" errorplus="0.02">None</massearths>
+      <massjupiters>0.68</massjupiters>
+      <period errorminus="0.0031" errorplus="0.0036">22.3383</period>
+      <semimajoraxis>None</semimajoraxis>
+      <eccentricity errorminus="-0.0023" errorplus="0.0015">0.0564</eccentricity>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode errorminus="164.0" errorplus="11.0">259.0</ascendingnode>
+      <periastron errorminus="1.8" errorplus="4.8">271.1</periastron>
+      <argumentofperiastron errorminus="-166.0" errorplus="16.0">12.1</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2013/08/18</lastupdate>
+    </planet>
+  </star>
+  <resonance>
+    <p p="2">c</p>
+    <q q="1">b</q>
+    <literature>
+      <title>KOI-142, the King of Transit Variations, is a Pair of Planets near the 2:1 Resonance</title>
+      <authors>Nesvorny, David; Kipping, David; Terrell, Dirk; Hartman, Joel; Bakos, Gaspar A.; Buchhave, Lars A.</authors>
+      <link>http://adsabs.harvard.edu/abs/2013arXiv1304.4283N</link>
+      <publisher>The Astrophysical Journal, Volume 777, Issue 1, article id. 3, 9 pp. (2013)</publisher>
+    </literature>
+  </resonance>
+</system>

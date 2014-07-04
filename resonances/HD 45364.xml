@@ -1,0 +1,56 @@
+<system>
+  <name>HD 45364</name>
+  <distance>None</distance>
+  <star>
+    <mass>0.82</mass>
+    <metallicity>-0.17</metallicity>
+    <age>0.0</age>
+    <temperature>5434.0</temperature>
+    <planet>
+      <name>HD 45364 b</name>
+      <massearths>None</massearths>
+      <massjupiters>0.1872</massjupiters>
+      <period errorminus="0.37" errorplus="0.37">226.93</period>
+      <semimajoraxis>0.6813</semimajoraxis>
+      <eccentricity errorminus="0.019" errorplus="0.019">0.1684</eccentricity>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron errorminus="6.34" errorplus="6.34">162.58</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2012/11/07</lastupdate>
+    </planet>
+    <planet>
+      <name>HD 45364 c</name>
+      <massearths>None</massearths>
+      <massjupiters>0.6579</massjupiters>
+      <period errorminus="0.28" errorplus="0.28">342.85</period>
+      <semimajoraxis>0.8972</semimajoraxis>
+      <eccentricity errorminus="0.012" errorplus="0.012">0.0974</eccentricity>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron errorminus="4.3" errorplus="4.3">7.41</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2012/11/07</lastupdate>
+    </planet>
+  </star>
+  <resonance>
+    <p p="3">c</p>
+    <q q="2">b</q>
+    <literature>
+      <title>The HARPS search for southern extra-solar planets. XVI. HD 45364, a pair of planets in a 3:2 mean motion resonance </title>
+      <authors>Correira et al. (2009)</authors>
+      <link>http://adsabs.harvard.edu/abs/2009arXiv0902.0597C</link>
+      <publisher>Astronomy and Astrophysics, Volume 496, Issue 2, 2009, pp.521-526</publisher>
+    </literature>
+    <literature>
+      <title>A new scenario for the origin of the 3/2 resonant system HD45364</title>
+      <authors>Correa-Otto, J. A.; Michtchenko, T. A.; Beaugé, C.</authors>
+      <link>http://adsabs.harvard.edu/abs/2013arXiv1307.1822C</link>
+      <publisher>Astronomy &amp; Astrophysics, Volume 560, id.A65, 10 pp</publisher>
+    </literature>
+  </resonance>
+</system>

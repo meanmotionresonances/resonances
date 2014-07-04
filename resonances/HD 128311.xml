@@ -1,0 +1,56 @@
+<system>
+  <name>HD 128311</name>
+  <distance>None</distance>
+  <star>
+    <mass>0.84</mass>
+    <metallicity>0.08</metallicity>
+    <age>0.39</age>
+    <temperature>4965.0</temperature>
+    <planet>
+      <name>HD 128311 b</name>
+      <massearths>None</massearths>
+      <massjupiters>2.18</massjupiters>
+      <period>458.6</period>
+      <semimajoraxis>1.099</semimajoraxis>
+      <eccentricity>0.25</eccentricity>
+      <timeofpericentre errorminus="76.0" errorplus="76.0">2450210.9</timeofpericentre>
+      <ascendingnode>0.0</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>110.9</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2012/11/08</lastupdate>
+    </planet>
+    <planet>
+      <name>HD 128311 c</name>
+      <massearths>None</massearths>
+      <massjupiters>3.21</massjupiters>
+      <period>928.3</period>
+      <semimajoraxis>1.76</semimajoraxis>
+      <eccentricity>0.17</eccentricity>
+      <timeofpericentre errorminus="401.0" errorplus="401.0">2450012.2</timeofpericentre>
+      <ascendingnode>0.0</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>195.5</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2012/11/08</lastupdate>
+    </planet>
+  </star>
+  <resonance>
+    <p p="2">c</p>
+    <q q="1">b</q>
+    <literature>
+      <title>Trojan pairs in the HD 128311 and HD 82943 planetary systems?</title>
+      <authors>Gozdziewski and Konacki (2006)</authors>
+      <link>http://arxiv.org/abs/astro-ph/0510109</link>
+      <publisher/>
+    </literature>
+    <literature>
+      <title>Five New Multicomponent Planetary Systems</title>
+      <authors>Vogt, Steven S.; Butler, R. Paul; Marcy, Geoffrey W.; Fischer, Debra A.; Henry, Gregory W.; Laughlin, Greg; Wright, Jason T.; Johnson, John A.</authors>
+      <link>http://adsabs.harvard.edu/abs/2005ApJ...632..638V</link>
+      <publisher>The Astrophysical Journal, Volume 632, Issue 1, pp. 638-658.</publisher>
+    </literature>
+  </resonance>
+</system>

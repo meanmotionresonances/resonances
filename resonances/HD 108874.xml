@@ -1,0 +1,56 @@
+<system>
+  <name>HD 108874</name>
+  <distance>None</distance>
+  <star>
+    <mass>1.0</mass>
+    <metallicity>0.14</metallicity>
+    <age>7.26</age>
+    <temperature>5407.0</temperature>
+    <planet>
+      <name>HD 108874 b</name>
+      <massearths>None</massearths>
+      <massjupiters>1.36</massjupiters>
+      <period errorminus="2.5" errorplus="2.5">395.4</period>
+      <semimajoraxis>1.051</semimajoraxis>
+      <eccentricity>0.07</eccentricity>
+      <timeofpericentre>2450131.5</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>248.4</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2012/11/14</lastupdate>
+    </planet>
+    <planet>
+      <name>HD 108874 c</name>
+      <massearths>None</massearths>
+      <massjupiters>1.018</massjupiters>
+      <period errorminus="88.0" errorplus="88.0">1605.8</period>
+      <semimajoraxis>2.68</semimajoraxis>
+      <eccentricity>0.25</eccentricity>
+      <timeofpericentre>2449584.8</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>17.3</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2014/06/05</lastupdate>
+    </planet>
+  </star>
+  <resonance>
+    <p p="4">c</p>
+    <q q="1">b</q>
+    <literature>
+      <title>FIVE NEW MULTICOMPONENT PLANETARY SYSTEMS</title>
+      <authors>Vogt et al. (2005)</authors>
+      <link>http://adsabs.harvard.edu/abs/2005ApJ...632..638V</link>
+      <publisher>The Astrophysical Journal, Volume 632, Issue 1, pp. 638-658</publisher>
+    </literature>
+    <literature>
+      <title>Orbital configurations and dynamical stability of multiplanet systems around sun-like stars HD 202206, 14 Herculis, HD 37124, and HD 108874</title>
+      <authors>Gozdziewski et al. (2006)</authors>
+      <link>http://adsabs.harvard.edu/abs/2006ApJ...645..688G</link>
+      <publisher>The Astrophysical Journal, Volume 645, Issue 1, pp. 688-703</publisher>
+    </literature>
+  </resonance>
+</system>

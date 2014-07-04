@@ -1,0 +1,50 @@
+<system>
+  <name>Kepler-36</name>
+  <distance>None</distance>
+  <star>
+    <mass>0.0</mass>
+    <metallicity>0.0</metallicity>
+    <age>0.0</age>
+    <temperature>0.0</temperature>
+    <planet>
+      <name>Kepler-36 b</name>
+      <massearths errorminus="0.27" errorplus="0.33">4.45</massearths>
+      <massjupiters>None</massjupiters>
+      <period errorminus="0.006" errorplus="0.0082">13.83989</period>
+      <semimajoraxis errorminus="0.0015" errorplus="0.0015">0.1153</semimajoraxis>
+      <eccentricity>0.04</eccentricity>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2014/03/26</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-36 c</name>
+      <massearths errorminus="0.46" errorplus="0.6">8.08</massearths>
+      <massjupiters>None</massjupiters>
+      <period errorminus="0.0054" errorplus="0.0038">16.23855</period>
+      <semimajoraxis errorminus="0.0016" errorplus="0.0016">0.1283</semimajoraxis>
+      <eccentricity>0.04</eccentricity>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2014/03/26</lastupdate>
+    </planet>
+  </star>
+  <resonance>
+    <p p="7">c</p>
+    <q q="6">b</q>
+    <literature>
+      <title>pler-36: A Pair of Planets with Neighboring Orbits and Dissimilar Densities</title>
+      <authors>Carter, Joshua A.; Agol, Eric; Chaplin, William J.; Basu, Sarbani; Bedding, Timothy R.; Buchhave, Lars A.; Christensen-Dalsgaard, Jørgen; Deck, Katherine M.; Elsworth, Yvonne; Fabrycky, Daniel C.; Ford, Eric B.; Fortney, Jonathan J.; Hale, Steven J.; Handb</authors>
+      <link>http://adsabs.harvard.edu/abs/2012Sci...337..556C</link>
+      <publisher>Science, Volume 337, Issue 6094, pp. 556- (2012)</publisher>
+    </literature>
+  </resonance>
+</system>

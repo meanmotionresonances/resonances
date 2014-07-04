@@ -1,0 +1,95 @@
+<system>
+  <name>55 Cnc</name>
+  <distance>None</distance>
+  <star>
+    <mass>0.905</mass>
+    <metallicity>0.31</metallicity>
+    <age>10.2</age>
+    <temperature>5196.0</temperature>
+    <planet>
+      <name>55 Cnc e</name>
+      <massearths errorminus="0.04" errorplus="0.04">None</massearths>
+      <massjupiters errorminus="0.0036" errorplus="0.0036">0.034</massjupiters>
+      <period errorminus="0.0001" errorplus="0.0001">2.81705</period>
+      <semimajoraxis errorminus="1e-06" errorplus="1e-06">0.038</semimajoraxis>
+      <eccentricity errorminus="0.06" errorplus="0.06">0.07</eccentricity>
+      <timeofpericentre errorminus="0.0001" errorplus="0.0001">249999.83643</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron errorminus="38.0" errorplus="38.0">248.9</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2014/06/04</lastupdate>
+    </planet>
+    <planet>
+      <name>55 Cnc b</name>
+      <massearths errorminus="0.0036" errorplus="0.0036">None</massearths>
+      <massjupiters errorminus="0.007" errorplus="0.007">0.824</massjupiters>
+      <period errorminus="0.0007" errorplus="0.0007">14.65162</period>
+      <semimajoraxis errorminus="1.1e-06" errorplus="1.1e-06">0.115</semimajoraxis>
+      <eccentricity errorminus="0.008" errorplus="0.008">0.014</eccentricity>
+      <timeofpericentre errorminus="1.2" errorplus="1.2">2450002.94749</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron errorminus="30.0" errorplus="30.0">131.94</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2014/06/04</lastupdate>
+    </planet>
+    <planet>
+      <name>55 Cnc c</name>
+      <massearths errorminus="0.007" errorplus="0.007">None</massearths>
+      <massjupiters errorminus="0.008" errorplus="0.008">0.169</massjupiters>
+      <period errorminus="0.007" errorplus="0.007">44.3446</period>
+      <semimajoraxis errorminus="4.5e-05" errorplus="4.5e-05">0.24</semimajoraxis>
+      <eccentricity errorminus="0.052" errorplus="0.052">0.086</eccentricity>
+      <timeofpericentre errorminus="3.3" errorplus="3.3">2449989.3385</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron errorminus="29.0" errorplus="29.0">77.9</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2014/06/04</lastupdate>
+    </planet>
+    <planet>
+      <name>55 Cnc f</name>
+      <massearths errorminus="0.08" errorplus="0.08">None</massearths>
+      <massjupiters errorminus="0.04" errorplus="0.04">0.144</massjupiters>
+      <period errorminus="1.1" errorplus="1.1">260.0</period>
+      <semimajoraxis errorminus="0.007" errorplus="0.007">0.781</semimajoraxis>
+      <eccentricity errorminus="0.2" errorplus="0.2">0.2</eccentricity>
+      <timeofpericentre errorminus="1.1" errorplus="1.1">2450080.9108</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron errorminus="60.0" errorplus="60.0">181.1</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2014/06/04</lastupdate>
+    </planet>
+    <planet>
+      <name>55 Cnc d</name>
+      <massearths errorminus="0.008" errorplus="0.008">None</massearths>
+      <massjupiters errorminus="0.08" errorplus="0.08">3.835</massjupiters>
+      <period errorminus="230.0" errorplus="230.0">5218.0</period>
+      <semimajoraxis errorminus="0.11" errorplus="0.11">5.77</semimajoraxis>
+      <eccentricity errorminus="0.03" errorplus="0.03">0.025</eccentricity>
+      <timeofpericentre errorminus="230.0" errorplus="230.0">2452500.6</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron errorminus="32.0" errorplus="32.0">181.3</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2014/06/04</lastupdate>
+    </planet>
+  </star>
+  <resonance>
+    <p p="3">c</p>
+    <q q="1">b</q>
+    <literature>
+      <title>Five Planets Orbiting 55 Cancri</title>
+      <authors>Fisher et al. (2008)</authors>
+      <link>http://adsabs.harvard.edu/abs/2008ApJ...675..790F</link>
+      <publisher>The Astrophysical Journal, Volume 675, Issue 1, pp. 790-801</publisher>
+    </literature>
+  </resonance>
+</system>

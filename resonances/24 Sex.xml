@@ -1,0 +1,56 @@
+<system>
+  <name>24 Sex</name>
+  <distance>74.8</distance>
+  <star>
+    <mass>1.54</mass>
+    <metallicity>-0.03</metallicity>
+    <age>2.7</age>
+    <temperature>5098.0</temperature>
+    <planet>
+      <name>24 Sex b</name>
+      <massearths errorminus="0.38" errorplus="0.26">None</massearths>
+      <massjupiters>1.99</massjupiters>
+      <period errorminus="4.5" errorplus="2.1">452.8</period>
+      <semimajoraxis errorminus="0.009" errorplus="0.004">1.333</semimajoraxis>
+      <eccentricity errorminus="0.06" errorplus="0.14">0.09</eccentricity>
+      <timeofpericentre errorminus="30.0" errorplus="30.0">2454758.0</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron errorminus="20.0" errorplus="20.0">227.0</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2014/06/04</lastupdate>
+    </planet>
+    <planet>
+      <name>24 Sex c</name>
+      <massearths errorminus="0.22" errorplus="0.35">None</massearths>
+      <massjupiters>0.86</massjupiters>
+      <period errorminus="14.0" errorplus="32.0">883.0</period>
+      <semimajoraxis errorminus="0.02" errorplus="0.05">2.08</semimajoraxis>
+      <eccentricity errorminus="0.06" errorplus="0.16">0.29</eccentricity>
+      <timeofpericentre errorminus="30.0" errorplus="30.0">2454941.0</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron errorminus="9.0" errorplus="9.0">172.0</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2014/06/04</lastupdate>
+    </planet>
+  </star>
+  <resonance>
+    <p p="2">c</p>
+    <q q="1">b</q>
+    <literature>
+      <title>Retired A Stars and Their Companions VI. A Pair of Interacting Exoplanet Pairs Around the Subgiants 24 Sextanis and HD200964</title>
+      <authors>Johnson et al. (2011)</authors>
+      <link>http://adsabs.harvard.edu/abs/2011AJ....141...16J</link>
+      <publisher>The Astronomical Journal, Volume 141, Issue 1, article id. 16, 10 pp. (2011)</publisher>
+    </literature>
+    <literature>
+      <title>Resonances Required: Dynamical Analysis of the 24 Sex and HD 200964 Planetary Systems</title>
+      <authors>Wittenmyer et al. (2012)</authors>
+      <link>http://adsabs.harvard.edu/abs/2012ApJ...761..165W</link>
+      <publisher>The Astrophysical Journal, Volume 761, Issue 2, article id. 165, 6 pp. (2012)</publisher>
+    </literature>
+  </resonance>
+</system>

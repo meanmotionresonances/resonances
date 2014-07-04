@@ -1,0 +1,56 @@
+<system>
+  <name>GJ 317</name>
+  <distance>None</distance>
+  <star>
+    <mass>0.42</mass>
+    <metallicity>0.36</metallicity>
+    <age>0.0</age>
+    <temperature>3510.0</temperature>
+    <planet>
+      <name>GJ 317 b</name>
+      <massearths>None</massearths>
+      <massjupiters>1.2</massjupiters>
+      <period errorminus="4.0" errorplus="4.0">692.9</period>
+      <semimajoraxis>0.95</semimajoraxis>
+      <eccentricity errorminus="0.06" errorplus="0.06">0.193</eccentricity>
+      <timeofpericentre errorminus="30.0" errorplus="30.0">2451639.0</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron errorminus="10.0" errorplus="10.0">344.0</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2012/11/14</lastupdate>
+    </planet>
+    <planet>
+      <name>GJ 317 c</name>
+      <massearths>None</massearths>
+      <massjupiters>0.83</massjupiters>
+      <period>2700.0</period>
+      <semimajoraxis>2.5</semimajoraxis>
+      <eccentricity>0.42</eccentricity>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <epoch/>
+      <status>U</status>
+      <lastupdate>2014/06/04</lastupdate>
+    </planet>
+  </star>
+  <resonance>
+    <p p="4">c</p>
+    <q q="1">b</q>
+    <literature>
+      <title>A New Planet Around an M Dwarf: Revealing a Correlation Between Exoplanets and Stellar Mass</title>
+      <authors>Johnson et al. (2007)</authors>
+      <link>http://adsabs.harvard.edu/abs/2007ApJ...670..833J</link>
+      <publisher>The Astrophysical Journal, Volume 670, Issue 1, pp. 833-840.</publisher>
+    </literature>
+    <literature>
+      <title>Extrasolar Planet Interactions</title>
+      <authors>Barnes and Greenberg (2008)</authors>
+      <link>http://adsabs.harvard.edu/abs/2008arXiv0801.3226B</link>
+      <publisher>To appear in the proceedings of IAU Symposium 249: Exoplanets: Detection, Formation and Dynamics, held in Suzhou, China, Oct 22-26 2007</publisher>
+    </literature>
+  </resonance>
+</system>

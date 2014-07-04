@@ -1,0 +1,66 @@
+<system>
+  <name>HD 204313</name>
+  <distance>47.0</distance>
+  <star>
+    <mass>1.02</mass>
+    <metallicity>0.24</metallicity>
+    <age>7.2</age>
+    <temperature>5760.0</temperature>
+    <planet>
+      <name>HD 204313 c</name>
+      <massearths errorminus="-0.00538" errorplus="0.00538">None</massearths>
+      <massjupiters>0.0535</massjupiters>
+      <period errorminus="0.039" errorplus="0.039">35.0</period>
+      <semimajoraxis errorminus="0.0035" errorplus="0.0035">0.21</semimajoraxis>
+      <eccentricity errorplus="0.09">None</eccentricity>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <epoch/>
+      <status>U</status>
+      <lastupdate>2014/06/06</lastupdate>
+    </planet>
+    <planet>
+      <name>HD 204313 b</name>
+      <massearths errorminus="0.2" errorplus="0.2">None</massearths>
+      <massjupiters errorminus="0.2" errorplus="0.2">3.55</massjupiters>
+      <period errorminus="25.0" errorplus="25.0">1920.1</period>
+      <semimajoraxis errorminus="0.06" errorplus="0.06">3.04</semimajoraxis>
+      <eccentricity errorminus="0.04" errorplus="0.04">0.23</eccentricity>
+      <timeofpericentre errorminus="28.0" errorplus="28.0">2452111.6</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron errorminus="6.0" errorplus="6.0">298.0</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2014/06/06</lastupdate>
+    </planet>
+    <planet>
+      <name>HD 204313 d</name>
+      <massearths errorminus="0.3" errorplus="0.3">None</massearths>
+      <massjupiters errorminus="0.3" errorplus="0.3">1.68</massjupiters>
+      <period errorminus="150.0" errorplus="150.0">2831.6</period>
+      <semimajoraxis errorminus="0.14" errorplus="0.14">3.93</semimajoraxis>
+      <eccentricity errorminus="0.09" errorplus="0.09">0.28</eccentricity>
+      <timeofpericentre errorminus="176.0" errorplus="176.0">2456376.9</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron errorminus="16.0" errorplus="16.0">247.0</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2014/06/06</lastupdate>
+    </planet>
+  </star>
+  <resonance>
+    <p p="3">d</p>
+    <q q="2">b</q>
+    <literature>
+      <title>A Second Giant Planet in 3:2 Mean-Motion Resonance in the HD 204313 System</title>
+      <authors>
+Robertson, Paul et al.</authors>
+      <link>http://adsabs.harvard.edu/abs/2012ApJ...754...50R</link>
+      <publisher>The Astrophysical Journal, Volume 754, Issue 1, article id. 50 (2012)</publisher>
+    </literature>
+  </resonance>
+</system>

@@ -1,0 +1,65 @@
+<system>
+  <name>PSR 1257+12</name>
+  <distance>None</distance>
+  <star>
+    <mass>-1.0</mass>
+    <metallicity>0.0</metallicity>
+    <age>1.0</age>
+    <temperature>0.0</temperature>
+    <planet>
+      <name>PSR 1257+12 A</name>
+      <massearths errorminus="0.002" errorplus="0.002">0.02</massearths>
+      <massjupiters>None</massjupiters>
+      <period errorminus="0.003" errorplus="0.003">25.262</period>
+      <semimajoraxis>0.19</semimajoraxis>
+      <eccentricity>0.0</eccentricity>
+      <timeofpericentre errorminus="0.2" errorplus="0.2">2449765.6</timeofpericentre>
+      <ascendingnode>0.0</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>0.0</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2014/06/12</lastupdate>
+    </planet>
+    <planet>
+      <name>PSR 1257+12 B</name>
+      <massearths errorminus="0.2" errorplus="0.2">4.3</massearths>
+      <massjupiters>None</massjupiters>
+      <period errorminus="0.0001" errorplus="0.0001">66.5419</period>
+      <semimajoraxis>0.36</semimajoraxis>
+      <eccentricity errorminus="0.0002" errorplus="0.0002">0.0186</eccentricity>
+      <timeofpericentre errorminus="0.1" errorplus="0.1">2449768.6</timeofpericentre>
+      <ascendingnode>0.0</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron errorminus="0.6" errorplus="0.6">250.4</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2014/06/12</lastupdate>
+    </planet>
+    <planet>
+      <name>PSR 1257+12 C</name>
+      <massearths errorminus="0.2" errorplus="0.2">3.9</massearths>
+      <massjupiters>None</massjupiters>
+      <period errorminus="0.0002" errorplus="0.0002">98.2114</period>
+      <semimajoraxis>0.46</semimajoraxis>
+      <eccentricity errorminus="0.0002" errorplus="0.0002">0.0252</eccentricity>
+      <timeofpericentre errorminus="0.1" errorplus="0.1">2449767.0</timeofpericentre>
+      <ascendingnode>3.26</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron errorminus="0.5" errorplus="0.5">108.3</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2014/06/12</lastupdate>
+    </planet>
+  </star>
+  <resonance>
+    <p p="3">C</p>
+    <q q="2">B</q>
+    <literature>
+      <title>Discovery of pulsar planets</title>
+      <authors>Wolszczan, Alex</authors>
+      <link>http://adsabs.harvard.edu/abs/2012NewAR..56....2W</link>
+      <publisher>New Astronomy Reviews, Volume 56, Issue 1, p. 2-8.</publisher>
+    </literature>
+  </resonance>
+</system>

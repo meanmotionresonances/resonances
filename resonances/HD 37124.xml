@@ -1,0 +1,65 @@
+<system>
+  <name>HD 37124</name>
+  <distance>None</distance>
+  <star>
+    <mass>0.83</mass>
+    <metallicity>-0.442</metallicity>
+    <age>3.33</age>
+    <temperature>5610.0</temperature>
+    <planet>
+      <name>HD 37124 b</name>
+      <massearths errorminus="0.017" errorplus="0.017">None</massearths>
+      <massjupiters errorminus="0.017" errorplus="0.017">0.675</massjupiters>
+      <period errorminus="0.089" errorplus="0.089">154.378</period>
+      <semimajoraxis errorminus="0.0002" errorplus="0.0002">0.53364</semimajoraxis>
+      <eccentricity errorminus="0.028" errorplus="0.028">0.054</eccentricity>
+      <timeofpericentre errorminus="11.0" errorplus="11.0">2450305.0</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>130.0</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2012/11/14</lastupdate>
+    </planet>
+    <planet>
+      <name>HD 37124 c</name>
+      <massearths errorminus="0.052" errorplus="0.052">None</massearths>
+      <massjupiters errorminus="0.052" errorplus="0.052">0.652</massjupiters>
+      <period errorminus="5.1" errorplus="5.1">885.5</period>
+      <semimajoraxis errorminus="0.0065" errorplus="0.0065">1.71</semimajoraxis>
+      <eccentricity errorminus="0.055" errorplus="0.055">0.125</eccentricity>
+      <timeofpericentre errorminus="11.0" errorplus="11.0">2449534.0</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron errorminus="17.0" errorplus="17.0">53.0</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2012/11/14</lastupdate>
+    </planet>
+    <planet>
+      <name>HD 37124 d</name>
+      <massearths errorminus="0.059" errorplus="0.059">None</massearths>
+      <massjupiters errorminus="0.059" errorplus="0.059">0.696</massjupiters>
+      <period errorminus="38.0" errorplus="38.0">1862.0</period>
+      <semimajoraxis errorminus="0.038" errorplus="0.038">2.807</semimajoraxis>
+      <eccentricity errorminus="0.14" errorplus="0.14">0.16</eccentricity>
+      <timeofpericentre errorminus="11.0" errorplus="11.0">2448558.0</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>0.0</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2012/11/14</lastupdate>
+    </planet>
+  </star>
+  <resonance>
+    <p p="2">d</p>
+    <q q="1">c</q>
+    <literature>
+      <title>The California Planet Survey III. A Possible 2:1 Resonance in the Exoplanetary Triple System HD 37124</title>
+      <authors>Wright et al. (2011)</authors>
+      <link>http://adsabs.harvard.edu/abs/2011ApJ...730...93W</link>
+      <publisher>The Astrophysical Journal, Volume 730, Issue 2, article id. 93, 9 pp. (2011)</publisher>
+    </literature>
+  </resonance>
+</system>

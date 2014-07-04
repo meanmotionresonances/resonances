@@ -1,0 +1,65 @@
+<system>
+  <name>HD 181433</name>
+  <distance>None</distance>
+  <star>
+    <mass>0.78</mass>
+    <metallicity>0.33</metallicity>
+    <age>0.0</age>
+    <temperature>4962.0</temperature>
+    <planet>
+      <name>HD 181433 b</name>
+      <massearths>None</massearths>
+      <massjupiters>0.02335</massjupiters>
+      <period>9.37459</period>
+      <semimajoraxis>0.08013</semimajoraxis>
+      <eccentricity>0.3884</eccentricity>
+      <timeofpericentre>2452788.9185</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>202.039</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2012/11/14</lastupdate>
+    </planet>
+    <planet>
+      <name>HD 181433 c</name>
+      <massearths>None</massearths>
+      <massjupiters>0.65282</massjupiters>
+      <period>975.41</period>
+      <semimajoraxis>1.7731</semimajoraxis>
+      <eccentricity>0.26912</eccentricity>
+      <timeofpericentre>2452255.6235</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>22.221</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2012/11/14</lastupdate>
+    </planet>
+    <planet>
+      <name>HD 181433 d</name>
+      <massearths>None</massearths>
+      <massjupiters>0.52514</massjupiters>
+      <period>2468.46</period>
+      <semimajoraxis>3.29347</semimajoraxis>
+      <eccentricity>0.46626</eccentricity>
+      <timeofpericentre>2451844.4714</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>319.129</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2012/11/14</lastupdate>
+    </planet>
+  </star>
+  <resonance>
+    <p p="5">d</p>
+    <q q="2">c</q>
+    <literature>
+      <title>Treating dynamical stability as an observable: a 5:2 MMR configuration for the extrasolar system HD 181433</title>
+      <authors>Campanella (2011)</authors>
+      <link>http://adsabs.harvard.edu/abs/2011MNRAS.418.1028C</link>
+      <publisher>Monthly Notices of the Royal Astronomical Society, Volume 418, Issue 2, pp. 1028-1038</publisher>
+    </literature>
+  </resonance>
+</system>

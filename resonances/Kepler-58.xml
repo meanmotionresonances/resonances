@@ -1,0 +1,50 @@
+<system>
+  <name>Kepler-58</name>
+  <distance>None</distance>
+  <star>
+    <mass>None</mass>
+    <metallicity>None</metallicity>
+    <age>None</age>
+    <temperature>None</temperature>
+    <planet>
+      <name>Kepler-58 b</name>
+      <massearths>None</massearths>
+      <massjupiters errorminus="8.1" errorplus="8.1">27.4</massjupiters>
+      <period errorminus="0.00015" errorplus="0.00015">10.2184954</period>
+      <semimajoraxis>None</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2014/06/10</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-58 c</name>
+      <massearths>None</massearths>
+      <massjupiters errorminus="12.0" errorplus="12.0">41.0</massjupiters>
+      <period errorminus="0.00027" errorplus="0.00027">15.5741568</period>
+      <semimajoraxis>None</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2014/06/10</lastupdate>
+    </planet>
+  </star>
+  <resonance>
+    <p p="3">c</p>
+    <q q="2">b</q>
+    <literature>
+      <title>Transit Timing Observations from Kepler: VII. Conﬁrmation of 27 planets in 13 multiplanet systems via Transit Timing Variations and orbital stability</title>
+      <authors>Steffen J H et al. (2012)</authors>
+      <link>http://adsabs.harvard.edu/abs/2013MNRAS.428.1077S</link>
+      <publisher>Monthly Notices of the Royal Astronomical Society, Volume 428, Issue 2, p.1077-1087</publisher>
+    </literature>
+  </resonance>
+</system>

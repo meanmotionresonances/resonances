@@ -1,0 +1,71 @@
+<system>
+  <name>Kepler-46</name>
+  <distance>None</distance>
+  <star>
+    <mass>0.0</mass>
+    <metallicity>0.0</metallicity>
+    <age>0.0</age>
+    <temperature>0.0</temperature>
+    <planet>
+      <name>Kepler-46 03</name>
+      <massearths>None</massearths>
+      <massjupiters>None</massjupiters>
+      <period>None</period>
+      <semimajoraxis errorminus="0.0035" errorplus="0.0035">0.0679</semimajoraxis>
+      <eccentricity>0.0</eccentricity>
+      <timeofpericentre errorminus="0.0031" errorplus="0.0032">2455255.2603</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <epoch/>
+      <status>U</status>
+      <lastupdate>2014/06/08</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-46 b</name>
+      <massearths>None</massearths>
+      <massjupiters>6.0</massjupiters>
+      <period errorminus="0.00021" errorplus="0.0002">33.60134</period>
+      <semimajoraxis errorminus="0.0028" errorplus="0.0029">0.1968</semimajoraxis>
+      <eccentricity errorminus="0.01" errorplus="0.01">0.01</eccentricity>
+      <timeofpericentre errorminus="0.0014" errorplus="0.0013">2455053.2826</timeofpericentre>
+      <ascendingnode>270.0</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2013/07/14</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-46 c</name>
+      <massearths>None</massearths>
+      <massjupiters errorminus="0.019" errorplus="0.021">0.376</massjupiters>
+      <period errorminus="0.061" errorplus="0.051">57.011</period>
+      <semimajoraxis errorminus="0.004" errorplus="0.0041">0.2799</semimajoraxis>
+      <eccentricity errorminus="0.0036" errorplus="0.0034">0.0146</eccentricity>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode errorminus="36.0" errorplus="37.0">298.0</ascendingnode>
+      <periastron errorminus="9.2" errorplus="11.6">330.0</periastron>
+      <argumentofperiastron>32.0</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2013/07/14</lastupdate>
+    </planet>
+  </star>
+  <resonance>
+    <p p="5">c</p>
+    <q q="3">b</q>
+    <literature>
+      <title>The Detection and Characterization of a Nontransiting Planet by Transit Timing Variations</title>
+      <authors>Nesvorný, David; Kipping, David M.; Buchhave, Lars A.; Bakos, Gáspár Á.; Hartman, Joel; Schmitt, Allan R.</authors>
+      <link>http://adsabs.harvard.edu/abs/2012Sci...336.1133N</link>
+      <publisher>Science, Volume 336, Issue 6085, pp. 1133- (2012)</publisher>
+    </literature>
+    <literature>
+      <title>Disk-Planets Interactions and the Diversity of Period Ratios in Kepler's Multi-planetary Systems</title>
+      <authors>Clement Baruteau, John C. B. Papaloizou</authors>
+      <link>http://adsabs.harvard.edu/abs/2013ApJ...778....7B</link>
+      <publisher>The Astrophysical Journal, Volume 778, Issue 1, article id. 7, 15 pp. (2013)</publisher>
+    </literature>
+  </resonance>
+</system>
