@@ -8,6 +8,7 @@
     <temperature>5098.0</temperature>
     <planet>
       <name>24 Sex b</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters errorminus="0.2" errorplus="0.2">1.99</massjupiters>
       <period errorminus="4.5" errorplus="2.1">452.8</period>
@@ -23,6 +24,7 @@
     </planet>
     <planet>
       <name>24 Sex c</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters errorminus="0.2" errorplus="0.2">0.86</massjupiters>
       <period errorminus="14.0" errorplus="32.0">883.0</period>

@@ -8,6 +8,7 @@
     <temperature>None</temperature>
     <planet>
       <name>Kepler-54 b</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters>0.92</massjupiters>
       <period errorminus="6.9e-05" errorplus="6.9e-05">8.0109434</period>
@@ -23,6 +24,7 @@
     </planet>
     <planet>
       <name>Kepler-54 c</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters>0.37</massjupiters>
       <period errorminus="0.00029" errorplus="0.00029">12.0717249</period>
@@ -38,6 +40,7 @@
     </planet>
     <planet>
       <name>Kepler-54 03</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters>None</massjupiters>
       <period errorminus="0.00058" errorplus="0.00058">20.9954014</period>

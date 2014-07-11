@@ -8,6 +8,7 @@
     <temperature>6079.0</temperature>
     <planet>
       <name>HD 17156 b</name>
+      <coordinates/>
       <massearths errorminus="0.02" errorplus="0.02">None</massearths>
       <massjupiters>3.125</massjupiters>
       <period errorminus="0.0025" errorplus="0.0031">21.2144</period>
@@ -23,6 +24,7 @@
     </planet>
     <planet>
       <name>HD 17156 c</name>
+      <coordinates/>
       <massearths errorminus="0.019" errorplus="0.021">None</massearths>
       <massjupiters>0.068</massjupiters>
       <period errorminus="0.09" errorplus="0.43">111.3937</period>

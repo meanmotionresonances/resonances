@@ -8,6 +8,7 @@
     <temperature>0.0</temperature>
     <planet>
       <name>PSR 1257+12 A</name>
+      <coordinates/>
       <massearths errorminus="0.002" errorplus="0.002">0.02</massearths>
       <massjupiters>None</massjupiters>
       <period errorminus="0.003" errorplus="0.003">25.262</period>
@@ -23,6 +24,7 @@
     </planet>
     <planet>
       <name>PSR 1257+12 B</name>
+      <coordinates/>
       <massearths errorminus="0.2" errorplus="0.2">4.3</massearths>
       <massjupiters>None</massjupiters>
       <period errorminus="0.0001" errorplus="0.0001">66.5419</period>
@@ -38,6 +40,7 @@
     </planet>
     <planet>
       <name>PSR 1257+12 C</name>
+      <coordinates/>
       <massearths errorminus="0.2" errorplus="0.2">3.9</massearths>
       <massjupiters>None</massjupiters>
       <period errorminus="0.0002" errorplus="0.0002">98.2114</period>

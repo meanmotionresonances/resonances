@@ -8,6 +8,7 @@
     <temperature>5513.0</temperature>
     <planet>
       <name>KOI-142 b</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters>0.06</massjupiters>
       <period errorminus="0.00143" errorplus="6.4e-05">10.954204</period>
@@ -23,6 +24,7 @@
     </planet>
     <planet>
       <name>KOI-142 c</name>
+      <coordinates/>
       <massearths errorminus="0.013" errorplus="0.02">None</massearths>
       <massjupiters>0.68</massjupiters>
       <period errorminus="0.0031" errorplus="0.0036">22.3383</period>

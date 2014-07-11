@@ -8,6 +8,7 @@
     <temperature>5874.0</temperature>
     <planet>
       <name>HD 82943 c</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters errorminus="0.04" errorplus="0.04">3.559</massjupiters>
       <period errorminus="0.033" errorplus="0.033">220.158</period>
@@ -23,6 +24,7 @@
     </planet>
     <planet>
       <name>HD 82943 b</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters errorminus="0.048" errorplus="0.048">3.529</massjupiters>
       <period errorminus="0.1" errorplus="0.1">439.16</period>
@@ -38,6 +40,7 @@
     </planet>
     <planet>
       <name>HD 82943 d</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters errorminus="0.07" errorplus="0.07">0.653</massjupiters>
       <period errorminus="13.0" errorplus="13.0">1075.0</period>

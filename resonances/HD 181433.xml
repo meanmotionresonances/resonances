@@ -8,6 +8,7 @@
     <temperature>4962.0</temperature>
     <planet>
       <name>HD 181433 b</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters>0.02335</massjupiters>
       <period>9.37459</period>
@@ -23,6 +24,7 @@
     </planet>
     <planet>
       <name>HD 181433 c</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters>0.65282</massjupiters>
       <period>975.41</period>
@@ -38,6 +40,7 @@
     </planet>
     <planet>
       <name>HD 181433 d</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters>0.52514</massjupiters>
       <period>2468.46</period>

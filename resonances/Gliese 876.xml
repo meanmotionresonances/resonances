@@ -8,6 +8,7 @@
     <temperature>3350.0</temperature>
     <planet>
       <name>Gliese 876 d</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters>0.0218</massjupiters>
       <period errorminus="1.8e-05" errorplus="1.8e-05">1.937886</period>
@@ -23,6 +24,7 @@
     </planet>
     <planet>
       <name>Gliese 876 c</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters>0.747</massjupiters>
       <period errorminus="0.0063" errorplus="0.0063">30.1829</period>
@@ -38,6 +40,7 @@
     </planet>
     <planet>
       <name>Gliese 876 b</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters>2.377</massjupiters>
       <period errorminus="0.0068" errorplus="0.0068">60.9904</period>
@@ -53,6 +56,7 @@
     </planet>
     <planet>
       <name>Gliese 876 e</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters>0.0482</massjupiters>
       <period errorminus="0.52" errorplus="0.52">124.51</period>

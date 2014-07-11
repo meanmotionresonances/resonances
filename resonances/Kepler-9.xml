@@ -8,6 +8,7 @@
     <temperature>5722.0</temperature>
     <planet>
       <name>Kepler-9 03</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters>None</massjupiters>
       <period errorminus="4.5e-05">1.5925</period>
@@ -23,6 +24,7 @@
     </planet>
     <planet>
       <name>Kepler-9 b</name>
+      <coordinates/>
       <massearths errorminus="0.013" errorplus="0.013">None</massearths>
       <massjupiters errorminus="0.013" errorplus="0.013">0.252</massjupiters>
       <period errorminus="9.8e-05" errorplus="9.8e-05">19.243159</period>
@@ -38,6 +40,7 @@
     </planet>
     <planet>
       <name>Kepler-9 c</name>
+      <coordinates/>
       <massearths errorminus="0.013" errorplus="0.013">None</massearths>
       <massjupiters errorminus="0.013" errorplus="0.013">0.171</massjupiters>
       <period errorminus="-0.000738" errorplus="0.000738">38.90861</period>

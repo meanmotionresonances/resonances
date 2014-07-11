@@ -8,6 +8,7 @@
     <temperature>3510.0</temperature>
     <planet>
       <name>GJ 317 b</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters>1.2</massjupiters>
       <period errorminus="4.0" errorplus="4.0">692.9</period>
@@ -23,6 +24,7 @@
     </planet>
     <planet>
       <name>GJ 317 c</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters>0.83</massjupiters>
       <period>2700.0</period>

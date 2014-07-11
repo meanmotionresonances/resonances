@@ -8,6 +8,7 @@
     <temperature>6095.0</temperature>
     <planet>
       <name>HD 60532 b</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters>3.1548</massjupiters>
       <period errorminus="0.14" errorplus="0.14">201.83</period>
@@ -23,6 +24,7 @@
     </planet>
     <planet>
       <name>HD 60532 c</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters>7.4634</massjupiters>
       <period errorminus="2.07" errorplus="2.07">607.06</period>

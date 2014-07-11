@@ -8,6 +8,7 @@
     <temperature>0.0</temperature>
     <planet>
       <name>HD 40307 b</name>
+      <coordinates/>
       <massearths errorminus="0.7" errorplus="0.8">4.0</massearths>
       <massjupiters>None</massjupiters>
       <period errorminus="0.0012" errorplus="0.0011">4.3123</period>
@@ -23,6 +24,7 @@
     </planet>
     <planet>
       <name>HD 40307 c</name>
+      <coordinates/>
       <massearths errorminus="1.0" errorplus="1.1">6.6</massearths>
       <massjupiters>None</massjupiters>
       <period errorminus="-0.005" errorplus="-0.0049">9.6184</period>
@@ -38,6 +40,7 @@
     </planet>
     <planet>
       <name>HD 40307 d</name>
+      <coordinates/>
       <massearths errorminus="1.5" errorplus="1.7">9.5</massearths>
       <massjupiters>None</massjupiters>
       <period errorminus="0.024" errorplus="0.022">20.432</period>
@@ -53,6 +56,7 @@
     </planet>
     <planet>
       <name>HD 40307 e</name>
+      <coordinates/>
       <massearths errorminus="1.4" errorplus="1.4">3.5</massearths>
       <massjupiters>None</massjupiters>
       <period errorminus="0.2" errorplus="0.21">34.62</period>
@@ -68,6 +72,7 @@
     </planet>
     <planet>
       <name>HD 40307 f</name>
+      <coordinates/>
       <massearths errorminus="1.6" errorplus="1.5">5.2</massearths>
       <massjupiters>None</massjupiters>
       <period errorminus="0.46" errorplus="0.5">51.76</period>
@@ -83,6 +88,7 @@
     </planet>
     <planet>
       <name>HD 40307 g</name>
+      <coordinates/>
       <massearths errorminus="2.6" errorplus="2.6">7.1</massearths>
       <massjupiters>None</massjupiters>
       <period errorminus="9.0" errorplus="5.7">197.8</period>

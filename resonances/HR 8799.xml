@@ -7,22 +7,8 @@
     <age>0.06</age>
     <temperature>0.0</temperature>
     <planet>
-      <name>HR 8799 c</name>
-      <massearths>None</massearths>
-      <massjupiters errorminus="3.0" errorplus="3.0">9.0</massjupiters>
-      <period>None</period>
-      <semimajoraxis errorminus="0.3" errorplus="0.3">39.4</semimajoraxis>
-      <eccentricity errorminus="0.02" errorplus="0.02">0.05</eccentricity>
-      <timeofpericentre>None</timeofpericentre>
-      <ascendingnode errorminus="3.0" errorplus="3.0">244.0</ascendingnode>
-      <periastron errorminus="6.0" errorplus="6.0">151.0</periastron>
-      <argumentofperiastron>None</argumentofperiastron>
-      <epoch/>
-      <status>C</status>
-      <lastupdate>2014/03/19</lastupdate>
-    </planet>
-    <planet>
       <name>HR 8799 e</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters errorminus="2.0" errorplus="2.0">9.0</massjupiters>
       <period>None</period>
@@ -37,22 +23,8 @@
       <lastupdate>2014/03/19</lastupdate>
     </planet>
     <planet>
-      <name>HR 8799 b</name>
-      <massearths>None</massearths>
-      <massjupiters errorminus="2.0" errorplus="2.0">7.0</massjupiters>
-      <period>None</period>
-      <semimajoraxis errorminus="0.2" errorplus="0.2">69.1</semimajoraxis>
-      <eccentricity errorminus="0.003" errorplus="0.003">0.02</eccentricity>
-      <timeofpericentre>None</timeofpericentre>
-      <ascendingnode>None</ascendingnode>
-      <periastron errorminus="10.0" errorplus="10.0">95.0</periastron>
-      <argumentofperiastron>None</argumentofperiastron>
-      <epoch/>
-      <status>C</status>
-      <lastupdate>2014/03/19</lastupdate>
-    </planet>
-    <planet>
       <name>HR 8799 d</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters errorminus="3.0" errorplus="3.0">9.0</massjupiters>
       <period>None</period>
@@ -66,7 +38,55 @@
       <status>C</status>
       <lastupdate>2014/03/19</lastupdate>
     </planet>
+    <planet>
+      <name>HR 8799 c</name>
+      <coordinates/>
+      <massearths>None</massearths>
+      <massjupiters errorminus="3.0" errorplus="3.0">9.0</massjupiters>
+      <period>None</period>
+      <semimajoraxis errorminus="0.3" errorplus="0.3">39.4</semimajoraxis>
+      <eccentricity errorminus="0.02" errorplus="0.02">0.05</eccentricity>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode errorminus="3.0" errorplus="3.0">244.0</ascendingnode>
+      <periastron errorminus="6.0" errorplus="6.0">151.0</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2014/03/19</lastupdate>
+    </planet>
+    <planet>
+      <name>HR 8799 b</name>
+      <coordinates/>
+      <massearths>None</massearths>
+      <massjupiters errorminus="2.0" errorplus="2.0">7.0</massjupiters>
+      <period>None</period>
+      <semimajoraxis errorminus="0.2" errorplus="0.2">69.1</semimajoraxis>
+      <eccentricity errorminus="0.003" errorplus="0.003">0.02</eccentricity>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron errorminus="10.0" errorplus="10.0">95.0</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2014/03/19</lastupdate>
+    </planet>
   </star>
+  <resonance>
+    <p p="2">d</p>
+    <q q="1">e</q>
+    <literature>
+      <title>Multiple mean motion resonances in the HR 8799 planetary system</title>
+      <authors>Gozdziewski, Krzysztof; Migaszewski, Cezary</authors>
+      <link>http://adsabs.harvard.edu/abs/2013arXiv1308.6462G</link>
+      <publisher>Monthly Notices of the Royal Astronomical Society, Volume 440, Issue 4, p.3140-3171</publisher>
+    </literature>
+    <literature>
+      <title>High-Mass, Four-Planet Models for HR 8799: Constraining the Orbital Inclination and Age of the System</title>
+      <authors>Sudol, Jeffrey J.; Haghighipour, Nader</authors>
+      <link>http://adsabs.harvard.edu/abs/2012ApJ...755...38S</link>
+      <publisher>The Astrophysical Journal, Volume 755, Issue 1, article id. 38, 9 pp. (2012)</publisher>
+    </literature>
+  </resonance>
   <resonance>
     <p p="2">c</p>
     <q q="1">d</q>
@@ -121,22 +141,6 @@
       <authors>Soummer, Rémi; Brendan Hagan, J.; Pueyo, Laurent; Thormann, Adrien; Rajan, Abhijith; Marois, Christian</authors>
       <link>http://adsabs.harvard.edu/abs/2011ApJ...741...55S</link>
       <publisher>The Astrophysical Journal, Volume 741, Issue 1, article id. 55, 16 pp. (2011)</publisher>
-    </literature>
-  </resonance>
-  <resonance>
-    <p p="2">d</p>
-    <q q="1">e</q>
-    <literature>
-      <title>Multiple mean motion resonances in the HR 8799 planetary system</title>
-      <authors>Gozdziewski, Krzysztof; Migaszewski, Cezary</authors>
-      <link>http://adsabs.harvard.edu/abs/2013arXiv1308.6462G</link>
-      <publisher>Monthly Notices of the Royal Astronomical Society, Volume 440, Issue 4, p.3140-3171</publisher>
-    </literature>
-    <literature>
-      <title>High-Mass, Four-Planet Models for HR 8799: Constraining the Orbital Inclination and Age of the System</title>
-      <authors>Sudol, Jeffrey J.; Haghighipour, Nader</authors>
-      <link>http://adsabs.harvard.edu/abs/2012ApJ...755...38S</link>
-      <publisher>The Astrophysical Journal, Volume 755, Issue 1, article id. 38, 9 pp. (2012)</publisher>
     </literature>
   </resonance>
 </system>

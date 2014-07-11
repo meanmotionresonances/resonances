@@ -8,6 +8,7 @@
     <temperature>4675.0</temperature>
     <planet>
       <name>WASP-10 b</name>
+      <coordinates/>
       <massearths errorminus="0.091" errorplus="0.022">None</massearths>
       <massjupiters errorminus="0.17" errorplus="0.22">2.96</massjupiters>
       <period errorminus="2.1e-05" errorplus="9.4e-06">3.0927636</period>
@@ -23,6 +24,7 @@
     </planet>
     <planet>
       <name>WASP-10 c</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters>0.1</massjupiters>
       <period>5.2293</period>

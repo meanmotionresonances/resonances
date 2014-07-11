@@ -8,6 +8,7 @@
     <temperature>5434.0</temperature>
     <planet>
       <name>HD 45364 b</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters>0.1872</massjupiters>
       <period errorminus="0.37" errorplus="0.37">226.93</period>
@@ -23,6 +24,7 @@
     </planet>
     <planet>
       <name>HD 45364 c</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters>0.6579</massjupiters>
       <period errorminus="0.28" errorplus="0.28">342.85</period>

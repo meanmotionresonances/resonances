@@ -8,6 +8,7 @@
     <temperature>0.0</temperature>
     <planet>
       <name>NN Ser d</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters errorminus="0.09" errorplus="0.09">1.74</massjupiters>
       <period errorminus="21.18" errorplus="21.18">2793.07</period>
@@ -23,6 +24,7 @@
     </planet>
     <planet>
       <name>NN Ser c</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters errorminus="0.12" errorplus="0.12">6.96</massjupiters>
       <period errorminus="9.86" errorplus="9.86">5654.8</period>

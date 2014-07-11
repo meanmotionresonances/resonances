@@ -8,6 +8,7 @@
     <temperature>5760.0</temperature>
     <planet>
       <name>HD 204313 c</name>
+      <coordinates/>
       <massearths errorminus="-0.00538" errorplus="0.00538">None</massearths>
       <massjupiters>0.0535</massjupiters>
       <period errorminus="0.039" errorplus="0.039">35.0</period>
@@ -23,6 +24,7 @@
     </planet>
     <planet>
       <name>HD 204313 b</name>
+      <coordinates/>
       <massearths errorminus="0.2" errorplus="0.2">None</massearths>
       <massjupiters errorminus="0.2" errorplus="0.2">3.55</massjupiters>
       <period errorminus="25.0" errorplus="25.0">1920.1</period>
@@ -38,6 +40,7 @@
     </planet>
     <planet>
       <name>HD 204313 d</name>
+      <coordinates/>
       <massearths errorminus="0.3" errorplus="0.3">None</massearths>
       <massjupiters errorminus="0.3" errorplus="0.3">1.68</massjupiters>
       <period errorminus="150.0" errorplus="150.0">2831.6</period>

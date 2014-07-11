@@ -1,0 +1,24 @@
+<system>
+	<name>KOI-2228</name>
+	<rightascension>19 33 40</rightascension>
+	<declination>+48 11 55</declination>
+	<distance>685.04</distance>
+	<star>
+		<name>KOI-2228</name>
+		<temperature errorminus="" errorplus="">6622.00</temperature>
+		<radius errorminus="" errorplus="">1.3480</radius>
+		<mass errorminus="" errorplus="">1.3730</mass>
+		<planet>
+			<name>KOI-2228 b</name>
+			<name>KOI-2228 01</name>
+			<radius>0.19137</radius>
+			<period errorminus="3.4000000e-03" errorplus="3.4000000e-03">102.656500000000</period>
+			<transittime errorminus="0.0110000" errorplus="0.0110000">2455056.2500000</transittime>
+			<semimajoraxis>0.4770000</semimajoraxis>
+			<temperature>491.0</temperature>
+			<list>Kepler Objects of Interest</list>
+			<description>This is a Kepler Object of Interest from the Q1-Q12 dataset. It has been flagged as a possible transit event but has not been confirmed to be a planet yet.</description>
+			<istransiting>1</istransiting>
+		</planet>
+	</star>
+</system>

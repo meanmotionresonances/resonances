@@ -8,6 +8,7 @@
     <temperature>5407.0</temperature>
     <planet>
       <name>HD 108874 b</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters>1.36</massjupiters>
       <period errorminus="2.5" errorplus="2.5">395.4</period>
@@ -23,6 +24,7 @@
     </planet>
     <planet>
       <name>HD 108874 c</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters>1.018</massjupiters>
       <period errorminus="88.0" errorplus="88.0">1605.8</period>

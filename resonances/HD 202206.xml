@@ -8,6 +8,7 @@
     <temperature>5750.0</temperature>
     <planet>
       <name>HD 202206 b</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters>16.59</massjupiters>
       <period errorminus="0.044" errorplus="0.044">256.389</period>
@@ -23,6 +24,7 @@
     </planet>
     <planet>
       <name>HD 202206 c</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters>2.179</massjupiters>
       <period errorminus="19.056" errorplus="19.056">1397.445</period>

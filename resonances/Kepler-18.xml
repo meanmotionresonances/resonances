@@ -8,6 +8,7 @@
     <temperature>5383.0</temperature>
     <planet>
       <name>Kepler-18 b</name>
+      <coordinates/>
       <massearths errorminus="3.4" errorplus="3.4">6.9</massearths>
       <massjupiters>None</massjupiters>
       <period errorminus="2.8e-05" errorplus="2.8e-05">3.504725</period>
@@ -23,6 +24,7 @@
     </planet>
     <planet>
       <name>Kepler-18 c</name>
+      <coordinates/>
       <massearths errorminus="1.9" errorplus="1.9">17.3</massearths>
       <massjupiters>None</massjupiters>
       <period errorminus="3e-05" errorplus="3e-05">7.64159</period>
@@ -38,6 +40,7 @@
     </planet>
     <planet>
       <name>Kepler-18 d</name>
+      <coordinates/>
       <massearths errorminus="1.4" errorplus="1.4">16.4</massearths>
       <massjupiters>None</massjupiters>
       <period errorminus="4e-05" errorplus="4e-05">14.85888</period>

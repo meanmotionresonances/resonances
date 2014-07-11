@@ -8,6 +8,7 @@
     <temperature>None</temperature>
     <planet>
       <name>Kepler-58 b</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters errorminus="8.1" errorplus="8.1">27.4</massjupiters>
       <period errorminus="0.00015" errorplus="0.00015">10.2184954</period>
@@ -23,6 +24,7 @@
     </planet>
     <planet>
       <name>Kepler-58 c</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters errorminus="12.0" errorplus="12.0">41.0</massjupiters>
       <period errorminus="0.00027" errorplus="0.00027">15.5741568</period>

@@ -8,6 +8,7 @@
     <temperature>5700.0</temperature>
     <planet>
       <name>HD 160691 (mu Ara) c</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters>0.03321</massjupiters>
       <period>9.6386</period>
@@ -23,6 +24,7 @@
     </planet>
     <planet>
       <name>HD 160691 (mu Ara) d</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters>0.5219</massjupiters>
       <period>310.55</period>
@@ -38,6 +40,7 @@
     </planet>
     <planet>
       <name>HD 160691 (mu Ara) b</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters>1.676</massjupiters>
       <period>643.25</period>
@@ -53,6 +56,7 @@
     </planet>
     <planet>
       <name>HD 160691 (mu Ara) e</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters>1.814</massjupiters>
       <period>4205.8</period>

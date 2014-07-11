@@ -8,6 +8,7 @@
     <temperature>None</temperature>
     <planet>
       <name>Kepler-49 03</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters>None</massjupiters>
       <period errorminus="0.00012" errorplus="0.00012">2.576555</period>
@@ -23,6 +24,7 @@
     </planet>
     <planet>
       <name>Kepler-49 b</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters>0.98</massjupiters>
       <period errorminus="2.2e-05" errorplus="2.2e-05">7.2037945</period>
@@ -38,6 +40,7 @@
     </planet>
     <planet>
       <name>Kepler-49 c</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters>0.72</massjupiters>
       <period errorminus="6.9e-05" errorplus="6.9e-05">10.9129343</period>
@@ -53,6 +56,7 @@
     </planet>
     <planet>
       <name>Kepler-49 04</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters>None</massjupiters>
       <period errorminus="0.00021" errorplus="0.00021">74.26167</period>

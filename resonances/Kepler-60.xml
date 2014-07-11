@@ -8,6 +8,7 @@
     <temperature>None</temperature>
     <planet>
       <name>Kepler-60 b</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters>0.25</massjupiters>
       <period errorminus="9.3e-05" errorplus="9.3e-05">7.1316185</period>
@@ -23,6 +24,7 @@
     </planet>
     <planet>
       <name>Kepler-60 c</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters>0.56</massjupiters>
       <period errorminus="0.00011" errorplus="0.00011">8.9193459</period>
@@ -38,6 +40,7 @@
     </planet>
     <planet>
       <name>Kepler-60 d</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters>0.68</massjupiters>
       <period errorminus="0.0002" errorplus="0.0002">11.9016171</period>

@@ -8,6 +8,7 @@
     <temperature>6212.0</temperature>
     <planet>
       <name>Upsilon And b</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters errorminus="0.0044" errorplus="0.0044">0.6876</massjupiters>
       <period errorminus="2.3e-05" errorplus="2.3e-05">4.617033</period>
@@ -23,6 +24,7 @@
     </planet>
     <planet>
       <name>Upsilon And d</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters errorminus="0.019" errorplus="0.019">1.981</massjupiters>
       <period errorminus="0.064" errorplus="0.064">241.258</period>
@@ -38,6 +40,7 @@
     </planet>
     <planet>
       <name>Upsilon And c</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters errorminus="0.029" errorplus="0.029">4.132</massjupiters>
       <period errorminus="0.57" errorplus="0.57">1276.46</period>
@@ -53,6 +56,7 @@
     </planet>
     <planet>
       <name>Upsilon And e</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters errorminus="0.028" errorplus="0.028">1.059</massjupiters>
       <period errorminus="0.74" errorplus="0.74">3848.86</period>

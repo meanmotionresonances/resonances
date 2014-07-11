@@ -8,6 +8,7 @@
     <temperature>4965.0</temperature>
     <planet>
       <name>HD 128311 b</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters>2.18</massjupiters>
       <period>458.6</period>
@@ -23,6 +24,7 @@
     </planet>
     <planet>
       <name>HD 128311 c</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters>3.21</massjupiters>
       <period>928.3</period>

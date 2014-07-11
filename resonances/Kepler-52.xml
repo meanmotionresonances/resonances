@@ -8,6 +8,7 @@
     <temperature>None</temperature>
     <planet>
       <name>Kepler-52 b</name>
+      <coordinates/>
       <massearths errorminus="46.0" errorplus="46.0">89.0</massearths>
       <massjupiters>None</massjupiters>
       <period errorminus="3.8e-05" errorplus="3.8e-05">7.8773565</period>
@@ -23,6 +24,7 @@
     </planet>
     <planet>
       <name>Kepler-52 c</name>
+      <coordinates/>
       <massearths errorminus="8.0" errorplus="8.0">37.4</massearths>
       <massjupiters>None</massjupiters>
       <period errorminus="0.00014" errorplus="0.00014">16.3850021</period>
@@ -38,6 +40,7 @@
     </planet>
     <planet>
       <name>Kepler-52 03</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters>None</massjupiters>
       <period errorminus="0.00049" errorplus="0.00049">36.4459076</period>

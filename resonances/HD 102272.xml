@@ -8,6 +8,7 @@
     <temperature>4908.0</temperature>
     <planet>
       <name>HD 102272 b</name>
+      <coordinates/>
       <massearths errorminus="0.2" errorplus="0.2">None</massearths>
       <massjupiters>5.9</massjupiters>
       <period errorminus="0.3" errorplus="0.3">127.58</period>
@@ -23,6 +24,7 @@
     </planet>
     <planet>
       <name>HD 102272 c</name>
+      <coordinates/>
       <massearths errorminus="0.4" errorplus="0.4">None</massearths>
       <massjupiters>2.6</massjupiters>
       <period errorminus="26.0" errorplus="26.0">520.0</period>

@@ -8,6 +8,7 @@
     <temperature>5680.0</temperature>
     <planet>
       <name>Kepler-11 b</name>
+      <coordinates/>
       <massearths errorminus="2.0" errorplus="2.2">4.3</massearths>
       <massjupiters>None</massjupiters>
       <period errorminus="0.00016" errorplus="0.00016">10.30375</period>
@@ -23,6 +24,7 @@
     </planet>
     <planet>
       <name>Kepler-11 c</name>
+      <coordinates/>
       <massearths errorminus="6.1" errorplus="4.8">13.5</massearths>
       <massjupiters>None</massjupiters>
       <period errorminus="8e-05" errorplus="8e-05">13.02502</period>
@@ -38,6 +40,7 @@
     </planet>
     <planet>
       <name>Kepler-11 d</name>
+      <coordinates/>
       <massearths errorminus="1.7" errorplus="3.1">6.1</massearths>
       <massjupiters>None</massjupiters>
       <period errorminus="0.00021" errorplus="0.00021">22.68719</period>
@@ -53,6 +56,7 @@
     </planet>
     <planet>
       <name>Kepler-11 e</name>
+      <coordinates/>
       <massearths errorminus="1.9" errorplus="2.5">8.4</massearths>
       <massjupiters>None</massjupiters>
       <period errorminus="0.00028" errorplus="0.00028">31.9959</period>
@@ -68,6 +72,7 @@
     </planet>
     <planet>
       <name>Kepler-11 f</name>
+      <coordinates/>
       <massearths errorminus="1.2" errorplus="2.2">2.3</massearths>
       <massjupiters>None</massjupiters>
       <period errorminus="0.00074" errorplus="0.00074">46.68876</period>
@@ -83,6 +88,7 @@
     </planet>
     <planet>
       <name>Kepler-11 g</name>
+      <coordinates/>
       <massearths>300.0</massearths>
       <massjupiters>None</massjupiters>
       <period errorminus="0.00112" errorplus="0.00112">118.37774</period>

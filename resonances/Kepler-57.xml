@@ -8,6 +8,7 @@
     <temperature>None</temperature>
     <planet>
       <name>Kepler-57 b</name>
+      <coordinates/>
       <massearths errorminus="1.8e-05" errorplus="15.0">100.0</massearths>
       <massjupiters>None</massjupiters>
       <period errorminus="15.0" errorplus="1.8e-05">5.7293196</period>
@@ -23,6 +24,7 @@
     </planet>
     <planet>
       <name>Kepler-57 c</name>
+      <coordinates/>
       <massearths errorminus="8.6e-05" errorplus="3.7">5.4</massearths>
       <massjupiters>None</massjupiters>
       <period errorminus="3.7" errorplus="8.6e-05">11.6092567</period>

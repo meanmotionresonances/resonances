@@ -8,6 +8,7 @@
     <temperature>5590.0</temperature>
     <planet>
       <name>HD 73526 b</name>
+      <coordinates/>
       <massearths errorminus="0.16" errorplus="0.16">None</massearths>
       <massjupiters errorminus="0.17" errorplus="0.17">2.07</massjupiters>
       <period errorminus="0.3" errorplus="0.3">187.5</period>
@@ -23,6 +24,7 @@
     </planet>
     <planet>
       <name>HD 73526 c</name>
+      <coordinates/>
       <massearths errorminus="0.17" errorplus="0.17">None</massearths>
       <massjupiters>2.3</massjupiters>
       <period errorminus="0.9" errorplus="0.9">376.9</period>

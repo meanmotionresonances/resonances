@@ -8,6 +8,7 @@
     <temperature>5930.0</temperature>
     <planet>
       <name>Kepler-90, KOI 351,  KIC 1144279 b</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters>None</massjupiters>
       <period errorminus="1.9e-05" errorplus="1.9e-05">7.008151</period>
@@ -23,6 +24,7 @@
     </planet>
     <planet>
       <name>Kepler-90, KOI 351,  KIC 1144279 c</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters>None</massjupiters>
       <period errorminus="2.7e-05" errorplus="2.7e-05">8.719375</period>
@@ -38,6 +40,7 @@
     </planet>
     <planet>
       <name>Kepler-90, KOI 351,  KIC 1144279 d</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters>None</massjupiters>
       <period errorminus="0.00038" errorplus="0.00038">59.73667</period>
@@ -53,6 +56,7 @@
     </planet>
     <planet>
       <name>Kepler-90, KOI 351,  KIC 1144279 e</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters>None</massjupiters>
       <period errorminus="0.00073" errorplus="0.00073">91.93913</period>
@@ -68,6 +72,7 @@
     </planet>
     <planet>
       <name>Kepler-90, KOI 351,  KIC 1144279 f</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters>None</massjupiters>
       <period errorminus="0.0019" errorplus="0.0019">124.9144</period>
@@ -83,6 +88,7 @@
     </planet>
     <planet>
       <name>Kepler-90, KOI 351,  KIC 1144279 g</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters>None</massjupiters>
       <period errorminus="0.00043" errorplus="0.00043">210.60697</period>
@@ -98,6 +104,7 @@
     </planet>
     <planet>
       <name>Kepler-90, KOI 351,  KIC 1144279 h</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters>None</massjupiters>
       <period errorminus="0.00037" errorplus="0.00037">331.60059</period>

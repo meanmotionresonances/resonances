@@ -8,6 +8,7 @@
     <temperature>5610.0</temperature>
     <planet>
       <name>HD 37124 b</name>
+      <coordinates/>
       <massearths errorminus="0.017" errorplus="0.017">None</massearths>
       <massjupiters errorminus="0.017" errorplus="0.017">0.675</massjupiters>
       <period errorminus="0.089" errorplus="0.089">154.378</period>
@@ -23,6 +24,7 @@
     </planet>
     <planet>
       <name>HD 37124 c</name>
+      <coordinates/>
       <massearths errorminus="0.052" errorplus="0.052">None</massearths>
       <massjupiters errorminus="0.052" errorplus="0.052">0.652</massjupiters>
       <period errorminus="5.1" errorplus="5.1">885.5</period>
@@ -38,6 +40,7 @@
     </planet>
     <planet>
       <name>HD 37124 d</name>
+      <coordinates/>
       <massearths errorminus="0.059" errorplus="0.059">None</massearths>
       <massjupiters errorminus="0.059" errorplus="0.059">0.696</massjupiters>
       <period errorminus="38.0" errorplus="38.0">1862.0</period>

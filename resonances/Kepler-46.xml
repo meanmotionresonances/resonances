@@ -8,6 +8,7 @@
     <temperature>0.0</temperature>
     <planet>
       <name>Kepler-46 03</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters>None</massjupiters>
       <period>None</period>
@@ -23,6 +24,7 @@
     </planet>
     <planet>
       <name>Kepler-46 b</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters>6.0</massjupiters>
       <period errorminus="0.00021" errorplus="0.0002">33.60134</period>
@@ -38,6 +40,7 @@
     </planet>
     <planet>
       <name>Kepler-46 c</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters errorminus="0.019" errorplus="0.021">0.376</massjupiters>
       <period errorminus="0.061" errorplus="0.051">57.011</period>

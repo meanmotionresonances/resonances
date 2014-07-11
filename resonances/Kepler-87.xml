@@ -8,6 +8,7 @@
     <temperature>None</temperature>
     <planet>
       <name>Kepler-87 03</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters>None</massjupiters>
       <period errorminus="5.9e-05" errorplus="5e-05">5.833904</period>
@@ -23,6 +24,7 @@
     </planet>
     <planet>
       <name>Kepler-87 04</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters>None</massjupiters>
       <period errorminus="0.00011" errorplus="0.00011">8.97741</period>
@@ -38,6 +40,7 @@
     </planet>
     <planet>
       <name>Kepler-87 b</name>
+      <coordinates/>
       <massearths errorminus="8.8" errorplus="8.8">324.2</massearths>
       <massjupiters>None</massjupiters>
       <period errorminus="0.0005" errorplus="0.0005">114.73635</period>
@@ -53,6 +56,7 @@
     </planet>
     <planet>
       <name>Kepler-87 c</name>
+      <coordinates/>
       <massearths errorminus="0.8" errorplus="0.8">6.4</massearths>
       <massjupiters>None</massjupiters>
       <period errorminus="0.0015" errorplus="0.0015">191.2318</period>

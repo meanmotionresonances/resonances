@@ -8,6 +8,7 @@
     <temperature>None</temperature>
     <planet>
       <name>HD 141399 b</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters errorminus="0.025" errorplus="0.025">0.46</massjupiters>
       <period errorminus="0.059" errorplus="0.059">94.35</period>
@@ -23,6 +24,7 @@
     </planet>
     <planet>
       <name>HD 141399 c</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters errorminus="0.067" errorplus="0.067">1.36</massjupiters>
       <period errorminus="0.099" errorplus="0.099">202.08</period>
@@ -38,6 +40,7 @@
     </planet>
     <planet>
       <name>HD 141399 d</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters errorminus="0.067" errorplus="0.067">1.22</massjupiters>
       <period errorminus="8.178" errorplus="8.178">1070.35</period>
@@ -53,6 +56,7 @@
     </planet>
     <planet>
       <name>HD 141399 e</name>
+      <coordinates/>
       <massearths>None</massearths>
       <massjupiters errorminus="0.164" errorplus="0.164">0.69</massjupiters>
       <period errorminus="555.081" errorplus="555.081">3717.35</period>

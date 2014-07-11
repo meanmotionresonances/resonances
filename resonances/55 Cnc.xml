@@ -8,6 +8,7 @@
     <temperature>5196.0</temperature>
     <planet>
       <name>55 Cnc e</name>
+      <coordinates/>
       <massearths errorminus="0.04" errorplus="0.04">None</massearths>
       <massjupiters errorminus="0.0036" errorplus="0.0036">0.034</massjupiters>
       <period errorminus="0.0001" errorplus="0.0001">2.81705</period>
@@ -23,6 +24,7 @@
     </planet>
     <planet>
       <name>55 Cnc b</name>
+      <coordinates/>
       <massearths errorminus="0.0036" errorplus="0.0036">None</massearths>
       <massjupiters errorminus="0.007" errorplus="0.007">0.824</massjupiters>
       <period errorminus="0.0007" errorplus="0.0007">14.65162</period>
@@ -38,6 +40,7 @@
     </planet>
     <planet>
       <name>55 Cnc c</name>
+      <coordinates/>
       <massearths errorminus="0.007" errorplus="0.007">None</massearths>
       <massjupiters errorminus="0.008" errorplus="0.008">0.169</massjupiters>
       <period errorminus="0.007" errorplus="0.007">44.3446</period>
@@ -53,6 +56,7 @@
     </planet>
     <planet>
       <name>55 Cnc f</name>
+      <coordinates/>
       <massearths errorminus="0.08" errorplus="0.08">None</massearths>
       <massjupiters errorminus="0.04" errorplus="0.04">0.144</massjupiters>
       <period errorminus="1.1" errorplus="1.1">260.0</period>
@@ -68,6 +72,7 @@
     </planet>
     <planet>
       <name>55 Cnc d</name>
+      <coordinates/>
       <massearths errorminus="0.008" errorplus="0.008">None</massearths>
       <massjupiters errorminus="0.08" errorplus="0.08">3.835</massjupiters>
       <period errorminus="230.0" errorplus="230.0">5218.0</period>
