@@ -18,9 +18,11 @@
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2014/06/07</lastupdate>
+      <lastupdate>2014/09/01</lastupdate>
     </planet>
     <planet>
       <name>Kepler-11 c</name>
@@ -34,9 +36,11 @@
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2014/06/07</lastupdate>
+      <lastupdate>2014/09/01</lastupdate>
     </planet>
     <planet>
       <name>Kepler-11 d</name>
@@ -50,9 +54,11 @@
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2014/06/07</lastupdate>
+      <lastupdate>2014/09/01</lastupdate>
     </planet>
     <planet>
       <name>Kepler-11 e</name>
@@ -66,9 +72,11 @@
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2014/06/07</lastupdate>
+      <lastupdate>2014/09/01</lastupdate>
     </planet>
     <planet>
       <name>Kepler-11 f</name>
@@ -82,9 +90,11 @@
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2014/06/07</lastupdate>
+      <lastupdate>2014/09/01</lastupdate>
     </planet>
     <planet>
       <name>Kepler-11 g</name>
@@ -98,9 +108,11 @@
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2014/06/07</lastupdate>
+      <lastupdate>2014/08/24</lastupdate>
     </planet>
   </star>
   <resonance>
@@ -108,7 +120,7 @@
     <q q="4">b</q>
     <literature>
       <title>A Closely-Packed System of Low-Mass, Low-Density Planets Transiting Kepler-11</title>
-      <authors>Lissauer et al. (2011a)</authors>
+      <authors ordering="0">Lissauer et al. (2011a)</authors>
       <link>http://adsabs.harvard.edu/abs/2011Natur.470...53L</link>
       <publisher>Nature, Volume 470, Issue 7332, pp. 53-58 (2011)</publisher>
     </literature>
@@ -118,7 +130,7 @@
     <q q="2">f</q>
     <literature>
       <title>A Closely-Packed System of Low-Mass, Low-Density Planets Transiting Kepler-11</title>
-      <authors>Lissauer et al. (2011a)</authors>
+      <authors ordering="0">Lissauer et al. (2011a)</authors>
       <link>http://adsabs.harvard.edu/abs/2011Natur.470...53L</link>
       <publisher>Nature, Volume 470, Issue 7332, pp. 53-58 (2011)</publisher>
     </literature>

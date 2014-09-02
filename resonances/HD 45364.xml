@@ -9,8 +9,8 @@
     <planet>
       <name>HD 45364 b</name>
       <coordinates/>
-      <massearths>None</massearths>
-      <massjupiters>0.1872</massjupiters>
+      <massearthssini>None</massearthssini>
+      <massjupiterssini>0.1872</massjupiterssini>
       <period errorminus="0.37" errorplus="0.37">226.93</period>
       <semimajoraxis>0.6813</semimajoraxis>
       <eccentricity errorminus="0.019" errorplus="0.019">0.1684</eccentricity>
@@ -18,15 +18,17 @@
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
       <argumentofperiastron errorminus="6.34" errorplus="6.34">162.58</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2012/11/07</lastupdate>
+      <lastupdate>2014/08/24</lastupdate>
     </planet>
     <planet>
       <name>HD 45364 c</name>
       <coordinates/>
-      <massearths>None</massearths>
-      <massjupiters>0.6579</massjupiters>
+      <massearthssini>None</massearthssini>
+      <massjupiterssini>0.6579</massjupiterssini>
       <period errorminus="0.28" errorplus="0.28">342.85</period>
       <semimajoraxis>0.8972</semimajoraxis>
       <eccentricity errorminus="0.012" errorplus="0.012">0.0974</eccentricity>
@@ -34,9 +36,11 @@
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
       <argumentofperiastron errorminus="4.3" errorplus="4.3">7.41</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2012/11/07</lastupdate>
+      <lastupdate>2014/08/24</lastupdate>
     </planet>
   </star>
   <resonance>
@@ -44,13 +48,13 @@
     <q q="2">b</q>
     <literature>
       <title>The HARPS search for southern extra-solar planets. XVI. HD 45364, a pair of planets in a 3:2 mean motion resonance </title>
-      <authors>Correira et al. (2009)</authors>
+      <authors ordering="0">Correira et al. (2009)</authors>
       <link>http://adsabs.harvard.edu/abs/2009arXiv0902.0597C</link>
       <publisher>Astronomy and Astrophysics, Volume 496, Issue 2, 2009, pp.521-526</publisher>
     </literature>
     <literature>
       <title>A new scenario for the origin of the 3/2 resonant system HD45364</title>
-      <authors>Correa-Otto, J. A.; Michtchenko, T. A.; Beaugé, C.</authors>
+      <authors ordering="1">Correa-Otto, J. A.; Michtchenko, T. A.; Beaugé, C.</authors>
       <link>http://adsabs.harvard.edu/abs/2013arXiv1307.1822C</link>
       <publisher>Astronomy &amp; Astrophysics, Volume 560, id.A65, 10 pp</publisher>
     </literature>

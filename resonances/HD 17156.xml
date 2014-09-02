@@ -10,33 +10,37 @@
       <name>HD 17156 b</name>
       <coordinates/>
       <massearths errorminus="0.02" errorplus="0.02">None</massearths>
-      <massjupiters>3.125</massjupiters>
+      <massjupiters errorminus="0.02" errorplus="0.02">3.125</massjupiters>
       <period errorminus="0.0025" errorplus="0.0031">21.2144</period>
       <semimajoraxis errorminus="0.0001" errorplus="0.0001">0.159505</semimajoraxis>
       <eccentricity errorminus="0.0005" errorplus="0.003">0.669614</eccentricity>
-      <timeofpericentre errorminus="0.05" errorplus="0.05">2403739.093</timeofpericentre>
+      <timeofpericentre errorminus="0.05" errorplus="0.05">2403738.593</timeofpericentre>
       <ascendingnode>None</ascendingnode>
-      <periastron>None</periastron>
-      <argumentofperiastron errorminus="0.03" errorplus="0.14">120.89</argumentofperiastron>
+      <periastron errorminus="0.03" errorplus="0.14">120.89</periastron>
+      <argumentofperiastron errorminus="0.03" errorplus="0.14">None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2012/11/14</lastupdate>
+      <lastupdate>2014/09/01</lastupdate>
     </planet>
     <planet>
       <name>HD 17156 c</name>
       <coordinates/>
       <massearths errorminus="0.019" errorplus="0.021">None</massearths>
-      <massjupiters>0.068</massjupiters>
+      <massjupiters errorminus="0.019" errorplus="0.021">0.068</massjupiters>
       <period errorminus="0.09" errorplus="0.43">111.3937</period>
       <semimajoraxis errorminus="0.0003" errorplus="0.001">0.481478</semimajoraxis>
       <eccentricity errorminus="0.0012" errorplus="0.0029">0.136492</eccentricity>
-      <timeofpericentre errorminus="1.61" errorplus="0.58">2403737.38</timeofpericentre>
+      <timeofpericentre errorminus="1.61" errorplus="0.58">2403736.88</timeofpericentre>
       <ascendingnode>None</ascendingnode>
-      <periastron>None</periastron>
-      <argumentofperiastron errorminus="0.17" errorplus="0.17">273.57</argumentofperiastron>
+      <periastron errorminus="0.17" errorplus="0.17">273.57</periastron>
+      <argumentofperiastron errorminus="0.17" errorplus="0.17">None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>U</status>
-      <lastupdate>2012/11/14</lastupdate>
+      <lastupdate>2014/09/01</lastupdate>
     </planet>
   </star>
   <resonance>
@@ -44,13 +48,13 @@
     <q q="1">b</q>
     <literature>
       <title>Mean motion resonances from planet-planet scattering</title>
-      <authors>Raymond et al. (2008)</authors>
+      <authors ordering="1">Raymond et al. (2008)</authors>
       <link>http://adsabs.harvard.edu/abs/2008ApJ...687L.107R</link>
       <publisher>The Astrophysical Journal, Volume 687, Issue 2, pp. L107-L110</publisher>
     </literature>
     <literature>
       <title>Orbital Dynamics Of A Possible Second Planet In HD 17156</title>
-      <authors>Short et al. (2008)</authors>
+      <authors ordering="0">Short et al. (2008)</authors>
       <link>http://adsabs.harvard.edu/abs/2008arXiv0803.2935S</link>
       <publisher>Submitted to ApJ Letters</publisher>
     </literature>

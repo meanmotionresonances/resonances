@@ -9,80 +9,88 @@
     <planet>
       <name>HD 160691 (mu Ara) c</name>
       <coordinates/>
-      <massearths>None</massearths>
-      <massjupiters>0.03321</massjupiters>
-      <period>9.6386</period>
+      <massearthssini>None</massearthssini>
+      <massjupiterssini>0.03321</massjupiterssini>
+      <period errorminus="0.0015" errorplus="0.0015">9.6386</period>
       <semimajoraxis>0.09094</semimajoraxis>
-      <eccentricity>0.172</eccentricity>
-      <timeofpericentre>2452991.1</timeofpericentre>
+      <eccentricity errorminus="0.04" errorplus="0.04">0.172</eccentricity>
+      <timeofpericentre errorminus="0.4" errorplus="0.4">2452991.1</timeofpericentre>
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
-      <argumentofperiastron>212.7</argumentofperiastron>
+      <argumentofperiastron errorminus="13.3" errorplus="13.3">212.7</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2014/06/06</lastupdate>
+      <lastupdate>2014/08/24</lastupdate>
     </planet>
     <planet>
       <name>HD 160691 (mu Ara) d</name>
       <coordinates/>
-      <massearths>None</massearths>
-      <massjupiters>0.5219</massjupiters>
-      <period>310.55</period>
+      <massearthssini>None</massearthssini>
+      <massjupiterssini>0.5219</massjupiterssini>
+      <period errorminus="0.83" errorplus="0.83">310.55</period>
       <semimajoraxis>0.921</semimajoraxis>
-      <eccentricity>0.0666</eccentricity>
-      <timeofpericentre>2452708.7</timeofpericentre>
+      <eccentricity errorminus="0.0122" errorplus="0.0122">0.0666</eccentricity>
+      <timeofpericentre errorminus="8.3" errorplus="8.3">2452708.7</timeofpericentre>
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
-      <argumentofperiastron>189.6</argumentofperiastron>
+      <argumentofperiastron errorminus="9.4" errorplus="9.4">189.6</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2014/06/06</lastupdate>
+      <lastupdate>2014/08/24</lastupdate>
     </planet>
     <planet>
       <name>HD 160691 (mu Ara) b</name>
       <coordinates/>
-      <massearths>None</massearths>
-      <massjupiters>1.676</massjupiters>
-      <period>643.25</period>
+      <massearthssini>None</massearthssini>
+      <massjupiterssini>1.676</massjupiterssini>
+      <period errorminus="0.9" errorplus="0.9">643.25</period>
       <semimajoraxis>1.497</semimajoraxis>
-      <eccentricity>0.128</eccentricity>
-      <timeofpericentre>2452365.6</timeofpericentre>
+      <eccentricity errorminus="0.017" errorplus="0.017">0.128</eccentricity>
+      <timeofpericentre errorminus="12.6" errorplus="12.6">2452365.6</timeofpericentre>
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
-      <argumentofperiastron>22.0</argumentofperiastron>
+      <argumentofperiastron errorminus="7.0" errorplus="7.0">22.0</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2014/06/06</lastupdate>
+      <lastupdate>2014/08/24</lastupdate>
     </planet>
     <planet>
       <name>HD 160691 (mu Ara) e</name>
       <coordinates/>
-      <massearths>None</massearths>
-      <massjupiters>1.814</massjupiters>
-      <period>4205.8</period>
+      <massearthssini>None</massearthssini>
+      <massjupiterssini>1.814</massjupiterssini>
+      <period errorminus="758.9" errorplus="758.9">4205.8</period>
       <semimajoraxis>5.235</semimajoraxis>
-      <eccentricity>0.0985</eccentricity>
-      <timeofpericentre>2452955.2</timeofpericentre>
+      <eccentricity errorminus="0.0627" errorplus="0.0627">0.0985</eccentricity>
+      <timeofpericentre errorminus="521.8" errorplus="521.8">2452955.2</timeofpericentre>
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
-      <argumentofperiastron>57.6</argumentofperiastron>
+      <argumentofperiastron errorminus="43.7" errorplus="43.7">57.6</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2014/06/06</lastupdate>
+      <lastupdate>2014/08/24</lastupdate>
     </planet>
   </star>
   <resonance>
     <p p="2">b</p>
-    <q q="1">e</q>
+    <q q="1">d</q>
     <literature>
       <title>On the extrasolar multi-planet system around HD160691</title>
-      <authors>Gozdziewski et al. (2007)</authors>
+      <authors ordering="1">Gozdziewski et al. (2007)</authors>
       <link>http://adsabs.harvard.edu/abs/2007ApJ...657..546G</link>
       <publisher>The Astrophysical Journal, Volume 657, Issue 1, pp. 546-558</publisher>
     </literature>
     <literature>
       <title>The HARPS search for southern extra-solar planets VIII. $mu $ Arae, a system with four planets</title>
-      <authors>F. Pepe et al.</authors>
+      <authors ordering="0">F. Pepe et al.</authors>
       <link>http://adsabs.harvard.edu/abs/2007A%26A...462..769P</link>
       <publisher>Astronomy and Astrophysics, Volume 462, Issue 2, February I 2007, pp.769-776</publisher>
     </literature>

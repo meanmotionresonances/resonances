@@ -4,39 +4,43 @@
   <star>
     <mass>1.54</mass>
     <metallicity>-0.03</metallicity>
-    <age>2.7</age>
+    <age errorminus="0.4" errorplus="0.4">2.7</age>
     <temperature>5098.0</temperature>
     <planet>
       <name>24 Sex b</name>
       <coordinates/>
-      <massearths>None</massearths>
-      <massjupiters errorminus="0.2" errorplus="0.2">1.99</massjupiters>
+      <massearthssini>None</massearthssini>
+      <massjupiterssini errorminus="0.38" errorplus="0.26">1.99</massjupiterssini>
       <period errorminus="4.5" errorplus="2.1">452.8</period>
       <semimajoraxis errorminus="0.009" errorplus="0.004">1.333</semimajoraxis>
       <eccentricity errorminus="0.06" errorplus="0.14">0.09</eccentricity>
-      <timeofpericentre errorminus="30.0" errorplus="30.0">2454758.0</timeofpericentre>
+      <timeofpericentre errorminus="172.3" errorplus="67.3">2454762.0</timeofpericentre>
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
-      <argumentofperiastron errorminus="20.0" errorplus="20.0">227.0</argumentofperiastron>
+      <argumentofperiastron errorminus="165.4" errorplus="277.9">9.2</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2014/06/04</lastupdate>
+      <lastupdate>2014/09/01</lastupdate>
     </planet>
     <planet>
       <name>24 Sex c</name>
       <coordinates/>
-      <massearths>None</massearths>
-      <massjupiters errorminus="0.2" errorplus="0.2">0.86</massjupiters>
-      <period errorminus="14.0" errorplus="32.0">883.0</period>
+      <massearthssini>None</massearthssini>
+      <massjupiterssini errorminus="0.22" errorplus="0.35">0.86</massjupiterssini>
+      <period errorminus="13.8" errorplus="32.4">883.0</period>
       <semimajoraxis errorminus="0.02" errorplus="0.05">2.08</semimajoraxis>
-      <eccentricity errorminus="0.06" errorplus="0.16">0.29</eccentricity>
-      <timeofpericentre errorminus="30.0" errorplus="30.0">2454941.0</timeofpericentre>
+      <eccentricity errorminus="0.09" errorplus="0.16">0.29</eccentricity>
+      <timeofpericentre errorminus="96.5" errorplus="209.9">2454930.0</timeofpericentre>
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
-      <argumentofperiastron errorminus="9.0" errorplus="9.0">172.0</argumentofperiastron>
+      <argumentofperiastron errorminus="320.9" errorplus="182.2">220.5</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2014/06/04</lastupdate>
+      <lastupdate>2014/09/01</lastupdate>
     </planet>
   </star>
   <resonance>
@@ -44,13 +48,13 @@
     <q q="1">b</q>
     <literature>
       <title>Retired A Stars and Their Companions VI. A Pair of Interacting Exoplanet Pairs Around the Subgiants 24 Sextanis and HD200964</title>
-      <authors>Johnson et al. (2011)</authors>
+      <authors ordering="0">Johnson et al. (2011)</authors>
       <link>http://adsabs.harvard.edu/abs/2011AJ....141...16J</link>
       <publisher>The Astronomical Journal, Volume 141, Issue 1, article id. 16, 10 pp. (2011)</publisher>
     </literature>
     <literature>
       <title>Resonances Required: Dynamical Analysis of the 24 Sex and HD 200964 Planetary Systems</title>
-      <authors>Wittenmyer et al. (2012)</authors>
+      <authors ordering="1">Wittenmyer et al. (2012)</authors>
       <link>http://adsabs.harvard.edu/abs/2012ApJ...761..165W</link>
       <publisher>The Astrophysical Journal, Volume 761, Issue 2, article id. 165, 6 pp. (2012)</publisher>
     </literature>

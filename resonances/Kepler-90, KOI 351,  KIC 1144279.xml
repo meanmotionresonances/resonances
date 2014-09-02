@@ -18,9 +18,11 @@
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>None</lastupdate>
+      <lastupdate>2014/08/24</lastupdate>
     </planet>
     <planet>
       <name>Kepler-90, KOI 351,  KIC 1144279 c</name>
@@ -34,9 +36,11 @@
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>None</lastupdate>
+      <lastupdate>2014/08/24</lastupdate>
     </planet>
     <planet>
       <name>Kepler-90, KOI 351,  KIC 1144279 d</name>
@@ -50,9 +54,11 @@
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>None</lastupdate>
+      <lastupdate>2014/08/24</lastupdate>
     </planet>
     <planet>
       <name>Kepler-90, KOI 351,  KIC 1144279 e</name>
@@ -66,9 +72,11 @@
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>None</lastupdate>
+      <lastupdate>2014/08/24</lastupdate>
     </planet>
     <planet>
       <name>Kepler-90, KOI 351,  KIC 1144279 f</name>
@@ -82,9 +90,11 @@
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>None</lastupdate>
+      <lastupdate>2014/08/24</lastupdate>
     </planet>
     <planet>
       <name>Kepler-90, KOI 351,  KIC 1144279 g</name>
@@ -98,9 +108,11 @@
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>None</lastupdate>
+      <lastupdate>2014/08/24</lastupdate>
     </planet>
     <planet>
       <name>Kepler-90, KOI 351,  KIC 1144279 h</name>
@@ -114,9 +126,11 @@
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>None</lastupdate>
+      <lastupdate>2014/08/24</lastupdate>
     </planet>
   </star>
   <resonance>
@@ -124,7 +138,7 @@
     <q q="4">b</q>
     <literature>
       <title>The Planetary System to KIC 11442793: A Compact Analogue to the Solar System</title>
-      <authors>Cabrera, J.; Csizmadia, Sz.; Lehmann, H.; Dvorak, R.; Gandolfi, D.; Rauer, H.; Erikson, A.; Dreyer, C.; Eigmueller, Ph.; Hatzes, A.</authors>
+      <authors ordering="0">Cabrera, J.; Csizmadia, Sz.; Lehmann, H.; Dvorak, R.; Gandolfi, D.; Rauer, H.; Erikson, A.; Dreyer, C.; Eigmueller, Ph.; Hatzes, A.</authors>
       <link>http://adsabs.harvard.edu/abs/2013arXiv1310.6248C</link>
       <publisher>The Astrophysical Journal, Volume 781, Issue 1, article id. 18, 13 pp. (2014)</publisher>
     </literature>
@@ -134,7 +148,7 @@
     <q q="2">d</q>
     <literature>
       <title>The Planetary System to KIC 11442793: A Compact Analogue to the Solar System</title>
-      <authors>Cabrera, J.; Csizmadia, Sz.; Lehmann, H.; Dvorak, R.; Gandolfi, D.; Rauer, H.; Erikson, A.; Dreyer, C.; Eigmueller, Ph.; Hatzes, A.</authors>
+      <authors ordering="1">Cabrera, J.; Csizmadia, Sz.; Lehmann, H.; Dvorak, R.; Gandolfi, D.; Rauer, H.; Erikson, A.; Dreyer, C.; Eigmueller, Ph.; Hatzes, A.</authors>
       <link>http://adsabs.harvard.edu/abs/2013arXiv1310.6248C</link>
       <publisher>The Astrophysical Journal, Volume 781, Issue 1, article id. 18, 13 pp. (2014)</publisher>
     </literature>
@@ -144,7 +158,7 @@
     <q q="3">e</q>
     <literature>
       <title>The Planetary System to KIC 11442793: A Compact Analogue to the Solar System</title>
-      <authors>Cabrera, J.; Csizmadia, Sz.; Lehmann, H.; Dvorak, R.; Gandolfi, D.; Rauer, H.; Erikson, A.; Dreyer, C.; Eigmueller, Ph.; Hatzes, A.</authors>
+      <authors ordering="0">Cabrera, J.; Csizmadia, Sz.; Lehmann, H.; Dvorak, R.; Gandolfi, D.; Rauer, H.; Erikson, A.; Dreyer, C.; Eigmueller, Ph.; Hatzes, A.</authors>
       <link>http://adsabs.harvard.edu/abs/2013arXiv1310.6248C</link>
       <publisher>The Astrophysical Journal, Volume 781, Issue 1, article id. 18, 13 pp. (2014)</publisher>
     </literature>

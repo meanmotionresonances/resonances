@@ -9,98 +9,110 @@
     <planet>
       <name>HD 40307 b</name>
       <coordinates/>
-      <massearths errorminus="0.7" errorplus="0.8">4.0</massearths>
-      <massjupiters>None</massjupiters>
+      <massearthssini errorminus="0.7" errorplus="0.8">4.0</massearthssini>
+      <massjupiterssini>None</massjupiterssini>
       <period errorminus="0.0012" errorplus="0.0011">4.3123</period>
       <semimajoraxis errorminus="0.0023" errorplus="0.0024">0.0468</semimajoraxis>
       <eccentricity errorminus="0.16" errorplus="0.14">0.2</eccentricity>
       <timeofpericentre>None</timeofpericentre>
       <ascendingnode>None</ascendingnode>
-      <periastron>None</periastron>
-      <argumentofperiastron errorminus="57.3" errorplus="45.8">194.8</argumentofperiastron>
+      <periastron errorminus="57.3" errorplus="45.8">194.8</periastron>
+      <argumentofperiastron errorminus="57.3" errorplus="45.8">None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2013/04/05</lastupdate>
+      <lastupdate>2014/09/01</lastupdate>
     </planet>
     <planet>
       <name>HD 40307 c</name>
       <coordinates/>
-      <massearths errorminus="1.0" errorplus="1.1">6.6</massearths>
-      <massjupiters>None</massjupiters>
+      <massearthssini errorminus="1.0" errorplus="1.1">6.6</massearthssini>
+      <massjupiterssini>None</massjupiterssini>
       <period errorminus="-0.005" errorplus="-0.0049">9.6184</period>
       <semimajoraxis errorminus="0.004" errorplus="0.004">0.0799</semimajoraxis>
       <eccentricity errorminus="0.06" errorplus="0.11">0.06</eccentricity>
       <timeofpericentre>None</timeofpericentre>
       <ascendingnode>None</ascendingnode>
-      <periastron>None</periastron>
-      <argumentofperiastron>234.9</argumentofperiastron>
+      <periastron>234.9</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2013/04/05</lastupdate>
+      <lastupdate>2014/09/01</lastupdate>
     </planet>
     <planet>
       <name>HD 40307 d</name>
       <coordinates/>
-      <massearths errorminus="1.5" errorplus="1.7">9.5</massearths>
-      <massjupiters>None</massjupiters>
+      <massearthssini errorminus="1.5" errorplus="1.7">9.5</massearthssini>
+      <massjupiterssini>None</massjupiterssini>
       <period errorminus="0.024" errorplus="0.022">20.432</period>
       <semimajoraxis errorminus="0.0066" errorplus="0.0066">0.1321</semimajoraxis>
       <eccentricity errorminus="0.07" errorplus="0.11">0.07</eccentricity>
       <timeofpericentre>None</timeofpericentre>
       <ascendingnode>None</ascendingnode>
-      <periastron>None</periastron>
-      <argumentofperiastron>17.2</argumentofperiastron>
+      <periastron>17.2</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2013/04/05</lastupdate>
+      <lastupdate>2014/09/01</lastupdate>
     </planet>
     <planet>
       <name>HD 40307 e</name>
       <coordinates/>
-      <massearths errorminus="1.4" errorplus="1.4">3.5</massearths>
-      <massjupiters>None</massjupiters>
+      <massearthssini errorminus="1.4" errorplus="1.4">3.5</massearthssini>
+      <massjupiterssini>None</massjupiterssini>
       <period errorminus="0.2" errorplus="0.21">34.62</period>
       <semimajoraxis errorminus="0.0104" errorplus="0.0083">0.1886</semimajoraxis>
       <eccentricity errorminus="0.15" errorplus="0.13">0.15</eccentricity>
       <timeofpericentre>None</timeofpericentre>
       <ascendingnode>None</ascendingnode>
-      <periastron>None</periastron>
-      <argumentofperiastron>303.7</argumentofperiastron>
+      <periastron>303.7</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2013/04/05</lastupdate>
+      <lastupdate>2014/09/01</lastupdate>
     </planet>
     <planet>
       <name>HD 40307 f</name>
       <coordinates/>
-      <massearths errorminus="1.6" errorplus="1.5">5.2</massearths>
-      <massjupiters>None</massjupiters>
+      <massearthssini errorminus="1.6" errorplus="1.5">5.2</massearthssini>
+      <massjupiterssini>None</massjupiterssini>
       <period errorminus="0.46" errorplus="0.5">51.76</period>
       <semimajoraxis errorminus="0.014" errorplus="0.011">0.247</semimajoraxis>
       <eccentricity errorminus="0.02" errorplus="0.2">0.02</eccentricity>
       <timeofpericentre>None</timeofpericentre>
       <ascendingnode>None</ascendingnode>
-      <periastron>None</periastron>
-      <argumentofperiastron>355.2</argumentofperiastron>
+      <periastron>355.2</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2013/04/05</lastupdate>
+      <lastupdate>2014/09/01</lastupdate>
     </planet>
     <planet>
       <name>HD 40307 g</name>
       <coordinates/>
-      <massearths errorminus="2.6" errorplus="2.6">7.1</massearths>
-      <massjupiters>None</massjupiters>
+      <massearthssini errorminus="2.6" errorplus="2.6">7.1</massearthssini>
+      <massjupiterssini>None</massjupiterssini>
       <period errorminus="9.0" errorplus="5.7">197.8</period>
       <semimajoraxis errorminus="0.033" errorplus="0.034">0.6</semimajoraxis>
       <eccentricity errorminus="0.29" errorplus="0.31">0.29</eccentricity>
       <timeofpericentre>None</timeofpericentre>
       <ascendingnode>None</ascendingnode>
-      <periastron>None</periastron>
-      <argumentofperiastron>91.7</argumentofperiastron>
+      <periastron>91.7</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2013/04/05</lastupdate>
+      <lastupdate>2014/09/01</lastupdate>
     </planet>
   </star>
   <resonance>
@@ -108,7 +120,7 @@
     <q q="2">e</q>
     <literature>
       <title>Habitable-zone super-Earth candidate in a six-planet system around the K2.5V star HD 40307</title>
-      <authors>Tuomi, M.; Anglada-Escudé, G.; Gerlach, E.; Jones, H. R. A.; Reiners, A.; Rivera, E. J.; Vogt, S. S.; Butler, R. P.</authors>
+      <authors ordering="0">Tuomi, M.; Anglada-Escudé, G.; Gerlach, E.; Jones, H. R. A.; Reiners, A.; Rivera, E. J.; Vogt, S. S.; Butler, R. P. (2013)</authors>
       <link>http://adsabs.harvard.edu/abs/2013A&amp;A...549A..48T</link>
       <publisher>Astronomy &amp; Astrophysics, Volume 549, id.A48, 23 pp.</publisher>
     </literature>

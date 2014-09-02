@@ -1,0 +1,62 @@
+<system>
+  <name>Kepler-25</name>
+  <distance>None</distance>
+  <star>
+    <mass>1.22</mass>
+    <metallicity errorminus="0.09" errorplus="0.09">0.01</metallicity>
+    <age>None</age>
+    <temperature>6190.0</temperature>
+    <planet>
+      <name>Kepler-25 b</name>
+      <coordinates/>
+      <massearths errorminus="2.5" errorplus="2.5">7.13</massearths>
+      <massjupiters>None</massjupiters>
+      <period>6.2385</period>
+      <semimajoraxis>0.068</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2014/08/28</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-25 c</name>
+      <coordinates/>
+      <massearths errorminus="2.6" errorplus="2.6">13.1</massearths>
+      <massjupiters>None</massjupiters>
+      <period>12.7204</period>
+      <semimajoraxis>0.11</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2014/08/28</lastupdate>
+    </planet>
+  </star>
+  <resonance>
+    <p p="2">c</p>
+    <q q="1">b</q>
+    <literature>
+      <title>Transit Time Observations from Kepler: III. Confirmation of 4 Multiple Planet Systems by a Fourier-Domain Study of Anti-correlated Transit Timing Variations</title>
+      <authors ordering="0">J.H. Steffen et al. (2012)</authors>
+      <link>http://adsabs.harvard.edu/abs/2012MNRAS.421.2342S</link>
+      <publisher>Monthly Notices of Royal Astronomical Society, volume 421, issue 3, pp. 2342-2354</publisher>
+    </literature>
+    <literature>
+      <title>Extracting Planet Mass and Eccentricity from TTV Data.</title>
+      <authors ordering="0">Lithwick Yoram et al. (2012)</authors>
+      <link>http://adsabs.harvard.edu/abs/2012ApJ...761..122L</link>
+      <publisher>The Astronomical Journal, Volume 761, Issue 2, Article id. 122, 11 pp. (2012)</publisher>
+    </literature>
+  </resonance>
+</system>

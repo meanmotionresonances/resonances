@@ -9,34 +9,38 @@
     <planet>
       <name>KOI-142 b</name>
       <coordinates/>
-      <massearths>None</massearths>
-      <massjupiters>0.06</massjupiters>
+      <massearths>17.6</massearths>
+      <massjupiters>None</massjupiters>
       <period errorminus="0.00143" errorplus="6.4e-05">10.954204</period>
       <semimajoraxis>None</semimajoraxis>
-      <eccentricity errorminus="0.00047" errorplus="0.00108">0.05608</eccentricity>
+      <eccentricity errorminus="0.00052" errorplus="0.00121">0.05611</eccentricity>
       <timeofpericentre>None</timeofpericentre>
       <ascendingnode>270.0</ascendingnode>
-      <periastron errorminus="1.1" errorplus="3.7">90.9</periastron>
-      <argumentofperiastron>180.9</argumentofperiastron>
+      <periastron errorminus="1.0" errorplus="3.4">90.7</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2013/08/18</lastupdate>
+      <lastupdate>2014/09/01</lastupdate>
     </planet>
     <planet>
       <name>KOI-142 c</name>
       <coordinates/>
-      <massearths errorminus="0.013" errorplus="0.02">None</massearths>
-      <massjupiters>0.68</massjupiters>
+      <massearths errorminus="7.5" errorplus="7.6">215.9</massearths>
+      <massjupiters>None</massjupiters>
       <period errorminus="0.0031" errorplus="0.0036">22.3383</period>
       <semimajoraxis>None</semimajoraxis>
-      <eccentricity errorminus="-0.0023" errorplus="0.0015">0.0564</eccentricity>
+      <eccentricity errorminus="0.0028" errorplus="0.0014">0.05628</eccentricity>
       <timeofpericentre>None</timeofpericentre>
       <ascendingnode errorminus="164.0" errorplus="11.0">259.0</ascendingnode>
-      <periastron errorminus="1.8" errorplus="4.8">271.1</periastron>
-      <argumentofperiastron errorminus="-166.0" errorplus="16.0">12.1</argumentofperiastron>
+      <periastron errorminus="2.0" errorplus="4.7">271.1</periastron>
+      <argumentofperiastron errorminus="-166.0" errorplus="16.0">None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2013/08/18</lastupdate>
+      <lastupdate>2014/09/01</lastupdate>
     </planet>
   </star>
   <resonance>
@@ -44,7 +48,7 @@
     <q q="1">b</q>
     <literature>
       <title>KOI-142, the King of Transit Variations, is a Pair of Planets near the 2:1 Resonance</title>
-      <authors>Nesvorny, David; Kipping, David; Terrell, Dirk; Hartman, Joel; Bakos, Gaspar A.; Buchhave, Lars A.</authors>
+      <authors ordering="0">Nesvorny, David; Kipping, David; Terrell, Dirk; Hartman, Joel; Bakos, Gaspar A.; Buchhave, Lars A.</authors>
       <link>http://adsabs.harvard.edu/abs/2013arXiv1304.4283N</link>
       <publisher>The Astrophysical Journal, Volume 777, Issue 1, article id. 3, 9 pp. (2013)</publisher>
     </literature>

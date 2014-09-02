@@ -9,8 +9,8 @@
     <planet>
       <name>HD 181433 b</name>
       <coordinates/>
-      <massearths>None</massearths>
-      <massjupiters>0.02335</massjupiters>
+      <massearthssini>7.4</massearthssini>
+      <massjupiterssini>0.02335</massjupiterssini>
       <period>9.37459</period>
       <semimajoraxis>0.08013</semimajoraxis>
       <eccentricity>0.3884</eccentricity>
@@ -18,15 +18,17 @@
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
       <argumentofperiastron>202.039</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2012/11/14</lastupdate>
+      <lastupdate>2014/08/24</lastupdate>
     </planet>
     <planet>
       <name>HD 181433 c</name>
       <coordinates/>
-      <massearths>None</massearths>
-      <massjupiters>0.65282</massjupiters>
+      <massearthssini>207.5</massearthssini>
+      <massjupiterssini>0.65282</massjupiterssini>
       <period>975.41</period>
       <semimajoraxis>1.7731</semimajoraxis>
       <eccentricity>0.26912</eccentricity>
@@ -34,15 +36,17 @@
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
       <argumentofperiastron>22.221</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2012/11/14</lastupdate>
+      <lastupdate>2014/08/24</lastupdate>
     </planet>
     <planet>
       <name>HD 181433 d</name>
       <coordinates/>
-      <massearths>None</massearths>
-      <massjupiters>0.52514</massjupiters>
+      <massearthssini>166.9</massearthssini>
+      <massjupiterssini>0.52514</massjupiterssini>
       <period>2468.46</period>
       <semimajoraxis>3.29347</semimajoraxis>
       <eccentricity>0.46626</eccentricity>
@@ -50,9 +54,11 @@
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
       <argumentofperiastron>319.129</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2012/11/14</lastupdate>
+      <lastupdate>2014/08/24</lastupdate>
     </planet>
   </star>
   <resonance>
@@ -60,7 +66,7 @@
     <q q="2">c</q>
     <literature>
       <title>Treating dynamical stability as an observable: a 5:2 MMR configuration for the extrasolar system HD 181433</title>
-      <authors>Campanella (2011)</authors>
+      <authors ordering="0">Campanella (2011)</authors>
       <link>http://adsabs.harvard.edu/abs/2011MNRAS.418.1028C</link>
       <publisher>Monthly Notices of the Royal Astronomical Society, Volume 418, Issue 2, pp. 1028-1038</publisher>
     </literature>

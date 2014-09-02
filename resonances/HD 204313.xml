@@ -9,24 +9,26 @@
     <planet>
       <name>HD 204313 c</name>
       <coordinates/>
-      <massearths errorminus="-0.00538" errorplus="0.00538">None</massearths>
-      <massjupiters>0.0535</massjupiters>
-      <period errorminus="0.039" errorplus="0.039">35.0</period>
-      <semimajoraxis errorminus="0.0035" errorplus="0.0035">0.21</semimajoraxis>
-      <eccentricity errorplus="0.09">None</eccentricity>
+      <massearthssini>17.0</massearthssini>
+      <massjupiterssini>None</massjupiterssini>
+      <period>35.0</period>
+      <semimajoraxis>0.21</semimajoraxis>
+      <eccentricity>0.17</eccentricity>
       <timeofpericentre>None</timeofpericentre>
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>U</status>
-      <lastupdate>2014/06/06</lastupdate>
+      <lastupdate>2014/08/24</lastupdate>
     </planet>
     <planet>
       <name>HD 204313 b</name>
       <coordinates/>
-      <massearths errorminus="0.2" errorplus="0.2">None</massearths>
-      <massjupiters errorminus="0.2" errorplus="0.2">3.55</massjupiters>
+      <massearthssini errorminus="0.2" errorplus="0.2">None</massearthssini>
+      <massjupiterssini errorminus="0.2" errorplus="0.2">3.55</massjupiterssini>
       <period errorminus="25.0" errorplus="25.0">1920.1</period>
       <semimajoraxis errorminus="0.06" errorplus="0.06">3.04</semimajoraxis>
       <eccentricity errorminus="0.04" errorplus="0.04">0.23</eccentricity>
@@ -34,15 +36,17 @@
       <ascendingnode>None</ascendingnode>
       <periastron errorminus="6.0" errorplus="6.0">298.0</periastron>
       <argumentofperiastron>None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2014/06/06</lastupdate>
+      <lastupdate>2014/09/01</lastupdate>
     </planet>
     <planet>
       <name>HD 204313 d</name>
       <coordinates/>
-      <massearths errorminus="0.3" errorplus="0.3">None</massearths>
-      <massjupiters errorminus="0.3" errorplus="0.3">1.68</massjupiters>
+      <massearthssini errorminus="0.3" errorplus="0.3">None</massearthssini>
+      <massjupiterssini errorminus="0.3" errorplus="0.3">1.68</massjupiterssini>
       <period errorminus="150.0" errorplus="150.0">2831.6</period>
       <semimajoraxis errorminus="0.14" errorplus="0.14">3.93</semimajoraxis>
       <eccentricity errorminus="0.09" errorplus="0.09">0.28</eccentricity>
@@ -50,9 +54,11 @@
       <ascendingnode>None</ascendingnode>
       <periastron errorminus="16.0" errorplus="16.0">247.0</periastron>
       <argumentofperiastron>None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2014/06/06</lastupdate>
+      <lastupdate>2014/09/01</lastupdate>
     </planet>
   </star>
   <resonance>
@@ -60,7 +66,7 @@
     <q q="2">b</q>
     <literature>
       <title>A Second Giant Planet in 3:2 Mean-Motion Resonance in the HD 204313 System</title>
-      <authors>
+      <authors ordering="0">
 Robertson, Paul et al.</authors>
       <link>http://adsabs.harvard.edu/abs/2012ApJ...754...50R</link>
       <publisher>The Astrophysical Journal, Volume 754, Issue 1, article id. 50 (2012)</publisher>

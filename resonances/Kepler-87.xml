@@ -4,7 +4,7 @@
   <star>
     <mass>1.1</mass>
     <metallicity>None</metallicity>
-    <age>7.5</age>
+    <age errorminus="0.5" errorplus="0.5">7.5</age>
     <temperature>None</temperature>
     <planet>
       <name>Kepler-87 03</name>
@@ -18,9 +18,11 @@
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>U</status>
-      <lastupdate>2014/06/11</lastupdate>
+      <lastupdate>2014/08/24</lastupdate>
     </planet>
     <planet>
       <name>Kepler-87 04</name>
@@ -34,9 +36,11 @@
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>U</status>
-      <lastupdate>2014/06/11</lastupdate>
+      <lastupdate>2014/08/24</lastupdate>
     </planet>
     <planet>
       <name>Kepler-87 b</name>
@@ -50,9 +54,11 @@
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
       <argumentofperiastron errorminus="27.6" errorplus="27.6">238.6</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2014/06/11</lastupdate>
+      <lastupdate>2014/09/01</lastupdate>
     </planet>
     <planet>
       <name>Kepler-87 c</name>
@@ -66,9 +72,11 @@
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
       <argumentofperiastron errorminus="18.8" errorplus="18.8">223.2</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2014/06/11</lastupdate>
+      <lastupdate>2014/09/01</lastupdate>
     </planet>
   </star>
   <resonance>
@@ -76,7 +84,7 @@
     <q q="3">b</q>
     <literature>
       <title>An independent planet search in the Kepler dataset. II. An extremely low-density super-Earth mass planet around Kepler-87</title>
-      <authors>Ofir, Aviv; Dreizler, Stefan; Zechmeister, Mathias; Husser, Tim-Oliver</authors>
+      <authors ordering="0">Ofir, Aviv; Dreizler, Stefan; Zechmeister, Mathias; Husser, Tim-Oliver (2014)</authors>
       <link>http://adsabs.harvard.edu/abs/2014A%26A...561A.103O</link>
       <publisher>Astronomy &amp; Astrophysics, Volume 561, id.A103, 7 pp.</publisher>
     </literature>

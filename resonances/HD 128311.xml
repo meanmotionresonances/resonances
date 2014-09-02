@@ -9,34 +9,38 @@
     <planet>
       <name>HD 128311 b</name>
       <coordinates/>
-      <massearths>None</massearths>
-      <massjupiters>2.18</massjupiters>
-      <period>458.6</period>
-      <semimajoraxis>1.099</semimajoraxis>
-      <eccentricity>0.25</eccentricity>
-      <timeofpericentre errorminus="76.0" errorplus="76.0">2450210.9</timeofpericentre>
-      <ascendingnode>0.0</ascendingnode>
+      <massearthssini>None</massearthssini>
+      <massjupiterssini errorminus="0.13" errorplus="0.13">1.45</massjupiterssini>
+      <period errorminus="1.6" errorplus="1.6">454.2</period>
+      <semimajoraxis errorminus="0.008" errorplus="0.008">1.086</semimajoraxis>
+      <eccentricity errorminus="0.049" errorplus="0.049">0.345</eccentricity>
+      <timeofpericentre errorminus="11.0" errorplus="11.0">2453835.0</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
-      <argumentofperiastron>110.9</argumentofperiastron>
+      <argumentofperiastron errorminus="16.0" errorplus="16.0">63.0</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2012/11/08</lastupdate>
+      <lastupdate>2014/09/01</lastupdate>
     </planet>
     <planet>
       <name>HD 128311 c</name>
       <coordinates/>
-      <massearths>None</massearths>
-      <massjupiters>3.21</massjupiters>
-      <period>928.3</period>
-      <semimajoraxis>1.76</semimajoraxis>
-      <eccentricity>0.17</eccentricity>
-      <timeofpericentre errorminus="401.0" errorplus="401.0">2450012.2</timeofpericentre>
-      <ascendingnode>0.0</ascendingnode>
+      <massearthssini>None</massearthssini>
+      <massjupiterssini errorminus="0.1" errorplus="0.1">3.24</massjupiterssini>
+      <period errorminus="5.3" errorplus="5.3">923.8</period>
+      <semimajoraxis errorminus="0.017" errorplus="0.017">1.745</semimajoraxis>
+      <eccentricity errorminus="0.058" errorplus="0.058">0.23</eccentricity>
+      <timeofpericentre errorminus="41.0" errorplus="41.0">2456987.0</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
-      <argumentofperiastron>195.5</argumentofperiastron>
+      <argumentofperiastron errorminus="15.0" errorplus="15.0">28.0</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2012/11/08</lastupdate>
+      <lastupdate>2014/09/01</lastupdate>
     </planet>
   </star>
   <resonance>
@@ -44,15 +48,21 @@
     <q q="1">b</q>
     <literature>
       <title>Trojan pairs in the HD 128311 and HD 82943 planetary systems?</title>
-      <authors>Gozdziewski and Konacki (2006)</authors>
+      <authors ordering="1">Gozdziewski and Konacki (2006)</authors>
       <link>http://arxiv.org/abs/astro-ph/0510109</link>
       <publisher/>
     </literature>
     <literature>
       <title>Five New Multicomponent Planetary Systems</title>
-      <authors>Vogt, Steven S.; Butler, R. Paul; Marcy, Geoffrey W.; Fischer, Debra A.; Henry, Gregory W.; Laughlin, Greg; Wright, Jason T.; Johnson, John A.</authors>
+      <authors ordering="1">Vogt, Steven S.; Butler, R. Paul; Marcy, Geoffrey W.; Fischer, Debra A.; Henry, Gregory W.; Laughlin, Greg; Wright, Jason T.; Johnson, John A.</authors>
       <link>http://adsabs.harvard.edu/abs/2005ApJ...632..638V</link>
       <publisher>The Astrophysical Journal, Volume 632, Issue 1, pp. 638-658.</publisher>
+    </literature>
+    <literature>
+      <title>A Search for Multi-planet Systems Using the Hobby-Eberly Telescope</title>
+      <authors ordering="0">Wittenmyer R.A. et al. (2009)</authors>
+      <link>http://adsabs.harvard.edu/abs/2009ApJS..182...97W</link>
+      <publisher>The Astrophysical Journal Supplement, Volume 182, issue 1, pp. 97-119 (2009)</publisher>
     </literature>
   </resonance>
 </system>

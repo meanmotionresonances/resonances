@@ -1,0 +1,80 @@
+<system>
+  <name>Kepler-23</name>
+  <distance>None</distance>
+  <star>
+    <mass>1.11</mass>
+    <metallicity errorminus="0.14" errorplus="0.14">-0.09</metallicity>
+    <age>None</age>
+    <temperature>5760.0</temperature>
+    <planet>
+      <name>Kepler-23 b</name>
+      <coordinates/>
+      <massearths errorminus="3.8" errorplus="3.8">14.7</massearths>
+      <massjupiters>None</massjupiters>
+      <period>7.1073</period>
+      <semimajoraxis>0.075</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2014/09/01</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-23 c</name>
+      <coordinates/>
+      <massearths errorminus="22.0" errorplus="22.0">55.0</massearths>
+      <massjupiters>None</massjupiters>
+      <period>10.7421</period>
+      <semimajoraxis>0.099</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2014/09/01</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-23 02</name>
+      <coordinates/>
+      <massearths>None</massearths>
+      <massjupiters>None</massjupiters>
+      <period>15.275</period>
+      <semimajoraxis>0.125</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
+      <epoch/>
+      <status>U</status>
+      <lastupdate>2014/08/28</lastupdate>
+    </planet>
+  </star>
+  <resonance>
+    <p p="3">c</p>
+    <q q="2">b</q>
+    <literature>
+      <title>Transit Timing Observation from Kepler: II. Confirmation of two multiplanet systems via a non-parametric correlation analysis.</title>
+      <authors ordering="0">Ford Eric B., Fabricky D.C. et al. (2012)</authors>
+      <link>http://adsabs.harvard.edu/abs/2012ApJ...750..113F</link>
+      <publisher>The Astrophysical Journal, volume 750, issue 2, article id. 113, 18 pp. (2012)</publisher>
+    </literature>
+    <literature>
+      <title>Extracting Planet Mass and Eccentricity from TTV Data.</title>
+      <authors ordering="0">Lithwick Yoram et al. (2012)</authors>
+      <link>http://adsabs.harvard.edu/abs/2012ApJ...761..122L</link>
+      <publisher>The Astronomical Journal, Volume 761, Issue 2, Article id. 122, 11 pp. (2012)</publisher>
+    </literature>
+  </resonance>
+</system>

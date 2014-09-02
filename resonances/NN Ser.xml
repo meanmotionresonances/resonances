@@ -9,34 +9,38 @@
     <planet>
       <name>NN Ser d</name>
       <coordinates/>
-      <massearths>None</massearths>
-      <massjupiters errorminus="0.09" errorplus="0.09">1.74</massjupiters>
-      <period errorminus="21.18" errorplus="21.18">2793.07</period>
+      <massearthssini>None</massearthssini>
+      <massjupiterssini errorminus="0.09" errorplus="0.09">1.74</massjupiterssini>
+      <period errorminus="21.2" errorplus="21.2">2795.0</period>
       <semimajoraxis errorminus="0.033" errorplus="0.033">3.358</semimajoraxis>
       <eccentricity errorminus="0.019" errorplus="0.019">0.223</eccentricity>
       <timeofpericentre errorminus="20.0" errorplus="20.0">2454406.0</timeofpericentre>
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
       <argumentofperiastron errorminus="2.6" errorplus="2.6">48.0</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2013/05/29</lastupdate>
+      <lastupdate>2014/09/01</lastupdate>
     </planet>
     <planet>
       <name>NN Ser c</name>
       <coordinates/>
-      <massearths>None</massearths>
-      <massjupiters errorminus="0.12" errorplus="0.12">6.96</massjupiters>
-      <period errorminus="9.86" errorplus="9.86">5654.8</period>
+      <massearthssini>None</massearthssini>
+      <massjupiterssini errorminus="0.12" errorplus="0.12">6.96</massjupiterssini>
+      <period errorminus="9.9" errorplus="9.9">5658.7</period>
       <semimajoraxis errorminus="0.045" errorplus="0.045">5.389</semimajoraxis>
       <eccentricity errorminus="0.011" errorplus="0.011">0.142</eccentricity>
       <timeofpericentre errorminus="80.0" errorplus="80.0">2456145.0</timeofpericentre>
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
       <argumentofperiastron errorminus="6.4" errorplus="6.4">317.0</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2013/05/29</lastupdate>
+      <lastupdate>2014/09/01</lastupdate>
     </planet>
   </star>
   <resonance>
@@ -44,7 +48,7 @@
     <q q="1">d</q>
     <literature>
       <title>The quest for companions to post-common envelope binaries. IV. The 2:1 mean-motion resonance of the planets orbiting NN Serpentis</title>
-      <authors>Beuermann, K.; Dreizler, S.; Hessman, F. V.</authors>
+      <authors ordering="0">Beuermann, K.; Dreizler, S.; Hessman, F. V. (2013)</authors>
       <link>http://adsabs.harvard.edu/abs/2013A%26A...555A.133B</link>
       <publisher>Astronomy &amp; Astrophysics, Volume 555, id.A133, 8 pp.</publisher>
     </literature>

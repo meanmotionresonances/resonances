@@ -1,0 +1,56 @@
+<system>
+  <name>Kepler-29</name>
+  <distance>None</distance>
+  <star>
+    <mass>1.0</mass>
+    <metallicity errorminus="0.3" errorplus="0.3">0.0</metallicity>
+    <age>None</age>
+    <temperature>5750.0</temperature>
+    <planet>
+      <name>Kepler-29 b</name>
+      <coordinates/>
+      <massearths errorminus="2.4" errorplus="2.4">2.8</massearths>
+      <massjupiters>None</massjupiters>
+      <period errorminus="0.00144" errorplus="0.00144">10.335908</period>
+      <semimajoraxis>None</semimajoraxis>
+      <eccentricity>0.06</eccentricity>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>38.0</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2014/09/01</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-29 c</name>
+      <coordinates/>
+      <massearths errorminus="2.0" errorplus="2.0">2.3</massearths>
+      <massjupiters>None</massjupiters>
+      <period errorminus="0.001333" errorplus="0.001333">13.293451</period>
+      <semimajoraxis>None</semimajoraxis>
+      <eccentricity>0.05</eccentricity>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>81.0</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2014/09/01</lastupdate>
+    </planet>
+  </star>
+  <resonance>
+    <p p="9">c</p>
+    <q q="7">b</q>
+    <literature>
+      <title>Transit Time Observations from Kepler. IV. Confirmation of for multiple-planet systems by simple physical models.</title>
+      <authors ordering="0">D. C. Fabrycky, E. B. Ford et al. (2012)</authors>
+      <link>http://adsabs.harvard.edu/abs/2012ApJ...750..114F</link>
+      <publisher>The Astrophysical Journal, Volume 750, Issue 2, article id. 114, 17 pp. (2012)</publisher>
+    </literature>
+  </resonance>
+</system>

@@ -14,13 +14,15 @@
       <period errorminus="0.006" errorplus="0.0082">13.83989</period>
       <semimajoraxis errorminus="0.0015" errorplus="0.0015">0.1153</semimajoraxis>
       <eccentricity>0.04</eccentricity>
-      <timeofpericentre>None</timeofpericentre>
+      <timeofpericentre errorminus="0.0058" errorplus="0.0055">None</timeofpericentre>
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2014/03/26</lastupdate>
+      <lastupdate>2014/08/24</lastupdate>
     </planet>
     <planet>
       <name>Kepler-36 c</name>
@@ -30,21 +32,23 @@
       <period errorminus="0.0054" errorplus="0.0038">16.23855</period>
       <semimajoraxis errorminus="0.0016" errorplus="0.0016">0.1283</semimajoraxis>
       <eccentricity>0.04</eccentricity>
-      <timeofpericentre>None</timeofpericentre>
+      <timeofpericentre errorminus="0.001" errorplus="0.0011">None</timeofpericentre>
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2014/03/26</lastupdate>
+      <lastupdate>2014/08/24</lastupdate>
     </planet>
   </star>
   <resonance>
     <p p="7">c</p>
     <q q="6">b</q>
     <literature>
-      <title>pler-36: A Pair of Planets with Neighboring Orbits and Dissimilar Densities</title>
-      <authors>Carter, Joshua A.; Agol, Eric; Chaplin, William J.; Basu, Sarbani; Bedding, Timothy R.; Buchhave, Lars A.; Christensen-Dalsgaard, Jørgen; Deck, Katherine M.; Elsworth, Yvonne; Fabrycky, Daniel C.; Ford, Eric B.; Fortney, Jonathan J.; Hale, Steven J.; Handb</authors>
+      <title>Kepler-36: A Pair of Planets with Neighboring Orbits and Dissimilar Densities</title>
+      <authors ordering="0">Carter, Joshua A. et al.</authors>
       <link>http://adsabs.harvard.edu/abs/2012Sci...337..556C</link>
       <publisher>Science, Volume 337, Issue 6094, pp. 556- (2012)</publisher>
     </literature>

@@ -18,9 +18,11 @@
       <ascendingnode>0.0</ascendingnode>
       <periastron>None</periastron>
       <argumentofperiastron errorminus="0.27" errorplus="0.27">161.91</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2014/06/06</lastupdate>
+      <lastupdate>2014/08/24</lastupdate>
     </planet>
     <planet>
       <name>HD 202206 c</name>
@@ -28,15 +30,17 @@
       <massearths>None</massearths>
       <massjupiters>2.179</massjupiters>
       <period errorminus="19.056" errorplus="19.056">1397.445</period>
-      <semimajoraxis>2.4832</semimajoraxis>
+      <semimajoraxis>2.49</semimajoraxis>
       <eccentricity errorminus="0.024" errorplus="0.024">0.104</eccentricity>
       <timeofpericentre>None</timeofpericentre>
       <ascendingnode>0.0</ascendingnode>
       <periastron>None</periastron>
       <argumentofperiastron errorminus="15.77" errorplus="15.77">105.56</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2014/06/06</lastupdate>
+      <lastupdate>2014/09/01</lastupdate>
     </planet>
   </star>
   <resonance>
@@ -44,7 +48,7 @@
     <q q="1">b</q>
     <literature>
       <title>Dynamical stability analysis of the HD202206 system and constraints to the planetary orbits</title>
-      <authors>Couetdic et al. (2010)</authors>
+      <authors ordering="0">Couetdic et al. (2010)</authors>
       <link>http://adsabs.harvard.edu/abs/2010A%26A...519A..10C</link>
       <publisher>Astronomy and Astrophysics, Volume 519, id.A10, 14 pp</publisher>
     </literature>

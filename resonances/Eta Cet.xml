@@ -3,7 +3,7 @@
   <distance>37.99</distance>
   <star>
     <mass>1.7</mass>
-    <metallicity>0.12</metallicity>
+    <metallicity errorminus="0.08" errorplus="0.08">0.12</metallicity>
     <age>None</age>
     <temperature>4528.0</temperature>
     <planet>
@@ -18,9 +18,11 @@
       <ascendingnode>None</ascendingnode>
       <periastron errorminus="31.64" errorplus="31.64">244.7</periastron>
       <argumentofperiastron>None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
-      <status/>
-      <lastupdate>None</lastupdate>
+      <status>C</status>
+      <lastupdate>2014/09/01</lastupdate>
     </planet>
     <planet>
       <name>Eta Cet c</name>
@@ -34,9 +36,11 @@
       <ascendingnode>None</ascendingnode>
       <periastron errorminus="32.72" errorplus="32.72">32.5</periastron>
       <argumentofperiastron>None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
-      <status/>
-      <lastupdate>None</lastupdate>
+      <status>C</status>
+      <lastupdate>2014/09/01</lastupdate>
     </planet>
   </star>
   <resonance>
@@ -44,7 +48,7 @@
     <q q="1">b</q>
     <literature>
       <title>Precise radial velocities of giant stars VI. A possible 2:1 resonant planet pair around the K giant star eta Cet</title>
-      <authors>Trifonov, Trifon; Reffert, Sabine; Tan, Xianyu; Lee, Man Hoi; Quirrenbach, Andreas</authors>
+      <authors ordering="0">Trifonov, Trifon; Reffert, Sabine; Tan, Xianyu; Lee, Man Hoi; Quirrenbach, Andreas</authors>
       <link>http://adsabs.harvard.edu/abs/2014arXiv1407.0712T</link>
       <publisher>Accepted for publication in A&amp;A on June 20, 2014</publisher>
     </literature>

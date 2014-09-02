@@ -9,34 +9,38 @@
     <planet>
       <name>HD 200964 b</name>
       <coordinates/>
-      <massearths errorminus="0.08" errorplus="0.14">None</massearths>
-      <massjupiters>1.85</massjupiters>
+      <massearthssini errorminus="0.08" errorplus="0.14">None</massearthssini>
+      <massjupiterssini errorminus="0.08" errorplus="0.14">1.84</massjupiterssini>
       <period errorminus="1.4" errorplus="1.3">613.8</period>
       <semimajoraxis errorminus="0.002" errorplus="0.002">1.601</semimajoraxis>
-      <eccentricity errorminus="-0.02" errorplus="0.04">0.04</eccentricity>
-      <timeofpericentre errorminus="89.3" errorplus="235.5">2454900.0</timeofpericentre>
+      <eccentricity errorminus="0.02" errorplus="0.04">0.04</eccentricity>
+      <timeofpericentre errorminus="30.0" errorplus="30.0">2454916.0</timeofpericentre>
       <ascendingnode>None</ascendingnode>
-      <periastron>None</periastron>
-      <argumentofperiastron errorminus="112.0" errorplus="47.0">288.0</argumentofperiastron>
+      <periastron errorminus="112.0" errorplus="47.0">288.0</periastron>
+      <argumentofperiastron errorminus="112.0" errorplus="47.0">None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2012/11/07</lastupdate>
+      <lastupdate>2014/09/01</lastupdate>
     </planet>
     <planet>
       <name>HD 200964 c</name>
       <coordinates/>
-      <massearths errorminus="0.06" errorplus="0.12">None</massearths>
-      <massjupiters errorminus="0.08" errorplus="0.14">0.895</massjupiters>
+      <massearthssini errorminus="0.06" errorplus="0.12">None</massearthssini>
+      <massjupiterssini errorminus="0.063" errorplus="0.123">0.895</massjupiterssini>
       <period errorminus="3.1" errorplus="5.1">825.0</period>
-      <semimajoraxis errorminus="0.005" errorplus="0.008">1.95</semimajoraxis>
-      <eccentricity errorminus="0.017" errorplus="0.024">0.181</eccentricity>
-      <timeofpericentre errorminus="54.6" errorplus="51.1">2455000.0</timeofpericentre>
+      <semimajoraxis errorminus="0.041" errorplus="0.041">1.944</semimajoraxis>
+      <eccentricity errorminus="0.058" errorplus="0.024">0.181</eccentricity>
+      <timeofpericentre errorminus="130.0" errorplus="130.0">2455029.0</timeofpericentre>
       <ascendingnode>None</ascendingnode>
-      <periastron>None</periastron>
-      <argumentofperiastron errorminus="57.1" errorplus="67.7">182.6</argumentofperiastron>
+      <periastron errorminus="57.1" errorplus="67.7">182.6</periastron>
+      <argumentofperiastron errorminus="57.1" errorplus="67.7">None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2014/06/06</lastupdate>
+      <lastupdate>2014/09/01</lastupdate>
     </planet>
   </star>
   <resonance>
@@ -44,13 +48,13 @@
     <q q="3">b</q>
     <literature>
       <title>Retired stars and their companions. VI. A pair of interacting exoplanet pairs around the subgiants 24 sextanis and HD 200964.</title>
-      <authors>Johnson J A, Payne M, Howard A W et al (2011)</authors>
+      <authors ordering="1">Johnson J A, Payne M, Howard A W et al (2011)</authors>
       <link>http://adsabs.harvard.edu/abs/2011AJ....141...16J</link>
       <publisher>The Astronomical Journal, Volume 141, Issue 1, article id. 16, 10 pp. (2011)</publisher>
     </literature>
     <literature>
       <title>Resonances Required: Dynamical Analysis of the 24 Sex and HD 200964 Planetary Systems</title>
-      <authors>Wittenmyer et al. (2012)</authors>
+      <authors ordering="0">Wittenmyer et al. (2012)</authors>
       <link>http://adsabs.harvard.edu/abs/2012ApJ...761..165W</link>
       <publisher>The Astrophysical Journal, Volume 761, Issue 2, article id. 165, 6 pp. (2012)</publisher>
     </literature>

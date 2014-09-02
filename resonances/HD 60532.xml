@@ -14,13 +14,15 @@
       <period errorminus="0.14" errorplus="0.14">201.83</period>
       <semimajoraxis>0.7606</semimajoraxis>
       <eccentricity errorminus="0.006" errorplus="0.006">0.278</eccentricity>
-      <timeofpericentre>2454000.0</timeofpericentre>
+      <timeofpericentre>None</timeofpericentre>
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
       <argumentofperiastron errorminus="1.05" errorplus="1.05">352.83</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2012/11/14</lastupdate>
+      <lastupdate>2014/08/24</lastupdate>
     </planet>
     <planet>
       <name>HD 60532 c</name>
@@ -30,13 +32,15 @@
       <period errorminus="2.07" errorplus="2.07">607.06</period>
       <semimajoraxis>1.5854</semimajoraxis>
       <eccentricity errorminus="0.008" errorplus="0.008">0.038</eccentricity>
-      <timeofpericentre>2454000.0</timeofpericentre>
+      <timeofpericentre>None</timeofpericentre>
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
       <argumentofperiastron errorminus="9.14" errorplus="9.14">119.49</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2012/11/14</lastupdate>
+      <lastupdate>2014/08/24</lastupdate>
     </planet>
   </star>
   <resonance>
@@ -44,7 +48,7 @@
     <q q="1">b</q>
     <literature>
       <title>HD60532, a planetary system in a 3:1 mean motion resonance</title>
-      <authors>Laskar and Correia (2009)</authors>
+      <authors ordering="0">Laskar and Correia (2009)</authors>
       <link>http://adsabs.harvard.edu/abs/2009A%26A...496L...5L</link>
       <publisher>Astronomy and Astrophysics, Volume 496, Issue 2, 2009, pp.L5-L8</publisher>
     </literature>

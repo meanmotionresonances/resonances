@@ -9,82 +9,92 @@
     <planet>
       <name>55 Cnc e</name>
       <coordinates/>
-      <massearths errorminus="0.04" errorplus="0.04">None</massearths>
-      <massjupiters errorminus="0.0036" errorplus="0.0036">0.034</massjupiters>
-      <period errorminus="0.0001" errorplus="0.0001">2.81705</period>
-      <semimajoraxis errorminus="1e-06" errorplus="1e-06">0.038</semimajoraxis>
-      <eccentricity errorminus="0.06" errorplus="0.06">0.07</eccentricity>
+      <massearthssini errorminus="0.04" errorplus="0.04">None</massearthssini>
+      <massjupiterssini errorminus="0.00081" errorplus="0.00082">0.02547</massjupiterssini>
+      <period errorminus="1.2e-06" errorplus="1.6e-06">0.7365478</period>
+      <semimajoraxis errorminus="1.5e-05" errorplus="1.5e-05">0.015439</semimajoraxis>
+      <eccentricity errorminus="0.019" errorplus="0.022">0.028</eccentricity>
       <timeofpericentre errorminus="0.0001" errorplus="0.0001">249999.83643</timeofpericentre>
-      <ascendingnode>None</ascendingnode>
-      <periastron>None</periastron>
-      <argumentofperiastron errorminus="38.0" errorplus="38.0">248.9</argumentofperiastron>
+      <ascendingnode errorminus="122.18" errorplus="21.08">352.44</ascendingnode>
+      <periastron errorminus="68.14" errorplus="74.33">99.46</periastron>
+      <argumentofperiastron errorminus="38.0" errorplus="38.0">None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2014/06/04</lastupdate>
+      <lastupdate>2014/09/01</lastupdate>
     </planet>
     <planet>
       <name>55 Cnc b</name>
       <coordinates/>
-      <massearths errorminus="0.0036" errorplus="0.0036">None</massearths>
-      <massjupiters errorminus="0.007" errorplus="0.007">0.824</massjupiters>
-      <period errorminus="0.0007" errorplus="0.0007">14.65162</period>
-      <semimajoraxis errorminus="1.1e-06" errorplus="1.1e-06">0.115</semimajoraxis>
-      <eccentricity errorminus="0.008" errorplus="0.008">0.014</eccentricity>
+      <massearthssini errorminus="0.0036" errorplus="0.0036">None</massearthssini>
+      <massjupiterssini errorminus="0.031" errorplus="0.131">0.84</massjupiterssini>
+      <period errorminus="0.00095" errorplus="0.0009">14.65314</period>
+      <semimajoraxis errorminus="0.00011" errorplus="0.00011">0.11339</semimajoraxis>
+      <eccentricity errorminus="0.0016" errorplus="0.0025">0.0023</eccentricity>
       <timeofpericentre errorminus="1.2" errorplus="1.2">2450002.94749</timeofpericentre>
-      <ascendingnode>None</ascendingnode>
-      <periastron>None</periastron>
-      <argumentofperiastron errorminus="30.0" errorplus="30.0">131.94</argumentofperiastron>
+      <ascendingnode>0.0</ascendingnode>
+      <periastron errorminus="107.43" errorplus="200.54">90.0</periastron>
+      <argumentofperiastron errorminus="30.0" errorplus="30.0">None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2014/06/04</lastupdate>
+      <lastupdate>2014/09/01</lastupdate>
     </planet>
     <planet>
       <name>55 Cnc c</name>
       <coordinates/>
-      <massearths errorminus="0.007" errorplus="0.007">None</massearths>
-      <massjupiters errorminus="0.008" errorplus="0.008">0.169</massjupiters>
-      <period errorminus="0.007" errorplus="0.007">44.3446</period>
-      <semimajoraxis errorminus="4.5e-05" errorplus="4.5e-05">0.24</semimajoraxis>
-      <eccentricity errorminus="0.052" errorplus="0.052">0.086</eccentricity>
+      <massearthssini errorminus="0.007" errorplus="0.007">None</massearthssini>
+      <massjupiterssini errorminus="0.0078" errorplus="0.0275">0.1784</massjupiterssini>
+      <period errorminus="0.018" errorplus="0.02">44.373</period>
+      <semimajoraxis errorminus="0.00024" errorplus="0.00024">0.23735</semimajoraxis>
+      <eccentricity errorminus="0.014" errorplus="0.013">0.072</eccentricity>
       <timeofpericentre errorminus="3.3" errorplus="3.3">2449989.3385</timeofpericentre>
       <ascendingnode>None</ascendingnode>
-      <periastron>None</periastron>
-      <argumentofperiastron errorminus="29.0" errorplus="29.0">77.9</argumentofperiastron>
+      <periastron errorminus="6.9" errorplus="6.69">14.83</periastron>
+      <argumentofperiastron errorminus="29.0" errorplus="29.0">None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2014/06/04</lastupdate>
+      <lastupdate>2014/09/01</lastupdate>
     </planet>
     <planet>
       <name>55 Cnc f</name>
       <coordinates/>
-      <massearths errorminus="0.08" errorplus="0.08">None</massearths>
-      <massjupiters errorminus="0.04" errorplus="0.04">0.144</massjupiters>
-      <period errorminus="1.1" errorplus="1.1">260.0</period>
-      <semimajoraxis errorminus="0.007" errorplus="0.007">0.781</semimajoraxis>
-      <eccentricity errorminus="0.2" errorplus="0.2">0.2</eccentricity>
+      <massearthssini errorminus="0.08" errorplus="0.08">None</massearthssini>
+      <massjupiterssini errorminus="0.0093" errorplus="0.0219">0.1479</massjupiterssini>
+      <period errorminus="0.36" errorplus="0.36">260.91</period>
+      <semimajoraxis errorminus="0.001" errorplus="0.001">0.7733</semimajoraxis>
+      <eccentricity errorminus="0.057" errorplus="0.102">0.08</eccentricity>
       <timeofpericentre errorminus="1.1" errorplus="1.1">2450080.9108</timeofpericentre>
       <ascendingnode>None</ascendingnode>
-      <periastron>None</periastron>
-      <argumentofperiastron errorminus="60.0" errorplus="60.0">181.1</argumentofperiastron>
+      <periastron errorminus="45.13" errorplus="58.58">178.26</periastron>
+      <argumentofperiastron errorminus="60.0" errorplus="60.0">None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2014/06/04</lastupdate>
+      <lastupdate>2014/09/01</lastupdate>
     </planet>
     <planet>
       <name>55 Cnc d</name>
       <coordinates/>
-      <massearths errorminus="0.008" errorplus="0.008">None</massearths>
-      <massjupiters errorminus="0.08" errorplus="0.08">3.835</massjupiters>
-      <period errorminus="230.0" errorplus="230.0">5218.0</period>
-      <semimajoraxis errorminus="0.11" errorplus="0.11">5.77</semimajoraxis>
-      <eccentricity errorminus="0.03" errorplus="0.03">0.025</eccentricity>
+      <massearthssini errorminus="0.008" errorplus="0.008">None</massearthssini>
+      <massjupiterssini errorminus="0.15" errorplus="0.6">3.86</massjupiterssini>
+      <period errorminus="26.0" errorplus="25.0">4867.0</period>
+      <semimajoraxis errorminus="0.02" errorplus="0.02">5.446</semimajoraxis>
+      <eccentricity errorminus="0.0065" errorplus="0.0061">0.0269</eccentricity>
       <timeofpericentre errorminus="230.0" errorplus="230.0">2452500.6</timeofpericentre>
       <ascendingnode>None</ascendingnode>
-      <periastron>None</periastron>
-      <argumentofperiastron errorminus="32.0" errorplus="32.0">181.3</argumentofperiastron>
+      <periastron errorminus="12.22" errorplus="11.35">7.94</periastron>
+      <argumentofperiastron errorminus="32.0" errorplus="32.0">None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2014/06/04</lastupdate>
+      <lastupdate>2014/09/01</lastupdate>
     </planet>
   </star>
   <resonance>
@@ -92,9 +102,15 @@
     <q q="1">b</q>
     <literature>
       <title>Five Planets Orbiting 55 Cancri</title>
-      <authors>Fisher et al. (2008)</authors>
+      <authors ordering="1">Fisher et al. (2008)</authors>
       <link>http://adsabs.harvard.edu/abs/2008ApJ...675..790F</link>
       <publisher>The Astrophysical Journal, Volume 675, Issue 1, pp. 790-801</publisher>
+    </literature>
+    <literature>
+      <title>The 55 Cancri planetary system: fully self-consistent N-body constraints and a dynamical analysis</title>
+      <authors ordering="0">Nelson, Benjamin E.; Ford, Eric B.; Wright, Jason T.; Fischer, Debra A.; von Braun, Kaspar; Howard, Andrew W.; Payne, Matthew J.; Dindar, Saleh (2014)</authors>
+      <link>http://adsabs.harvard.edu/abs/2014MNRAS.441..442N</link>
+      <publisher>Monthly Notices of the Royal Astronomical Society, Volume 441, Issue 1, p.442-451</publisher>
     </literature>
   </resonance>
 </system>

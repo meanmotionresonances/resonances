@@ -9,34 +9,38 @@
     <planet>
       <name>HD 108874 b</name>
       <coordinates/>
-      <massearths>None</massearths>
-      <massjupiters>1.36</massjupiters>
-      <period errorminus="2.5" errorplus="2.5">395.4</period>
-      <semimajoraxis>1.051</semimajoraxis>
-      <eccentricity>0.07</eccentricity>
-      <timeofpericentre>2450131.5</timeofpericentre>
+      <massearthssini>None</massearthssini>
+      <massjupiterssini>1.358</massjupiterssini>
+      <period errorminus="2.5" errorplus="2.5">None</period>
+      <semimajoraxis>1.851</semimajoraxis>
+      <eccentricity>0.068</eccentricity>
+      <timeofpericentre errorminus="60.0" errorplus="60.0">None</timeofpericentre>
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
-      <argumentofperiastron>248.4</argumentofperiastron>
+      <argumentofperiastron>255.76</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2012/11/14</lastupdate>
+      <lastupdate>2014/09/01</lastupdate>
     </planet>
     <planet>
       <name>HD 108874 c</name>
       <coordinates/>
-      <massearths>None</massearths>
-      <massjupiters>1.018</massjupiters>
-      <period errorminus="88.0" errorplus="88.0">1605.8</period>
-      <semimajoraxis>2.68</semimajoraxis>
-      <eccentricity>0.25</eccentricity>
-      <timeofpericentre>2449584.8</timeofpericentre>
+      <massearthssini>None</massearthssini>
+      <massjupiterssini>1.008</massjupiterssini>
+      <period errorminus="88.0" errorplus="88.0">None</period>
+      <semimajoraxis>2.658</semimajoraxis>
+      <eccentricity>0.252</eccentricity>
+      <timeofpericentre errorminus="180.0" errorplus="180.0">None</timeofpericentre>
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
-      <argumentofperiastron>17.3</argumentofperiastron>
+      <argumentofperiastron>16.65</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2014/06/05</lastupdate>
+      <lastupdate>2014/09/01</lastupdate>
     </planet>
   </star>
   <resonance>
@@ -44,13 +48,13 @@
     <q q="1">b</q>
     <literature>
       <title>FIVE NEW MULTICOMPONENT PLANETARY SYSTEMS</title>
-      <authors>Vogt et al. (2005)</authors>
+      <authors ordering="0">Vogt et al. (2005)</authors>
       <link>http://adsabs.harvard.edu/abs/2005ApJ...632..638V</link>
       <publisher>The Astrophysical Journal, Volume 632, Issue 1, pp. 638-658</publisher>
     </literature>
     <literature>
       <title>Orbital configurations and dynamical stability of multiplanet systems around sun-like stars HD 202206, 14 Herculis, HD 37124, and HD 108874</title>
-      <authors>Gozdziewski et al. (2006)</authors>
+      <authors ordering="1">Gozdziewski et al. (2006)</authors>
       <link>http://adsabs.harvard.edu/abs/2006ApJ...645..688G</link>
       <publisher>The Astrophysical Journal, Volume 645, Issue 1, pp. 688-703</publisher>
     </literature>

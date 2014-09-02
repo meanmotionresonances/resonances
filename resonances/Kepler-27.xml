@@ -1,0 +1,56 @@
+<system>
+  <name>Kepler-27</name>
+  <distance>None</distance>
+  <star>
+    <mass>0.65</mass>
+    <metallicity errorminus="0.04" errorplus="0.04">0.41</metallicity>
+    <age>None</age>
+    <temperature>5400.0</temperature>
+    <planet>
+      <name>Kepler-27 b</name>
+      <coordinates/>
+      <massearths>None</massearths>
+      <massjupiters>9.11</massjupiters>
+      <period>15.3348</period>
+      <semimajoraxis>0.118</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2014/08/28</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-27 c</name>
+      <coordinates/>
+      <massearths>None</massearths>
+      <massjupiters>13.8</massjupiters>
+      <period>31.3309</period>
+      <semimajoraxis>0.191</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2014/09/01</lastupdate>
+    </planet>
+  </star>
+  <resonance>
+    <p p="2">c</p>
+    <q q="1">b</q>
+    <literature>
+      <title>Transit Time Observations from Kepler: III. Confirmation of 4 Multiple Planet Systems by a Fourier-Domain Study of Anti-correlated Transit Timing Variations</title>
+      <authors ordering="0">J.H. Steffen et al. (2012)</authors>
+      <link>http://adsabs.harvard.edu/abs/2012MNRAS.421.2342S</link>
+      <publisher>Monthly Notices of Royal Astronomical Society, volume 421, issue 3, pp. 2342-2354</publisher>
+    </literature>
+  </resonance>
+</system>

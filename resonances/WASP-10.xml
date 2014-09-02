@@ -14,13 +14,15 @@
       <period errorminus="2.1e-05" errorplus="9.4e-06">3.0927636</period>
       <semimajoraxis errorminus="0.0014" errorplus="0.0012">0.0369</semimajoraxis>
       <eccentricity errorminus="0.004" errorplus="0.014">0.059</eccentricity>
-      <timeofpericentre>2454357.85808</timeofpericentre>
+      <timeofpericentre errorminus="0.00036" errorplus="0.00041">2454357.85808</timeofpericentre>
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
-      <argumentofperiastron errorminus="14.038" errorplus="12.72">167.132</argumentofperiastron>
+      <argumentofperiastron errorminus="14.0" errorplus="12.7">167.1</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2012/11/07</lastupdate>
+      <lastupdate>2014/09/01</lastupdate>
     </planet>
     <planet>
       <name>WASP-10 c</name>
@@ -34,9 +36,11 @@
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>U</status>
-      <lastupdate>2012/11/07</lastupdate>
+      <lastupdate>2014/08/24</lastupdate>
     </planet>
   </star>
   <resonance>
@@ -44,13 +48,13 @@
     <q q="3">b</q>
     <literature>
       <title>WASP-10b: a 3M_J, gas-giant planet transiting a late-type K star</title>
-      <authors>Christian et al. (2009)</authors>
+      <authors ordering="0">Christian et al. (2009)</authors>
       <link>http://adsabs.harvard.edu/abs/2009MNRAS.392.1585C</link>
       <publisher>Monthly Notices of the Royal Astronomical Society, Volume 392, Issue 4, pp. 1585-1590.</publisher>
     </literature>
     <literature>
       <title>Transit timing variation and activity in the WASP-10 planetary system</title>
-      <authors>Maciejewski et al. (2011)</authors>
+      <authors ordering="0">Maciejewski et al. (2011)</authors>
       <link>http://adsabs.harvard.edu/abs/2011MNRAS.411.1204M</link>
       <publisher>Monthly Notices of the Royal Astronomical Society, Volume 411, Issue 2, pp. 1204-1212.</publisher>
     </literature>

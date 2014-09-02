@@ -1,0 +1,56 @@
+<system>
+  <name>Kepler-31</name>
+  <distance>None</distance>
+  <star>
+    <mass>1.21</mass>
+    <metallicity errorminus="0.4" errorplus="0.4">-0.076</metallicity>
+    <age>None</age>
+    <temperature>6340.0</temperature>
+    <planet>
+      <name>Kepler-31 b</name>
+      <coordinates/>
+      <massearths errorminus="35.5" errorplus="35.5">18.4</massearths>
+      <massjupiters>None</massjupiters>
+      <period errorminus="0.002883" errorplus="0.002883">20.856113</period>
+      <semimajoraxis>None</semimajoraxis>
+      <eccentricity>0.008</eccentricity>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>358.0</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2014/09/01</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-31 c</name>
+      <coordinates/>
+      <massearths errorminus="21.2" errorplus="21.2">34.9</massearths>
+      <massjupiters>None</massjupiters>
+      <period errorminus="0.009447" errorplus="0.009447">42.637618</period>
+      <semimajoraxis>None</semimajoraxis>
+      <eccentricity>0.03</eccentricity>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>93.0</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2014/09/01</lastupdate>
+    </planet>
+  </star>
+  <resonance>
+    <p p="2">c</p>
+    <q q="1">b</q>
+    <literature>
+      <title>Transit Time Observations from Kepler. IV. Confirmation of for multiple-planet systems by simple physical models.</title>
+      <authors ordering="0">D. C. Fabrycky, E. B. Ford et al. (2012)</authors>
+      <link>http://adsabs.harvard.edu/abs/2012ApJ...750..114F</link>
+      <publisher>The Astrophysical Journal, Volume 750, Issue 2, Article id. 114, 17 pp. (2012)</publisher>
+    </literature>
+  </resonance>
+</system>

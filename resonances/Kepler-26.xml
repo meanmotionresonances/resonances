@@ -1,54 +1,18 @@
 <system>
-  <name>Kepler-54</name>
+  <name>Kepler-26</name>
   <distance>None</distance>
   <star>
-    <mass>None</mass>
-    <metallicity>None</metallicity>
+    <mass>0.65</mass>
+    <metallicity errorminus="0.08" errorplus="0.08">-0.21</metallicity>
     <age>None</age>
-    <temperature>None</temperature>
+    <temperature>4500.0</temperature>
     <planet>
-      <name>Kepler-54 b</name>
-      <coordinates/>
-      <massearths>None</massearths>
-      <massjupiters>0.92</massjupiters>
-      <period errorminus="6.9e-05" errorplus="6.9e-05">8.0109434</period>
-      <semimajoraxis>None</semimajoraxis>
-      <eccentricity>None</eccentricity>
-      <timeofpericentre>None</timeofpericentre>
-      <ascendingnode>None</ascendingnode>
-      <periastron>None</periastron>
-      <argumentofperiastron>None</argumentofperiastron>
-      <longitude/>
-      <meananomaly/>
-      <epoch/>
-      <status>C</status>
-      <lastupdate>2014/08/24</lastupdate>
-    </planet>
-    <planet>
-      <name>Kepler-54 c</name>
-      <coordinates/>
-      <massearths>None</massearths>
-      <massjupiters>0.37</massjupiters>
-      <period errorminus="0.00029" errorplus="0.00029">12.0717249</period>
-      <semimajoraxis>None</semimajoraxis>
-      <eccentricity>None</eccentricity>
-      <timeofpericentre>None</timeofpericentre>
-      <ascendingnode>None</ascendingnode>
-      <periastron>None</periastron>
-      <argumentofperiastron>None</argumentofperiastron>
-      <longitude/>
-      <meananomaly/>
-      <epoch/>
-      <status>C</status>
-      <lastupdate>2014/08/24</lastupdate>
-    </planet>
-    <planet>
-      <name>Kepler-54 03</name>
+      <name>Kepler-26 03</name>
       <coordinates/>
       <massearths>None</massearths>
       <massjupiters>None</massjupiters>
-      <period errorminus="0.00058" errorplus="0.00058">20.9954014</period>
-      <semimajoraxis>None</semimajoraxis>
+      <period>3.5438</period>
+      <semimajoraxis>0.037</semimajoraxis>
       <eccentricity>None</eccentricity>
       <timeofpericentre>None</timeofpericentre>
       <ascendingnode>None</ascendingnode>
@@ -58,17 +22,53 @@
       <meananomaly/>
       <epoch/>
       <status>U</status>
-      <lastupdate>2014/08/24</lastupdate>
+      <lastupdate>2014/08/28</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-26 b</name>
+      <coordinates/>
+      <massearths>None</massearths>
+      <massjupiters>0.38</massjupiters>
+      <period>12.2829</period>
+      <semimajoraxis>0.085</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2014/08/28</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-26 c</name>
+      <coordinates/>
+      <massearths>None</massearths>
+      <massjupiters>0.375</massjupiters>
+      <period>17.2513</period>
+      <semimajoraxis>0.107</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2014/08/28</lastupdate>
     </planet>
   </star>
   <resonance>
     <p p="3">c</p>
     <q q="2">b</q>
     <literature>
-      <title>Transit Timing Observations from Kepler: VII. Conﬁrmation of 27 planets in 13 multiplanet systems via Transit Timing Variations and orbital stability</title>
-      <authors ordering="0">Steffen J H et al. (2012)</authors>
-      <link>http://adsabs.harvard.edu/abs/2013MNRAS.428.1077S</link>
-      <publisher>Monthly Notices of the Royal Astronomical Society, Volume 428, Issue 2, p.1077-1087</publisher>
+      <title>Transit Time Observations from Kepler: III. Confirmation of 4 Multiple Planet Systems by a Fourier-Domain Study of Anti-correlated Transit Timing Variations</title>
+      <authors ordering="0">J.H. Steffen et al. (2012)</authors>
+      <link>http://adsabs.harvard.edu/abs/2012MNRAS.421.2342S</link>
+      <publisher>Monthly Notices of Royal Astronomical Society, volume 421, issue 3, pp. 2342-2354</publisher>
     </literature>
   </resonance>
 </system>

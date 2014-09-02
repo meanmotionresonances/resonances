@@ -9,34 +9,38 @@
     <planet>
       <name>Kepler-57 b</name>
       <coordinates/>
-      <massearths errorminus="1.8e-05" errorplus="15.0">100.0</massearths>
+      <massearths errorminus="15.0" errorplus="15.0">100.0</massearths>
       <massjupiters>None</massjupiters>
-      <period errorminus="15.0" errorplus="1.8e-05">5.7293196</period>
+      <period errorminus="1.8e-05" errorplus="1.8e-05">5.7293196</period>
       <semimajoraxis>None</semimajoraxis>
       <eccentricity>None</eccentricity>
       <timeofpericentre>None</timeofpericentre>
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2014/06/10</lastupdate>
+      <lastupdate>2014/09/01</lastupdate>
     </planet>
     <planet>
       <name>Kepler-57 c</name>
       <coordinates/>
-      <massearths errorminus="8.6e-05" errorplus="3.7">5.4</massearths>
+      <massearths errorminus="3.7" errorplus="3.7">5.4</massearths>
       <massjupiters>None</massjupiters>
-      <period errorminus="3.7" errorplus="8.6e-05">11.6092567</period>
+      <period errorminus="8.6e-05" errorplus="8.6e-05">11.6092567</period>
       <semimajoraxis>None</semimajoraxis>
       <eccentricity>None</eccentricity>
       <timeofpericentre>None</timeofpericentre>
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2014/06/10</lastupdate>
+      <lastupdate>2014/09/01</lastupdate>
     </planet>
   </star>
   <resonance>
@@ -44,7 +48,7 @@
     <q q="1">b</q>
     <literature>
       <title>Transit Timing Observations from Kepler: VII. Conﬁrmation of 27 planets in 13 multiplanet systems via Transit Timing Variations and orbital stability</title>
-      <authors>Steffen J H et al. (2012)</authors>
+      <authors ordering="0">Steffen J H et al. (2012)</authors>
       <link>http://adsabs.harvard.edu/abs/2013MNRAS.428.1077S</link>
       <publisher>Monthly Notices of the Royal Astronomical Society, Volume 428, Issue 2, p.1077-1087</publisher>
     </literature>

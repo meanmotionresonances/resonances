@@ -9,8 +9,8 @@
     <planet>
       <name>Kepler-58 b</name>
       <coordinates/>
-      <massearths>None</massearths>
-      <massjupiters errorminus="8.1" errorplus="8.1">27.4</massjupiters>
+      <massearths errorminus="8.1" errorplus="8.1">27.4</massearths>
+      <massjupiters errorminus="8.1" errorplus="8.1">None</massjupiters>
       <period errorminus="0.00015" errorplus="0.00015">10.2184954</period>
       <semimajoraxis>None</semimajoraxis>
       <eccentricity>None</eccentricity>
@@ -18,15 +18,17 @@
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2014/06/10</lastupdate>
+      <lastupdate>2014/09/01</lastupdate>
     </planet>
     <planet>
       <name>Kepler-58 c</name>
       <coordinates/>
-      <massearths>None</massearths>
-      <massjupiters errorminus="12.0" errorplus="12.0">41.0</massjupiters>
+      <massearths errorminus="12.0" errorplus="12.0">41.0</massearths>
+      <massjupiters>None</massjupiters>
       <period errorminus="0.00027" errorplus="0.00027">15.5741568</period>
       <semimajoraxis>None</semimajoraxis>
       <eccentricity>None</eccentricity>
@@ -34,9 +36,11 @@
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2014/06/10</lastupdate>
+      <lastupdate>2014/09/01</lastupdate>
     </planet>
   </star>
   <resonance>
@@ -44,7 +48,7 @@
     <q q="2">b</q>
     <literature>
       <title>Transit Timing Observations from Kepler: VII. Conﬁrmation of 27 planets in 13 multiplanet systems via Transit Timing Variations and orbital stability</title>
-      <authors>Steffen J H et al. (2012)</authors>
+      <authors ordering="0">Steffen J H et al. (2012)</authors>
       <link>http://adsabs.harvard.edu/abs/2013MNRAS.428.1077S</link>
       <publisher>Monthly Notices of the Royal Astronomical Society, Volume 428, Issue 2, p.1077-1087</publisher>
     </literature>

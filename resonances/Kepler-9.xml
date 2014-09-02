@@ -9,18 +9,20 @@
     <planet>
       <name>Kepler-9 03</name>
       <coordinates/>
-      <massearths>None</massearths>
+      <massearths>7.0</massearths>
       <massjupiters>None</massjupiters>
-      <period errorminus="4.5e-05">1.5925</period>
-      <semimajoraxis errorminus="0.00043" errorplus="0.00042">0.0273</semimajoraxis>
+      <period>1.5925</period>
+      <semimajoraxis errorminus="0.00043" errorplus="0.00042">None</semimajoraxis>
       <eccentricity>None</eccentricity>
       <timeofpericentre>None</timeofpericentre>
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2014/06/11</lastupdate>
+      <lastupdate>2014/08/24</lastupdate>
     </planet>
     <planet>
       <name>Kepler-9 b</name>
@@ -34,9 +36,11 @@
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2012/11/14</lastupdate>
+      <lastupdate>2014/09/01</lastupdate>
     </planet>
     <planet>
       <name>Kepler-9 c</name>
@@ -50,9 +54,11 @@
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2012/11/14</lastupdate>
+      <lastupdate>2014/09/01</lastupdate>
     </planet>
   </star>
   <resonance>
@@ -60,7 +66,7 @@
     <q q="1">b</q>
     <literature>
       <title>Kepler-9: A System of Multiple Planets Transiting a Sun-Like Star, Confirmed by Timing Variations</title>
-      <authors>Holman et al. (2009)</authors>
+      <authors ordering="0">Holman et al. (2009)</authors>
       <link>http://adsabs.harvard.edu/abs/2010Sci...330...51H</link>
       <publisher>Science, Volume 330, Issue 6000, pp. 51- (2010)</publisher>
     </literature>

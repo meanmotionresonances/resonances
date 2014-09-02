@@ -18,9 +18,11 @@
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2014/06/08</lastupdate>
+      <lastupdate>2014/08/24</lastupdate>
     </planet>
     <planet>
       <name>Kepler-48 c</name>
@@ -34,9 +36,11 @@
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2014/06/08</lastupdate>
+      <lastupdate>2014/08/24</lastupdate>
     </planet>
     <planet>
       <name>Kepler-48 03</name>
@@ -50,9 +54,11 @@
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
+      <longitude/>
+      <meananomaly/>
       <epoch/>
       <status>U</status>
-      <lastupdate>2014/06/08</lastupdate>
+      <lastupdate>2014/08/24</lastupdate>
     </planet>
   </star>
   <resonance>
@@ -60,7 +66,7 @@
     <q q="1">b</q>
     <literature>
       <title>Transit Timing Observations from Kepler: VII. Conﬁrmation of 27 planets in 13 multiplanet systems via Transit Timing Variations and orbital stability</title>
-      <authors>Steffen J H et al. (2012)</authors>
+      <authors ordering="0">Steffen J H et al. (2012)</authors>
       <link>http://adsabs.harvard.edu/abs/2013MNRAS.428.1077S</link>
       <publisher>Monthly Notices of the Royal Astronomical Society, Volume 428, Issue 2, p.1077-1087</publisher>
     </literature>
