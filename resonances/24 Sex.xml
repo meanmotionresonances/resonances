@@ -9,7 +9,7 @@
     <planet>
       <name>24 Sex b</name>
       <coordinates/>
-      <massearthssini>None</massearthssini>
+      <massearthssini computed="true">600.0</massearthssini>
       <massjupiterssini errorminus="0.38" errorplus="0.26">1.99</massjupiterssini>
       <period errorminus="4.5" errorplus="2.1">452.8</period>
       <semimajoraxis errorminus="0.009" errorplus="0.004">1.333</semimajoraxis>
@@ -19,7 +19,9 @@
       <periastron>None</periastron>
       <argumentofperiastron errorminus="165.4" errorplus="277.9">9.2</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
@@ -27,7 +29,7 @@
     <planet>
       <name>24 Sex c</name>
       <coordinates/>
-      <massearthssini>None</massearthssini>
+      <massearthssini computed="true">300.0</massearthssini>
       <massjupiterssini errorminus="0.22" errorplus="0.35">0.86</massjupiterssini>
       <period errorminus="13.8" errorplus="32.4">883.0</period>
       <semimajoraxis errorminus="0.02" errorplus="0.05">2.08</semimajoraxis>
@@ -37,7 +39,9 @@
       <periastron>None</periastron>
       <argumentofperiastron errorminus="320.9" errorplus="182.2">220.5</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>

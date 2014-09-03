@@ -1,5 +1,8 @@
 <system>
   <name>Kepler-49</name>
+  <name>KOI-248</name>
+  <name>KIC 5364071</name>
+  <name>KOI 248</name>
   <distance>None</distance>
   <star>
     <mass>None</mass>
@@ -7,10 +10,13 @@
     <age>None</age>
     <temperature>None</temperature>
     <planet>
-      <name>Kepler-49 03</name>
+      <name>Kepler-49 d</name>
+      <name>KOI-248 03</name>
+      <name>KIC 5364071 d</name>
+      <name>KOI 248 03</name>
       <coordinates/>
-      <massearths>None</massearths>
-      <massjupiters>None</massjupiters>
+      <massearths/>
+      <massjupiters/>
       <period errorminus="1.2e-05" errorplus="1.2e-05">2.576555</period>
       <semimajoraxis>None</semimajoraxis>
       <eccentricity>None</eccentricity>
@@ -19,15 +25,20 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>U</status>
       <lastupdate>2014/08/24</lastupdate>
     </planet>
     <planet>
       <name>Kepler-49 b</name>
+      <name>KOI-248 01</name>
+      <name>KIC 5364071 b</name>
+      <name>KOI 248 01</name>
       <coordinates/>
-      <massearths>None</massearths>
+      <massearths computed="true">310.0</massearths>
       <massjupiters>0.98</massjupiters>
       <period errorminus="2.2e-05" errorplus="2.2e-05">7.2037945</period>
       <semimajoraxis>None</semimajoraxis>
@@ -37,15 +48,20 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/08/24</lastupdate>
     </planet>
     <planet>
       <name>Kepler-49 c</name>
+      <name>KOI-248 02</name>
+      <name>KIC 5364071 c</name>
+      <name>KOI 248 02</name>
       <coordinates/>
-      <massearths>None</massearths>
+      <massearths computed="true">230.0</massearths>
       <massjupiters>0.72</massjupiters>
       <period errorminus="6.9e-05" errorplus="6.9e-05">10.9129343</period>
       <semimajoraxis>None</semimajoraxis>
@@ -55,16 +71,21 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/08/24</lastupdate>
     </planet>
     <planet>
-      <name>Kepler-49 04</name>
+      <name>Kepler-49 e</name>
+      <name>KOI-248 04</name>
+      <name>KIC 5364071 e</name>
+      <name>KOI 248 04</name>
       <coordinates/>
-      <massearths>None</massearths>
-      <massjupiters>None</massjupiters>
+      <massearths/>
+      <massjupiters/>
       <period errorminus="0.00021" errorplus="0.00021">18.5962181</period>
       <semimajoraxis>None</semimajoraxis>
       <eccentricity>None</eccentricity>
@@ -73,7 +94,9 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>U</status>
       <lastupdate>2014/08/24</lastupdate>

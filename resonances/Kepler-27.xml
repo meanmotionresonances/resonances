@@ -1,5 +1,8 @@
 <system>
   <name>Kepler-27</name>
+  <name>KOI 841</name>
+  <name>KOI-841</name>
+  <name>KIC 5792202</name>
   <distance>None</distance>
   <star>
     <mass>0.65</mass>
@@ -8,8 +11,11 @@
     <temperature>5400.0</temperature>
     <planet>
       <name>Kepler-27 b</name>
+      <name>KOI 841 01</name>
+      <name>KOI-841 01</name>
+      <name>KIC 5792202 b</name>
       <coordinates/>
-      <massearths>None</massearths>
+      <massearths computed="true">2900.0</massearths>
       <massjupiters>9.11</massjupiters>
       <period>15.3348</period>
       <semimajoraxis>0.118</semimajoraxis>
@@ -19,15 +25,20 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/08/28</lastupdate>
     </planet>
     <planet>
       <name>Kepler-27 c</name>
+      <name>KOI 841 02</name>
+      <name>KOI-841 02</name>
+      <name>KIC 5792202 c</name>
       <coordinates/>
-      <massearths>None</massearths>
+      <massearths computed="true">4390.0</massearths>
       <massjupiters>13.8</massjupiters>
       <period>31.3309</period>
       <semimajoraxis>0.191</semimajoraxis>
@@ -37,7 +48,9 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>

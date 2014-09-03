@@ -1,5 +1,8 @@
 <system>
   <name>Kepler-11</name>
+  <name>KOI-157</name>
+  <name>KIC 6541920</name>
+  <name>KOI 157</name>
   <distance>None</distance>
   <star>
     <mass>0.95</mass>
@@ -8,9 +11,12 @@
     <temperature>5680.0</temperature>
     <planet>
       <name>Kepler-11 b</name>
+      <name>KOI-157 06</name>
+      <name>KIC 6541920 b</name>
+      <name>KOI 157 06</name>
       <coordinates/>
       <massearths errorminus="2.0" errorplus="2.2">4.3</massearths>
-      <massjupiters>None</massjupiters>
+      <massjupiters computed="true">0.01</massjupiters>
       <period errorminus="0.00016" errorplus="0.00016">10.30375</period>
       <semimajoraxis errorminus="0.003" errorplus="0.003">0.091</semimajoraxis>
       <eccentricity>None</eccentricity>
@@ -19,16 +25,21 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
     </planet>
     <planet>
       <name>Kepler-11 c</name>
+      <name>KOI-157 01</name>
+      <name>KIC 6541920 c</name>
+      <name>KOI 157 01</name>
       <coordinates/>
       <massearths errorminus="6.1" errorplus="4.8">13.5</massearths>
-      <massjupiters>None</massjupiters>
+      <massjupiters computed="true">0.04</massjupiters>
       <period errorminus="8e-05" errorplus="8e-05">13.02502</period>
       <semimajoraxis errorminus="0.004" errorplus="0.004">0.106</semimajoraxis>
       <eccentricity>None</eccentricity>
@@ -37,16 +48,21 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
     </planet>
     <planet>
       <name>Kepler-11 d</name>
+      <name>KOI-157 06</name>
+      <name>KIC 6541920 d</name>
+      <name>KOI 157 06</name>
       <coordinates/>
       <massearths errorminus="1.7" errorplus="3.1">6.1</massearths>
-      <massjupiters>None</massjupiters>
+      <massjupiters computed="true">0.02</massjupiters>
       <period errorminus="0.00021" errorplus="0.00021">22.68719</period>
       <semimajoraxis errorminus="0.005" errorplus="0.005">0.159</semimajoraxis>
       <eccentricity>None</eccentricity>
@@ -55,16 +71,21 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
     </planet>
     <planet>
       <name>Kepler-11 e</name>
+      <name>KOI-157 03</name>
+      <name>KIC 6541920 e</name>
+      <name>KOI 157 03</name>
       <coordinates/>
       <massearths errorminus="1.9" errorplus="2.5">8.4</massearths>
-      <massjupiters>None</massjupiters>
+      <massjupiters computed="true">0.03</massjupiters>
       <period errorminus="0.00028" errorplus="0.00028">31.9959</period>
       <semimajoraxis errorminus="0.007" errorplus="0.007">0.194</semimajoraxis>
       <eccentricity>None</eccentricity>
@@ -73,16 +94,21 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
     </planet>
     <planet>
       <name>Kepler-11 f</name>
+      <name>KOI-157 04</name>
+      <name>KIC 6541920 f</name>
+      <name>KOI 157 04</name>
       <coordinates/>
       <massearths errorminus="1.2" errorplus="2.2">2.3</massearths>
-      <massjupiters>None</massjupiters>
+      <massjupiters computed="true">0.007</massjupiters>
       <period errorminus="0.00074" errorplus="0.00074">46.68876</period>
       <semimajoraxis errorminus="0.009" errorplus="0.009">0.25</semimajoraxis>
       <eccentricity>None</eccentricity>
@@ -91,16 +117,21 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
     </planet>
     <planet>
       <name>Kepler-11 g</name>
+      <name>KOI-157 05</name>
+      <name>KIC 6541920 g</name>
+      <name>KOI 157 05</name>
       <coordinates/>
       <massearths>300.0</massearths>
-      <massjupiters>None</massjupiters>
+      <massjupiters computed="true">0.9</massjupiters>
       <period errorminus="0.00112" errorplus="0.00112">118.37774</period>
       <semimajoraxis errorminus="0.016" errorplus="0.016">0.462</semimajoraxis>
       <eccentricity>None</eccentricity>
@@ -109,7 +140,9 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/08/24</lastupdate>

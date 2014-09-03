@@ -1,5 +1,7 @@
 <system>
   <name>Kepler-60</name>
+  <name>KOI-2086</name>
+  <name>KOI 2086</name>
   <distance>None</distance>
   <star>
     <mass>None</mass>
@@ -8,8 +10,10 @@
     <temperature>None</temperature>
     <planet>
       <name>Kepler-60 b</name>
+      <name>KOI-2086 01</name>
+      <name>KOI 2086 01</name>
       <coordinates/>
-      <massearths>None</massearths>
+      <massearths computed="true">79.0</massearths>
       <massjupiters>0.25</massjupiters>
       <period errorminus="9.3e-05" errorplus="9.3e-05">7.1316185</period>
       <semimajoraxis>None</semimajoraxis>
@@ -19,15 +23,19 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/08/24</lastupdate>
     </planet>
     <planet>
       <name>Kepler-60 c</name>
+      <name>KOI-2086 02</name>
+      <name>KOI 2086 02</name>
       <coordinates/>
-      <massearths>None</massearths>
+      <massearths computed="true">180.0</massearths>
       <massjupiters>0.56</massjupiters>
       <period errorminus="0.00011" errorplus="0.00011">8.9193459</period>
       <semimajoraxis>None</semimajoraxis>
@@ -37,15 +45,19 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/08/24</lastupdate>
     </planet>
     <planet>
       <name>Kepler-60 d</name>
+      <name>KOI-2086 03</name>
+      <name>KOI 2086 03</name>
       <coordinates/>
-      <massearths>None</massearths>
+      <massearths computed="true">220.0</massearths>
       <massjupiters>0.68</massjupiters>
       <period errorminus="0.0002" errorplus="0.0002">11.9016171</period>
       <semimajoraxis>None</semimajoraxis>
@@ -55,7 +67,9 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/08/24</lastupdate>

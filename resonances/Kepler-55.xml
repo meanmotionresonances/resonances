@@ -1,5 +1,8 @@
 <system>
   <name>Kepler-55</name>
+  <name>KIC 8150320</name>
+  <name>KOI-904</name>
+  <name>KOI 904</name>
   <distance>None</distance>
   <star>
     <mass>None</mass>
@@ -7,10 +10,13 @@
     <age>None</age>
     <temperature>None</temperature>
     <planet>
-      <name>Kepler-55 01</name>
+      <name>Kepler-55 d</name>
+      <name>KIC 8150320 d</name>
+      <name>KOI-904 01</name>
+      <name>KOI 904 01</name>
       <coordinates/>
-      <massearths>None</massearths>
-      <massjupiters>None</massjupiters>
+      <massearths/>
+      <massjupiters/>
       <period errorminus="1.2e-05" errorplus="1.2e-05">2.2111206</period>
       <semimajoraxis>None</semimajoraxis>
       <eccentricity>None</eccentricity>
@@ -19,16 +25,21 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>U</status>
       <lastupdate>2014/08/24</lastupdate>
     </planet>
     <planet>
-      <name>Kepler-55 04</name>
+      <name>Kepler-55 e</name>
+      <name>KIC 8150320 e</name>
+      <name>KOI-904 04</name>
+      <name>KOI 904 04</name>
       <coordinates/>
-      <massearths>None</massearths>
-      <massjupiters>None</massjupiters>
+      <massearths/>
+      <massjupiters/>
       <period errorminus="4.2e-05" errorplus="4.2e-05">4.6175265</period>
       <semimajoraxis>None</semimajoraxis>
       <eccentricity>None</eccentricity>
@@ -37,16 +48,21 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>U</status>
       <lastupdate>2014/08/24</lastupdate>
     </planet>
     <planet>
-      <name>Kepler-55 05</name>
+      <name>Kepler-55 f</name>
+      <name>KIC 8150320 f</name>
+      <name>KOI-904 05</name>
+      <name>KOI 904 05</name>
       <coordinates/>
-      <massearths>None</massearths>
-      <massjupiters>None</massjupiters>
+      <massearths/>
+      <massjupiters/>
       <period errorminus="0.00011" errorplus="0.00011">10.1986198</period>
       <semimajoraxis>None</semimajoraxis>
       <eccentricity>None</eccentricity>
@@ -55,15 +71,20 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>U</status>
       <lastupdate>2014/08/24</lastupdate>
     </planet>
     <planet>
       <name>Kepler-55 b</name>
+      <name>KIC 8150320 b</name>
+      <name>KOI-904 02</name>
+      <name>KOI 904 02</name>
       <coordinates/>
-      <massearths>None</massearths>
+      <massearths computed="true">474.0</massearths>
       <massjupiters>1.49</massjupiters>
       <period errorminus="0.00024" errorplus="0.00024">27.9481449</period>
       <semimajoraxis>None</semimajoraxis>
@@ -73,15 +94,20 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/08/24</lastupdate>
     </planet>
     <planet>
       <name>Kepler-55 c</name>
+      <name>KIC 8150320 c</name>
+      <name>KOI-904 03</name>
+      <name>KOI 904 03</name>
       <coordinates/>
-      <massearths>None</massearths>
+      <massearths computed="true">353.0</massearths>
       <massjupiters>1.11</massjupiters>
       <period errorminus="0.00053" errorplus="0.00053">42.1516418</period>
       <semimajoraxis>None</semimajoraxis>
@@ -91,7 +117,9 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/08/24</lastupdate>

@@ -1,5 +1,8 @@
 <system>
   <name>Kepler-24</name>
+  <name>KOI 1102</name>
+  <name>KOI-1102</name>
+  <name>KIC 3231341</name>
   <distance>None</distance>
   <star>
     <mass>1.03</mass>
@@ -8,9 +11,12 @@
     <temperature>5800.0</temperature>
     <planet>
       <name>Kepler-24 04</name>
+      <name>KOI 1102 04</name>
+      <name>KOI-1102 04</name>
+      <name>KIC 3231341 04</name>
       <coordinates/>
-      <massearths>None</massearths>
-      <massjupiters>None</massjupiters>
+      <massearths/>
+      <massjupiters/>
       <period>4.2443</period>
       <semimajoraxis>0.052</semimajoraxis>
       <eccentricity>None</eccentricity>
@@ -19,16 +25,21 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>U</status>
       <lastupdate>2014/08/28</lastupdate>
     </planet>
     <planet>
       <name>Kepler-24 b</name>
+      <name>KOI 1102 02</name>
+      <name>KOI-1102 02</name>
+      <name>KIC 3231341 b</name>
       <coordinates/>
       <massearths errorminus="5.9" errorplus="5.9">28.4</massearths>
-      <massjupiters>None</massjupiters>
+      <massjupiters computed="true">0.09</massjupiters>
       <period>8.1453</period>
       <semimajoraxis>0.08</semimajoraxis>
       <eccentricity>None</eccentricity>
@@ -37,16 +48,21 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
     </planet>
     <planet>
       <name>Kepler-24 c</name>
+      <name>KOI 1102 01</name>
+      <name>KOI-1102 01</name>
+      <name>KIC 3231341 c</name>
       <coordinates/>
       <massearths errorminus="7.9" errorplus="7.9">50.4</massearths>
-      <massjupiters>None</massjupiters>
+      <massjupiters computed="true">0.2</massjupiters>
       <period>12.3335</period>
       <semimajoraxis>0.106</semimajoraxis>
       <eccentricity>None</eccentricity>
@@ -55,16 +71,21 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
     </planet>
     <planet>
       <name>Kepler-24 03</name>
+      <name>KOI 1102 03</name>
+      <name>KOI-1102 03</name>
+      <name>KIC 3231341 03</name>
       <coordinates/>
-      <massearths>None</massearths>
-      <massjupiters>None</massjupiters>
+      <massearths/>
+      <massjupiters/>
       <period>18.9981</period>
       <semimajoraxis>0.141</semimajoraxis>
       <eccentricity>None</eccentricity>
@@ -73,7 +94,9 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>U</status>
       <lastupdate>2014/08/28</lastupdate>

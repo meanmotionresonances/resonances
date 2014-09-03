@@ -9,7 +9,7 @@
     <planet>
       <name>HD 73526 b</name>
       <coordinates/>
-      <massearthssini errorminus="0.16" errorplus="0.16">None</massearthssini>
+      <massearthssini computed="true">900.0</massearthssini>
       <massjupiterssini errorminus="0.2" errorplus="0.2">2.9</massjupiterssini>
       <period errorminus="0.9" errorplus="0.9">188.3</period>
       <semimajoraxis errorminus="0.05" errorplus="0.05">None</semimajoraxis>
@@ -17,9 +17,11 @@
       <timeofpericentre errorminus="15.0" errorplus="15.0">None</timeofpericentre>
       <ascendingnode>None</ascendingnode>
       <periastron errorminus="9.0" errorplus="9.0">203.0</periastron>
-      <argumentofperiastron errorminus="11.0" errorplus="11.0">None</argumentofperiastron>
+      <argumentofperiastron errorminus="13.0" errorplus="13.0">None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>86.0</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
@@ -27,7 +29,7 @@
     <planet>
       <name>HD 73526 c</name>
       <coordinates/>
-      <massearthssini errorminus="0.17" errorplus="0.17">None</massearthssini>
+      <massearthssini computed="true">800.0</massearthssini>
       <massjupiterssini errorminus="0.3" errorplus="0.3">2.5</massjupiterssini>
       <period errorminus="2.4" errorplus="2.4">377.8</period>
       <semimajoraxis errorminus="0.08" errorplus="0.08">None</semimajoraxis>
@@ -35,9 +37,11 @@
       <timeofpericentre errorminus="33.0" errorplus="33.0">None</timeofpericentre>
       <ascendingnode>None</ascendingnode>
       <periastron errorminus="76.0" errorplus="76.0">13.0</periastron>
-      <argumentofperiastron errorminus="30.0" errorplus="30.0">None</argumentofperiastron>
+      <argumentofperiastron errorminus="27.0" errorplus="27.0">None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>82.0</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>

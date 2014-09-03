@@ -1,5 +1,8 @@
 <system>
   <name>Kepler-56</name>
+  <name>KOI-1241</name>
+  <name>KID 8150320</name>
+  <name>KOI 1241</name>
   <distance>None</distance>
   <star>
     <mass>1.32</mass>
@@ -8,9 +11,12 @@
     <temperature>4840.0</temperature>
     <planet>
       <name>Kepler-56 b</name>
+      <name>KOI-1241 02</name>
+      <name>KID 8150320 b</name>
+      <name>KOI 1241 02</name>
       <coordinates/>
       <massearths errorminus="3.6" errorplus="3.9">22.1</massearths>
-      <massjupiters>None</massjupiters>
+      <massjupiters computed="true">0.07</massjupiters>
       <period errorminus="0.001" errorplus="0.0011">10.5016</period>
       <semimajoraxis errorminus="0.0037" errorplus="0.0037">0.1028</semimajoraxis>
       <eccentricity>None</eccentricity>
@@ -19,16 +25,21 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/08/24</lastupdate>
     </planet>
     <planet>
       <name>Kepler-56 c</name>
+      <name>KOI-1241 01</name>
+      <name>KID 8150320 c</name>
+      <name>KOI 1241 01</name>
       <coordinates/>
       <massearths errorminus="19.0" errorplus="21.0">181.0</massearths>
-      <massjupiters>None</massjupiters>
+      <massjupiters computed="true">0.6</massjupiters>
       <period errorminus="0.00062" errorplus="0.00059">21.40239</period>
       <semimajoraxis errorminus="0.0059" errorplus="0.0059">0.1652</semimajoraxis>
       <eccentricity>None</eccentricity>
@@ -37,7 +48,9 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>

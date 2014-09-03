@@ -9,7 +9,7 @@
     <planet>
       <name>HD 45364 b</name>
       <coordinates/>
-      <massearthssini>None</massearthssini>
+      <massearthssini computed="true">59.51</massearthssini>
       <massjupiterssini>0.1872</massjupiterssini>
       <period errorminus="0.37" errorplus="0.37">226.93</period>
       <semimajoraxis>0.6813</semimajoraxis>
@@ -19,7 +19,9 @@
       <periastron>None</periastron>
       <argumentofperiastron errorminus="6.34" errorplus="6.34">162.58</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/08/24</lastupdate>
@@ -27,7 +29,7 @@
     <planet>
       <name>HD 45364 c</name>
       <coordinates/>
-      <massearthssini>None</massearthssini>
+      <massearthssini computed="true">209.1</massearthssini>
       <massjupiterssini>0.6579</massjupiterssini>
       <period errorminus="0.28" errorplus="0.28">342.85</period>
       <semimajoraxis>0.8972</semimajoraxis>
@@ -37,7 +39,9 @@
       <periastron>None</periastron>
       <argumentofperiastron errorminus="4.3" errorplus="4.3">7.41</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/08/24</lastupdate>

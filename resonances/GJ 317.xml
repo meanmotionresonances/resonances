@@ -1,5 +1,7 @@
 <system>
   <name>GJ 317</name>
+  <name>Gliese 317</name>
+  <name>Gl 317</name>
   <distance>None</distance>
   <star>
     <mass>0.42</mass>
@@ -9,7 +11,7 @@
     <planet>
       <name>GJ 317 b</name>
       <coordinates/>
-      <massearthssini>None</massearthssini>
+      <massearthssini computed="true">380.0</massearthssini>
       <massjupiterssini>1.2</massjupiterssini>
       <period errorminus="4.0" errorplus="4.0">692.9</period>
       <semimajoraxis>0.95</semimajoraxis>
@@ -19,7 +21,9 @@
       <periastron>None</periastron>
       <argumentofperiastron errorminus="10.0" errorplus="10.0">344.0</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/08/24</lastupdate>
@@ -27,7 +31,7 @@
     <planet>
       <name>GJ 317 c</name>
       <coordinates/>
-      <massearthssini>None</massearthssini>
+      <massearthssini computed="true">260.0</massearthssini>
       <massjupiterssini>0.83</massjupiterssini>
       <period>2700.0</period>
       <semimajoraxis>2.5</semimajoraxis>
@@ -37,7 +41,9 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>U</status>
       <lastupdate>2014/08/24</lastupdate>

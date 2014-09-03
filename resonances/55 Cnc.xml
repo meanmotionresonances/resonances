@@ -9,7 +9,7 @@
     <planet>
       <name>55 Cnc e</name>
       <coordinates/>
-      <massearthssini errorminus="0.04" errorplus="0.04">None</massearthssini>
+      <massearthssini computed="true">8.0</massearthssini>
       <massjupiterssini errorminus="0.00081" errorplus="0.00082">0.02547</massjupiterssini>
       <period errorminus="1.2e-06" errorplus="1.6e-06">0.7365478</period>
       <semimajoraxis errorminus="1.5e-05" errorplus="1.5e-05">0.015439</semimajoraxis>
@@ -19,7 +19,9 @@
       <periastron errorminus="68.14" errorplus="74.33">99.46</periastron>
       <argumentofperiastron errorminus="38.0" errorplus="38.0">None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
@@ -27,7 +29,7 @@
     <planet>
       <name>55 Cnc b</name>
       <coordinates/>
-      <massearthssini errorminus="0.0036" errorplus="0.0036">None</massearthssini>
+      <massearthssini computed="true">300.0</massearthssini>
       <massjupiterssini errorminus="0.031" errorplus="0.131">0.84</massjupiterssini>
       <period errorminus="0.00095" errorplus="0.0009">14.65314</period>
       <semimajoraxis errorminus="0.00011" errorplus="0.00011">0.11339</semimajoraxis>
@@ -37,7 +39,9 @@
       <periastron errorminus="107.43" errorplus="200.54">90.0</periastron>
       <argumentofperiastron errorminus="30.0" errorplus="30.0">None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
@@ -45,7 +49,7 @@
     <planet>
       <name>55 Cnc c</name>
       <coordinates/>
-      <massearthssini errorminus="0.007" errorplus="0.007">None</massearthssini>
+      <massearthssini computed="true">60.0</massearthssini>
       <massjupiterssini errorminus="0.0078" errorplus="0.0275">0.1784</massjupiterssini>
       <period errorminus="0.018" errorplus="0.02">44.373</period>
       <semimajoraxis errorminus="0.00024" errorplus="0.00024">0.23735</semimajoraxis>
@@ -55,7 +59,9 @@
       <periastron errorminus="6.9" errorplus="6.69">14.83</periastron>
       <argumentofperiastron errorminus="29.0" errorplus="29.0">None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
@@ -63,7 +69,7 @@
     <planet>
       <name>55 Cnc f</name>
       <coordinates/>
-      <massearthssini errorminus="0.08" errorplus="0.08">None</massearthssini>
+      <massearthssini computed="true">50.0</massearthssini>
       <massjupiterssini errorminus="0.0093" errorplus="0.0219">0.1479</massjupiterssini>
       <period errorminus="0.36" errorplus="0.36">260.91</period>
       <semimajoraxis errorminus="0.001" errorplus="0.001">0.7733</semimajoraxis>
@@ -73,7 +79,9 @@
       <periastron errorminus="45.13" errorplus="58.58">178.26</periastron>
       <argumentofperiastron errorminus="60.0" errorplus="60.0">None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
@@ -81,7 +89,7 @@
     <planet>
       <name>55 Cnc d</name>
       <coordinates/>
-      <massearthssini errorminus="0.008" errorplus="0.008">None</massearthssini>
+      <massearthssini computed="true">1000.0</massearthssini>
       <massjupiterssini errorminus="0.15" errorplus="0.6">3.86</massjupiterssini>
       <period errorminus="26.0" errorplus="25.0">4867.0</period>
       <semimajoraxis errorminus="0.02" errorplus="0.02">5.446</semimajoraxis>
@@ -91,7 +99,9 @@
       <periastron errorminus="12.22" errorplus="11.35">7.94</periastron>
       <argumentofperiastron errorminus="32.0" errorplus="32.0">None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>

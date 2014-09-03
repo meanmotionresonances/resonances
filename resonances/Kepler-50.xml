@@ -1,5 +1,7 @@
 <system>
   <name>Kepler-50</name>
+  <name>KOI-262</name>
+  <name>KOI 262</name>
   <distance>None</distance>
   <star>
     <mass>None</mass>
@@ -8,9 +10,11 @@
     <temperature>None</temperature>
     <planet>
       <name>Kepler-50 b</name>
+      <name>KOI-262 01</name>
+      <name>KOI 262 01</name>
       <coordinates/>
       <massearths errorminus="1.3" errorplus="1.3">7.6</massearths>
-      <massjupiters>None</massjupiters>
+      <massjupiters computed="true">0.02</massjupiters>
       <period errorminus="5.2e-05" errorplus="5.2e-05">7.8125124</period>
       <semimajoraxis>None</semimajoraxis>
       <eccentricity>None</eccentricity>
@@ -19,16 +23,20 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
     </planet>
     <planet>
       <name>Kepler-50 c</name>
+      <name>KOI-262 02</name>
+      <name>KOI 262 02</name>
       <coordinates/>
       <massearths errorminus="1.1" errorplus="1.1">7.1</massearths>
-      <massjupiters>None</massjupiters>
+      <massjupiters computed="true">0.02</massjupiters>
       <period errorminus="5.6e-05" errorplus="5.6e-05">9.3761368</period>
       <semimajoraxis>None</semimajoraxis>
       <eccentricity>None</eccentricity>
@@ -37,7 +45,9 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>

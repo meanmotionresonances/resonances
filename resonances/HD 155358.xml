@@ -9,7 +9,7 @@
     <planet>
       <name>HD 155358 b</name>
       <coordinates/>
-      <massearthssini errorminus="0.05" errorplus="0.05">None</massearthssini>
+      <massearthssini computed="true">300.0</massearthssini>
       <massjupiterssini errorminus="0.05" errorplus="0.05">0.85</massjupiterssini>
       <period errorminus="0.3" errorplus="0.3">194.3</period>
       <semimajoraxis errorminus="0.01" errorplus="0.01">0.64</semimajoraxis>
@@ -17,9 +17,11 @@
       <timeofpericentre errorminus="6.0" errorplus="6.0">2451224.8</timeofpericentre>
       <ascendingnode>None</ascendingnode>
       <periastron errorminus="11.0" errorplus="11.0">143.0</periastron>
-      <argumentofperiastron errorminus="11.0" errorplus="11.0">None</argumentofperiastron>
+      <argumentofperiastron errorminus="0.7" errorplus="0.7">None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>129.0</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
@@ -27,7 +29,7 @@
     <planet>
       <name>HD 155358 c</name>
       <coordinates/>
-      <massearthssini errorminus="0.07" errorplus="0.07">None</massearthssini>
+      <massearthssini computed="true">300.0</massearthssini>
       <massjupiterssini errorminus="0.07" errorplus="0.07">0.82</massjupiterssini>
       <period errorminus="1.0" errorplus="1.0">391.9</period>
       <semimajoraxis errorminus="0.02" errorplus="0.02">1.02</semimajoraxis>
@@ -35,9 +37,11 @@
       <timeofpericentre errorminus="28.0" errorplus="28.0">2455345.4</timeofpericentre>
       <ascendingnode>None</ascendingnode>
       <periastron errorminus="26.0" errorplus="26.0">180.0</periastron>
-      <argumentofperiastron errorminus="26.0" errorplus="26.0">None</argumentofperiastron>
+      <argumentofperiastron errorminus="0.9" errorplus="0.9">None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>233.0</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>

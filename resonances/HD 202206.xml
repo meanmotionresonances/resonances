@@ -9,7 +9,7 @@
     <planet>
       <name>HD 202206 b</name>
       <coordinates/>
-      <massearths>None</massearths>
+      <massearths computed="true">5274.0</massearths>
       <massjupiters>16.59</massjupiters>
       <period errorminus="0.044" errorplus="0.044">256.389</period>
       <semimajoraxis>0.8053</semimajoraxis>
@@ -19,7 +19,9 @@
       <periastron>None</periastron>
       <argumentofperiastron errorminus="0.27" errorplus="0.27">161.91</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/08/24</lastupdate>
@@ -27,7 +29,7 @@
     <planet>
       <name>HD 202206 c</name>
       <coordinates/>
-      <massearths>None</massearths>
+      <massearths computed="true">692.7</massearths>
       <massjupiters>2.179</massjupiters>
       <period errorminus="19.056" errorplus="19.056">1397.445</period>
       <semimajoraxis>2.49</semimajoraxis>
@@ -37,7 +39,9 @@
       <periastron>None</periastron>
       <argumentofperiastron errorminus="15.77" errorplus="15.77">105.56</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>

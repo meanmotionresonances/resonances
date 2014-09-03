@@ -10,16 +10,18 @@
       <name>HD 40307 b</name>
       <coordinates/>
       <massearthssini errorminus="0.7" errorplus="0.8">4.0</massearthssini>
-      <massjupiterssini>None</massjupiterssini>
+      <massjupiterssini computed="true">0.01</massjupiterssini>
       <period errorminus="0.0012" errorplus="0.0011">4.3123</period>
       <semimajoraxis errorminus="0.0023" errorplus="0.0024">0.0468</semimajoraxis>
       <eccentricity errorminus="0.16" errorplus="0.14">0.2</eccentricity>
       <timeofpericentre>None</timeofpericentre>
       <ascendingnode>None</ascendingnode>
       <periastron errorminus="57.3" errorplus="45.8">194.8</periastron>
-      <argumentofperiastron errorminus="57.3" errorplus="45.8">None</argumentofperiastron>
+      <argumentofperiastron errorminus="103.13" errorplus="91.67">None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>246.37</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
@@ -28,7 +30,7 @@
       <name>HD 40307 c</name>
       <coordinates/>
       <massearthssini errorminus="1.0" errorplus="1.1">6.6</massearthssini>
-      <massjupiterssini>None</massjupiterssini>
+      <massjupiterssini computed="true">0.02</massjupiterssini>
       <period errorminus="-0.005" errorplus="-0.0049">9.6184</period>
       <semimajoraxis errorminus="0.004" errorplus="0.004">0.0799</semimajoraxis>
       <eccentricity errorminus="0.06" errorplus="0.11">0.06</eccentricity>
@@ -37,7 +39,9 @@
       <periastron>234.9</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>303.67</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
@@ -46,7 +50,7 @@
       <name>HD 40307 d</name>
       <coordinates/>
       <massearthssini errorminus="1.5" errorplus="1.7">9.5</massearthssini>
-      <massjupiterssini>None</massjupiterssini>
+      <massjupiterssini computed="true">0.03</massjupiterssini>
       <period errorminus="0.024" errorplus="0.022">20.432</period>
       <semimajoraxis errorminus="0.0066" errorplus="0.0066">0.1321</semimajoraxis>
       <eccentricity errorminus="0.07" errorplus="0.11">0.07</eccentricity>
@@ -55,7 +59,9 @@
       <periastron>17.2</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>320.86</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
@@ -64,7 +70,7 @@
       <name>HD 40307 e</name>
       <coordinates/>
       <massearthssini errorminus="1.4" errorplus="1.4">3.5</massearthssini>
-      <massjupiterssini>None</massjupiterssini>
+      <massjupiterssini computed="true">0.01</massjupiterssini>
       <period errorminus="0.2" errorplus="0.21">34.62</period>
       <semimajoraxis errorminus="0.0104" errorplus="0.0083">0.1886</semimajoraxis>
       <eccentricity errorminus="0.15" errorplus="0.13">0.15</eccentricity>
@@ -73,7 +79,9 @@
       <periastron>303.7</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>355.23</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
@@ -82,7 +90,7 @@
       <name>HD 40307 f</name>
       <coordinates/>
       <massearthssini errorminus="1.6" errorplus="1.5">5.2</massearthssini>
-      <massjupiterssini>None</massjupiterssini>
+      <massjupiterssini computed="true">0.02</massjupiterssini>
       <period errorminus="0.46" errorplus="0.5">51.76</period>
       <semimajoraxis errorminus="0.014" errorplus="0.011">0.247</semimajoraxis>
       <eccentricity errorminus="0.02" errorplus="0.2">0.02</eccentricity>
@@ -91,7 +99,9 @@
       <periastron>355.2</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>28.65</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
@@ -100,7 +110,7 @@
       <name>HD 40307 g</name>
       <coordinates/>
       <massearthssini errorminus="2.6" errorplus="2.6">7.1</massearthssini>
-      <massjupiterssini>None</massjupiterssini>
+      <massjupiterssini computed="true">0.02</massjupiterssini>
       <period errorminus="9.0" errorplus="5.7">197.8</period>
       <semimajoraxis errorminus="0.033" errorplus="0.034">0.6</semimajoraxis>
       <eccentricity errorminus="0.29" errorplus="0.31">0.29</eccentricity>
@@ -109,7 +119,9 @@
       <periastron>91.7</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>320.86</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>

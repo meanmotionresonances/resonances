@@ -9,7 +9,7 @@
     <planet>
       <name>WASP-10 b</name>
       <coordinates/>
-      <massearths errorminus="0.091" errorplus="0.022">None</massearths>
+      <massearths computed="true">900.0</massearths>
       <massjupiters errorminus="0.17" errorplus="0.22">2.96</massjupiters>
       <period errorminus="2.1e-05" errorplus="9.4e-06">3.0927636</period>
       <semimajoraxis errorminus="0.0014" errorplus="0.0012">0.0369</semimajoraxis>
@@ -19,7 +19,9 @@
       <periastron>None</periastron>
       <argumentofperiastron errorminus="14.0" errorplus="12.7">167.1</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
@@ -27,7 +29,7 @@
     <planet>
       <name>WASP-10 c</name>
       <coordinates/>
-      <massearths>None</massearths>
+      <massearths computed="true">30.0</massearths>
       <massjupiters>0.1</massjupiters>
       <period>5.2293</period>
       <semimajoraxis>0.0536</semimajoraxis>
@@ -37,7 +39,9 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>U</status>
       <lastupdate>2014/08/24</lastupdate>

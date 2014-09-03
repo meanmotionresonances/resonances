@@ -1,5 +1,7 @@
 <system>
   <name>Kepler-59</name>
+  <name>KOI-1529</name>
+  <name>KOI 1529</name>
   <distance>None</distance>
   <star>
     <mass>None</mass>
@@ -8,8 +10,10 @@
     <temperature>None</temperature>
     <planet>
       <name>Kepler-59 b</name>
+      <name>KOI-1529 02</name>
+      <name>KOI 1529 02</name>
       <coordinates/>
-      <massearths>None</massearths>
+      <massearths computed="true">652.0</massearths>
       <massjupiters>2.05</massjupiters>
       <period errorminus="0.00036" errorplus="0.00036">11.8681707</period>
       <semimajoraxis>None</semimajoraxis>
@@ -19,15 +23,19 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/08/24</lastupdate>
     </planet>
     <planet>
       <name>Kepler-59 c</name>
+      <name>KOI-1529 01</name>
+      <name>KOI 1529 01</name>
       <coordinates/>
-      <massearths>None</massearths>
+      <massearths computed="true">436.0</massearths>
       <massjupiters>1.37</massjupiters>
       <period errorminus="0.0003" errorplus="0.0003">17.9801235</period>
       <semimajoraxis>None</semimajoraxis>
@@ -37,7 +45,9 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/08/24</lastupdate>

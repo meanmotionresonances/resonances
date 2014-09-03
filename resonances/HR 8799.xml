@@ -9,7 +9,7 @@
     <planet>
       <name>HR 8799 d</name>
       <coordinates/>
-      <massearths>None</massearths>
+      <massearths computed="true">3000.0</massearths>
       <massjupiters errorminus="3.0" errorplus="3.0">9.0</massjupiters>
       <period>None</period>
       <semimajoraxis errorminus="0.3" errorplus="0.3">25.4</semimajoraxis>
@@ -17,27 +17,11 @@
       <timeofpericentre>None</timeofpericentre>
       <ascendingnode errorminus="3.0" errorplus="3.0">64.0</ascendingnode>
       <periastron errorminus="3.0" errorplus="3.0">91.0</periastron>
-      <argumentofperiastron>None</argumentofperiastron>
+      <argumentofperiastron errorminus="3.0" errorplus="3.0">None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
-      <epoch/>
-      <status>C</status>
-      <lastupdate>2014/08/24</lastupdate>
-    </planet>
-    <planet>
-      <name>HR 8799 e</name>
-      <coordinates/>
-      <massearths>None</massearths>
-      <massjupiters errorminus="2.0" errorplus="2.0">9.0</massjupiters>
-      <period>None</period>
-      <semimajoraxis errorminus="0.2" errorplus="0.2">15.4</semimajoraxis>
-      <eccentricity errorminus="0.03" errorplus="0.03">0.13</eccentricity>
-      <timeofpericentre>None</timeofpericentre>
-      <ascendingnode errorminus="3.0" errorplus="3.0">64.0</ascendingnode>
-      <periastron errorminus="6.0" errorplus="6.0">176.0</periastron>
-      <argumentofperiastron>None</argumentofperiastron>
-      <longitude/>
-      <meananomaly/>
+      <meananomaly>58.0</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/08/24</lastupdate>
@@ -45,7 +29,7 @@
     <planet>
       <name>HR 8799 b</name>
       <coordinates/>
-      <massearths>None</massearths>
+      <massearths computed="true">2000.0</massearths>
       <massjupiters errorminus="2.0" errorplus="2.0">7.0</massjupiters>
       <period>None</period>
       <semimajoraxis errorminus="0.2" errorplus="0.2">69.1</semimajoraxis>
@@ -53,9 +37,31 @@
       <timeofpericentre>None</timeofpericentre>
       <ascendingnode errorminus="3.0" errorplus="3.0">64.0</ascendingnode>
       <periastron errorminus="10.0" errorplus="10.0">95.0</periastron>
-      <argumentofperiastron>None</argumentofperiastron>
+      <argumentofperiastron errorminus="10.0" errorplus="10.0">None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>321.0</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2014/08/24</lastupdate>
+    </planet>
+    <planet>
+      <name>HR 8799 e</name>
+      <coordinates/>
+      <massearths computed="true">3000.0</massearths>
+      <massjupiters errorminus="2.0" errorplus="2.0">9.0</massjupiters>
+      <period>None</period>
+      <semimajoraxis errorminus="0.2" errorplus="0.2">15.4</semimajoraxis>
+      <eccentricity errorminus="0.03" errorplus="0.03">0.13</eccentricity>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode errorminus="3.0" errorplus="3.0">64.0</ascendingnode>
+      <periastron errorminus="6.0" errorplus="6.0">176.0</periastron>
+      <argumentofperiastron errorminus="5.0" errorplus="5.0">None</argumentofperiastron>
+      <longitude/>
+      <meananomaly>326.0</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/08/24</lastupdate>
@@ -63,7 +69,7 @@
     <planet>
       <name>HR 8799 c</name>
       <coordinates/>
-      <massearths>None</massearths>
+      <massearths computed="true">3000.0</massearths>
       <massjupiters errorminus="3.0" errorplus="3.0">9.0</massjupiters>
       <period>None</period>
       <semimajoraxis errorminus="0.3" errorplus="0.3">39.4</semimajoraxis>
@@ -71,9 +77,11 @@
       <timeofpericentre>None</timeofpericentre>
       <ascendingnode errorminus="3.0" errorplus="3.0">64.0</ascendingnode>
       <periastron errorminus="6.0" errorplus="6.0">151.0</periastron>
-      <argumentofperiastron>None</argumentofperiastron>
+      <argumentofperiastron errorminus="6.0" errorplus="6.0">None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>148.0</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/08/24</lastupdate>

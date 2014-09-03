@@ -9,7 +9,7 @@
     <planet>
       <name>Upsilon And b</name>
       <coordinates/>
-      <massearthssini>None</massearthssini>
+      <massearthssini computed="true">200.0</massearthssini>
       <massjupiterssini errorminus="0.0044" errorplus="0.0044">0.6876</massjupiterssini>
       <period errorminus="2.3e-05" errorplus="2.3e-05">4.617033</period>
       <semimajoraxis errorminus="2e-07" errorplus="2e-07">0.05922166</semimajoraxis>
@@ -19,7 +19,9 @@
       <periastron>None</periastron>
       <argumentofperiastron errorminus="3.8" errorplus="3.8">324.9</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
@@ -27,7 +29,7 @@
     <planet>
       <name>Upsilon And d</name>
       <coordinates/>
-      <massearthssini>None</massearthssini>
+      <massearthssini computed="true">630.0</massearthssini>
       <massjupiterssini errorminus="0.019" errorplus="0.019">1.981</massjupiterssini>
       <period errorminus="0.064" errorplus="0.064">241.258</period>
       <semimajoraxis errorminus="1.5e-05" errorplus="1.5e-05">0.827774</semimajoraxis>
@@ -37,7 +39,9 @@
       <periastron>None</periastron>
       <argumentofperiastron errorminus="1.6" errorplus="1.6">241.7</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
@@ -45,7 +49,7 @@
     <planet>
       <name>Upsilon And c</name>
       <coordinates/>
-      <massearthssini>None</massearthssini>
+      <massearthssini computed="true">1300.0</massearthssini>
       <massjupiterssini errorminus="0.029" errorplus="0.029">4.132</massjupiterssini>
       <period errorminus="0.57" errorplus="0.57">1276.46</period>
       <semimajoraxis errorminus="0.00075" errorplus="0.00075">2.51329</semimajoraxis>
@@ -55,7 +59,9 @@
       <periastron>None</periastron>
       <argumentofperiastron errorminus="4.3" errorplus="4.3">258.82</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
@@ -63,7 +69,7 @@
     <planet>
       <name>Upsilon And e</name>
       <coordinates/>
-      <massearthssini>None</massearthssini>
+      <massearthssini computed="true">300.0</massearthssini>
       <massjupiterssini errorminus="0.028" errorplus="0.028">1.059</massjupiterssini>
       <period errorminus="0.74" errorplus="0.74">3848.86</period>
       <semimajoraxis errorminus="0.00067" errorplus="0.00067">5.24558</semimajoraxis>
@@ -73,7 +79,9 @@
       <periastron>None</periastron>
       <argumentofperiastron errorminus="2.3" errorplus="2.3">367.3</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>

@@ -1,5 +1,8 @@
 <system>
   <name>Kepler-18</name>
+  <name>KOI-137</name>
+  <name>KIC 8644288</name>
+  <name>KOI 137</name>
   <distance>None</distance>
   <star>
     <mass>0.972</mass>
@@ -8,9 +11,12 @@
     <temperature>5383.0</temperature>
     <planet>
       <name>Kepler-18 b</name>
+      <name>KOI-137 03</name>
+      <name>KIC 8644288 b</name>
+      <name>KOI 137 03</name>
       <coordinates/>
       <massearths errorminus="3.4" errorplus="3.4">6.9</massearths>
-      <massjupiters>None</massjupiters>
+      <massjupiters computed="true">0.02</massjupiters>
       <period errorminus="2.8e-05" errorplus="2.8e-05">3.504725</period>
       <semimajoraxis errorminus="0.0006" errorplus="0.0006">0.0447</semimajoraxis>
       <eccentricity>None</eccentricity>
@@ -19,16 +25,21 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
     </planet>
     <planet>
       <name>Kepler-18 c</name>
+      <name>KOI-137 01</name>
+      <name>KIC 8644288 c</name>
+      <name>KOI 137 01</name>
       <coordinates/>
       <massearths errorminus="1.9" errorplus="1.9">17.3</massearths>
-      <massjupiters>None</massjupiters>
+      <massjupiters computed="true">0.05</massjupiters>
       <period errorminus="3e-05" errorplus="3e-05">7.64159</period>
       <semimajoraxis errorminus="0.0011" errorplus="0.0011">0.0752</semimajoraxis>
       <eccentricity>None</eccentricity>
@@ -37,16 +48,21 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
     </planet>
     <planet>
       <name>Kepler-18 d</name>
+      <name>KOI-137 02</name>
+      <name>KIC 8644288 d</name>
+      <name>KOI 137 02</name>
       <coordinates/>
       <massearths errorminus="1.4" errorplus="1.4">16.4</massearths>
-      <massjupiters>None</massjupiters>
+      <massjupiters computed="true">0.05</massjupiters>
       <period errorminus="4e-05" errorplus="4e-05">14.85888</period>
       <semimajoraxis errorminus="0.0017" errorplus="0.0017">0.1172</semimajoraxis>
       <eccentricity>None</eccentricity>
@@ -55,7 +71,9 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>

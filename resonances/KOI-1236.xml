@@ -1,22 +1,22 @@
 <system>
-  <name>KOI 2672</name>
-  <name>KIC 11253827</name>
-  <name>KOI-2672</name>
+  <name>KOI 1236</name>
+  <name>KIC 6677841</name>
+  <name>KOI-1236</name>
   <distance>None</distance>
   <star>
-    <mass>0.84</mass>
+    <mass>1.31</mass>
     <metallicity>None</metallicity>
     <age>None</age>
-    <temperature>5565.0</temperature>
+    <temperature>6779.0</temperature>
     <planet>
-      <name>KOI 2672 02</name>
-      <name>KIC 11253827 02</name>
-      <name>KOI-2672 02</name>
+      <name>KOI 1236 01</name>
+      <name>KIC 6677841 01</name>
+      <name>KOI-1236 01</name>
       <coordinates/>
-      <massearths>75.0</massearths>
-      <massjupiters computed="true">0.024</massjupiters>
-      <period>42.99066</period>
-      <semimajoraxis>0.22662</semimajoraxis>
+      <massearths>44.0</massearths>
+      <massjupiters computed="true">0.14</massjupiters>
+      <period>35.74113</period>
+      <semimajoraxis>0.23238</semimajoraxis>
       <eccentricity>None</eccentricity>
       <timeofpericentre>None</timeofpericentre>
       <ascendingnode>None</ascendingnode>
@@ -31,14 +31,14 @@
       <lastupdate>2014/08/28</lastupdate>
     </planet>
     <planet>
-      <name>KOI 2672 01</name>
-      <name>KIC 11253827 01</name>
-      <name>KOI-2672 01</name>
+      <name>KOI 1236 03</name>
+      <name>KIC 6677841 03</name>
+      <name>KOI-1236 03</name>
       <coordinates/>
-      <massearths>18.0</massearths>
-      <massjupiters computed="true">0.057</massjupiters>
-      <period>88.51658</period>
-      <semimajoraxis>0.36709</semimajoraxis>
+      <massearths>31.0</massearths>
+      <massjupiters computed="true">0.098</massjupiters>
+      <period>54.3995</period>
+      <semimajoraxis>0.30728</semimajoraxis>
       <eccentricity>None</eccentricity>
       <timeofpericentre>None</timeofpericentre>
       <ascendingnode>None</ascendingnode>
@@ -54,8 +54,8 @@
     </planet>
   </star>
   <resonance>
-    <p p="2">01</p>
-    <q q="1">02</q>
+    <p p="3">03</p>
+    <q q="2">01</q>
     <literature>
       <title>Eight Planets in Four Multi-planet Systems via Transit Timing Variations in 1350 Days</title>
       <authors ordering="0">Yang, Ming; Liu, Hui-Gen; Zhang, Hui; Zhou, Ji-Lin (2013)</authors>

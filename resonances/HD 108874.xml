@@ -9,7 +9,7 @@
     <planet>
       <name>HD 108874 b</name>
       <coordinates/>
-      <massearthssini>None</massearthssini>
+      <massearthssini computed="true">400.0</massearthssini>
       <massjupiterssini>1.358</massjupiterssini>
       <period errorminus="2.5" errorplus="2.5">None</period>
       <semimajoraxis>1.851</semimajoraxis>
@@ -19,7 +19,9 @@
       <periastron>None</periastron>
       <argumentofperiastron>255.76</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>13.26</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
@@ -27,7 +29,7 @@
     <planet>
       <name>HD 108874 c</name>
       <coordinates/>
-      <massearthssini>None</massearthssini>
+      <massearthssini computed="true">300.0</massearthssini>
       <massjupiterssini>1.008</massjupiterssini>
       <period errorminus="88.0" errorplus="88.0">None</period>
       <semimajoraxis>2.658</semimajoraxis>
@@ -37,7 +39,9 @@
       <periastron>None</periastron>
       <argumentofperiastron>16.65</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>32.08</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>

@@ -1,5 +1,7 @@
 <system>
   <name>Kepler-48</name>
+  <name>KOI-148</name>
+  <name>KOI 148</name>
   <distance>None</distance>
   <star>
     <mass>None</mass>
@@ -8,9 +10,11 @@
     <temperature>None</temperature>
     <planet>
       <name>Kepler-48 b</name>
+      <name>KOI-148 01</name>
+      <name>KOI 148 01</name>
       <coordinates/>
       <massearths errorminus="3.9" errorplus="3.9">17.2</massearths>
-      <massjupiters>None</massjupiters>
+      <massjupiters computed="true">0.054</massjupiters>
       <period errorminus="1.4e-05" errorplus="1.4e-05">4.7779803</period>
       <semimajoraxis>None</semimajoraxis>
       <eccentricity>None</eccentricity>
@@ -19,16 +23,20 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/08/24</lastupdate>
     </planet>
     <planet>
       <name>Kepler-48 c</name>
+      <name>KOI-148 02</name>
+      <name>KOI 148 02</name>
       <coordinates/>
       <massearths errorminus="3.5" errorplus="3.5">10.1</massearths>
-      <massjupiters>None</massjupiters>
+      <massjupiters computed="true">0.032</massjupiters>
       <period errorminus="2e-05" errorplus="2e-05">9.6739283</period>
       <semimajoraxis>None</semimajoraxis>
       <eccentricity>None</eccentricity>
@@ -37,16 +45,20 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/08/24</lastupdate>
     </planet>
     <planet>
-      <name>Kepler-48 03</name>
+      <name>Kepler-48 d</name>
+      <name>KOI-148 03</name>
+      <name>KOI 148 03</name>
       <coordinates/>
-      <massearths>None</massearths>
-      <massjupiters>None</massjupiters>
+      <massearths/>
+      <massjupiters/>
       <period errorminus="0.00032" errorplus="0.00032">42.895916</period>
       <semimajoraxis>None</semimajoraxis>
       <eccentricity>None</eccentricity>
@@ -55,7 +67,9 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>U</status>
       <lastupdate>2014/08/24</lastupdate>

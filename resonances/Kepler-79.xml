@@ -1,5 +1,8 @@
 <system>
   <name>Kepler-79</name>
+  <name>KOI 152</name>
+  <name>KOI-152</name>
+  <name>KIC 8394721</name>
   <distance>None</distance>
   <star>
     <mass>1.165</mass>
@@ -8,9 +11,12 @@
     <temperature>6174.0</temperature>
     <planet>
       <name>Kepler-79 b</name>
+      <name>KOI 152 03</name>
+      <name>KOI-152 03</name>
+      <name>KIC 8394721 b</name>
       <coordinates/>
       <massearths errorminus="6.0" errorplus="7.4">10.9</massearths>
-      <massjupiters>None</massjupiters>
+      <massjupiters computed="true">0.03</massjupiters>
       <period errorminus="0.0002" errorplus="0.0002">13.4845</period>
       <semimajoraxis errorminus="0.002" errorplus="0.002">0.117</semimajoraxis>
       <eccentricity errorminus="0.006" errorplus="0.012">0.015</eccentricity>
@@ -19,16 +25,21 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
     </planet>
     <planet>
       <name>Kepler-79 c</name>
+      <name>KOI 152 02</name>
+      <name>KOI-152 02</name>
+      <name>KIC 8394721 c</name>
       <coordinates/>
       <massearths errorminus="2.3" errorplus="1.9">5.9</massearths>
-      <massjupiters>None</massjupiters>
+      <massjupiters computed="true">0.02</massjupiters>
       <period errorminus="0.0006" errorplus="0.0008">27.4029</period>
       <semimajoraxis errorminus="0.003" errorplus="0.002">0.187</semimajoraxis>
       <eccentricity errorminus="0.021" errorplus="0.027">0.03</eccentricity>
@@ -37,16 +48,21 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
     </planet>
     <planet>
       <name>Kepler-79 d</name>
+      <name>KOI 152 01</name>
+      <name>KOI-152 01</name>
+      <name>KIC 8394721 d</name>
       <coordinates/>
       <massearths errorminus="1.6" errorplus="2.1">6.0</massearths>
-      <massjupiters>None</massjupiters>
+      <massjupiters computed="true">0.02</massjupiters>
       <period errorminus="0.001" errorplus="0.0009">52.0902</period>
       <semimajoraxis errorminus="0.004" errorplus="0.004">0.287</semimajoraxis>
       <eccentricity errorminus="0.023" errorplus="0.059">0.025</eccentricity>
@@ -55,16 +71,21 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
     </planet>
     <planet>
       <name>Kepler-79 e</name>
+      <name>KOI 152 04</name>
+      <name>KOI-152 04</name>
+      <name>KIC 8394721 e</name>
       <coordinates/>
       <massearths errorminus="1.1" errorplus="1.2">4.1</massearths>
-      <massjupiters>None</massjupiters>
+      <massjupiters computed="true">0.01</massjupiters>
       <period errorminus="0.0011" errorplus="0.0013">81.0659</period>
       <semimajoraxis errorminus="0.005" errorplus="0.005">0.386</semimajoraxis>
       <eccentricity errorminus="0.005" errorplus="0.044">0.012</eccentricity>
@@ -73,7 +94,9 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>

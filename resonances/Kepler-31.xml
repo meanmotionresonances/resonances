@@ -1,5 +1,8 @@
 <system>
   <name>Kepler-31</name>
+  <name>KOI 935</name>
+  <name>KOI-935</name>
+  <name>KIC 9347899</name>
   <distance>None</distance>
   <star>
     <mass>1.21</mass>
@@ -8,9 +11,12 @@
     <temperature>6340.0</temperature>
     <planet>
       <name>Kepler-31 b</name>
+      <name>KOI 935 01</name>
+      <name>KOI-935 01</name>
+      <name>KIC 9347899 b</name>
       <coordinates/>
       <massearths errorminus="35.5" errorplus="35.5">18.4</massearths>
-      <massjupiters>None</massjupiters>
+      <massjupiters computed="true">0.05</massjupiters>
       <period errorminus="0.002883" errorplus="0.002883">20.856113</period>
       <semimajoraxis>None</semimajoraxis>
       <eccentricity>0.008</eccentricity>
@@ -19,16 +25,21 @@
       <periastron>None</periastron>
       <argumentofperiastron>358.0</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
     </planet>
     <planet>
       <name>Kepler-31 c</name>
+      <name>KOI 935 02</name>
+      <name>KOI-935 02</name>
+      <name>KIC 9347899 c</name>
       <coordinates/>
       <massearths errorminus="21.2" errorplus="21.2">34.9</massearths>
-      <massjupiters>None</massjupiters>
+      <massjupiters computed="true">0.1</massjupiters>
       <period errorminus="0.009447" errorplus="0.009447">42.637618</period>
       <semimajoraxis>None</semimajoraxis>
       <eccentricity>0.03</eccentricity>
@@ -37,7 +48,9 @@
       <periastron>None</periastron>
       <argumentofperiastron>93.0</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>

@@ -9,7 +9,7 @@
     <planet>
       <name>HD 200964 b</name>
       <coordinates/>
-      <massearthssini errorminus="0.08" errorplus="0.14">None</massearthssini>
+      <massearthssini computed="true">600.0</massearthssini>
       <massjupiterssini errorminus="0.08" errorplus="0.14">1.84</massjupiterssini>
       <period errorminus="1.4" errorplus="1.3">613.8</period>
       <semimajoraxis errorminus="0.002" errorplus="0.002">1.601</semimajoraxis>
@@ -19,7 +19,9 @@
       <periastron errorminus="112.0" errorplus="47.0">288.0</periastron>
       <argumentofperiastron errorminus="112.0" errorplus="47.0">None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
@@ -27,7 +29,7 @@
     <planet>
       <name>HD 200964 c</name>
       <coordinates/>
-      <massearthssini errorminus="0.06" errorplus="0.12">None</massearthssini>
+      <massearthssini computed="true">300.0</massearthssini>
       <massjupiterssini errorminus="0.063" errorplus="0.123">0.895</massjupiterssini>
       <period errorminus="3.1" errorplus="5.1">825.0</period>
       <semimajoraxis errorminus="0.041" errorplus="0.041">1.944</semimajoraxis>
@@ -37,7 +39,9 @@
       <periastron errorminus="57.1" errorplus="67.7">182.6</periastron>
       <argumentofperiastron errorminus="57.1" errorplus="67.7">None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>

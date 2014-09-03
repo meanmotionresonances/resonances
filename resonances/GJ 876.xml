@@ -1,0 +1,136 @@
+<system>
+  <name>Gliese 876</name>
+  <name>GJ 876</name>
+  <name>Gl 876</name>
+  <distance>None</distance>
+  <star>
+    <mass>0.334</mass>
+    <metallicity>0.05</metallicity>
+    <age>2.5</age>
+    <temperature>3350.0</temperature>
+    <planet>
+      <name>Gliese 876 d</name>
+      <coordinates/>
+      <massearths computed="true">7.0</massearths>
+      <massjupiters errorminus="0.0008" errorplus="0.0015">0.0224</massjupiters>
+      <period errorminus="7e-06" errorplus="4e-06">1.937376</period>
+      <semimajoraxis errorminus="3e-08" errorplus="5e-08">0.02110621</semimajoraxis>
+      <eccentricity errorminus="0.028" errorplus="0.022">0.101</eccentricity>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron errorminus="26.0" errorplus="14.0">241.0</argumentofperiastron>
+      <longitude/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2014/09/01</lastupdate>
+    </planet>
+    <planet>
+      <name>Gliese 876 c</name>
+      <coordinates/>
+      <massearths computed="true">240.0</massearths>
+      <massjupiters errorminus="0.015" errorplus="0.04">0.759</massjupiters>
+      <period errorminus="0.018" errorplus="0.012">30.182</period>
+      <semimajoraxis errorminus="5.1e-05" errorplus="3.6e-05">0.131726</semimajoraxis>
+      <eccentricity errorminus="0.004" errorplus="0.01">0.0252</eccentricity>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron errorminus="2.0" errorplus="1.0">251.9</argumentofperiastron>
+      <longitude/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2014/09/01</lastupdate>
+    </planet>
+    <planet>
+      <name>Gliese 876 b</name>
+      <coordinates/>
+      <massearths computed="true">800.0</massearths>
+      <massjupiters errorminus="0.05" errorplus="0.15">2.42</massjupiters>
+      <period errorminus="0.04" errorplus="0.021">60.988</period>
+      <semimajoraxis errorminus="5.7e-05" errorplus="4.2e-05">0.211025</semimajoraxis>
+      <eccentricity errorminus="0.0042" errorplus="0.0038">0.0342</eccentricity>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron errorminus="5.0" errorplus="12.0">248.0</argumentofperiastron>
+      <longitude/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2014/09/01</lastupdate>
+    </planet>
+    <planet>
+      <name>Gliese 876 e</name>
+      <coordinates/>
+      <massearths computed="true">20.0</massearths>
+      <massjupiters errorminus="0.016" errorplus="0.003">0.054</massjupiters>
+      <period errorminus="1.4" errorplus="6.2">124.6</period>
+      <semimajoraxis errorminus="0.0026" errorplus="0.011">0.3398</semimajoraxis>
+      <eccentricity>0.19</eccentricity>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>0.0</argumentofperiastron>
+      <longitude/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
+      <epoch/>
+      <status>C</status>
+      <lastupdate>2014/09/01</lastupdate>
+    </planet>
+  </star>
+  <resonance>
+    <p p="2">b</p>
+    <q q="1">c</q>
+    <literature>
+      <title>Orbital structure of the GJ876 extrasolar planetary system, based on the latest Keck and HARPS radial velocity data</title>
+      <authors ordering="0">Baluev (2011)</authors>
+      <link>http://adsabs.harvard.edu/abs/2011CeMDA.111..235B</link>
+      <publisher>Celestial Mechanics and Dynamical Astronomy, Volume 111, Issue 1-2, pp. 235-266</publisher>
+    </literature>
+    <literature>
+      <title>Erratum: Erratum to: Orbital structure of the GJ876 extrasolar planetary system based on the latest Keck and HARPS radial velocity data</title>
+      <authors ordering="1">Baluev, Roman V.</authors>
+      <link>http://adsabs.harvard.edu/abs/2013CeMDA.117..215B</link>
+      <publisher>Celestial Mechanics and Dynamical Astronomy, Volume 117, Issue 2, pp.215-215</publisher>
+    </literature>
+    <literature>
+      <title>The Lick-Carnegie Exoplanet Survey: a Uranus-Mass Fourth Planet for GJ 876 in an Extrasolar Laplace Configuration</title>
+      <authors ordering="1">Rivera E.J. et al.</authors>
+      <link>http://adsabs.harvard.edu/abs/2010ApJ...719..890R</link>
+      <publisher>The Astrophysical Journal, Volume 719, Issue 1, pp. 890-899 (2010)</publisher>
+    </literature>
+  </resonance>
+  <resonance>
+    <p p="2">e</p>
+    <q q="1">b</q>
+    <literature>
+      <title>Orbital structure of the GJ876 extrasolar planetary system, based on the latest Keck and HARPS radial velocity data</title>
+      <authors ordering="0">Baluev (2011)</authors>
+      <link>http://adsabs.harvard.edu/abs/2011CeMDA.111..235B</link>
+      <publisher>Celestial Mechanics and Dynamical Astronomy, Volume 111, Issue 1-2, pp. 235-266</publisher>
+    </literature>
+    <literature>
+      <title>Erratum: Erratum to: Orbital structure of the GJ876 extrasolar planetary system based on the latest Keck and HARPS radial velocity data</title>
+      <authors ordering="1">Baluev, Roman V.</authors>
+      <link>http://adsabs.harvard.edu/abs/2013CeMDA.117..215B</link>
+      <publisher>Celestial Mechanics and Dynamical Astronomy, Volume 117, Issue 2, pp.215-215</publisher>
+    </literature>
+    <literature>
+      <title>The Lick-Carnegie Exoplanet Survey: a Uranus-Mass Fourth Planet for GJ 876 in an Extrasolar Laplace Configuration</title>
+      <authors ordering="1">Rivera E.J. et al.</authors>
+      <link>http://adsabs.harvard.edu/abs/2010ApJ...719..890R</link>
+      <publisher>The Astrophysical Journal, Volume 719, Issue 1, pp. 890-899 (2010)</publisher>
+    </literature>
+  </resonance>
+</system>

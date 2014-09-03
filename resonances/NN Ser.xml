@@ -9,7 +9,7 @@
     <planet>
       <name>NN Ser d</name>
       <coordinates/>
-      <massearthssini>None</massearthssini>
+      <massearthssini computed="true">600.0</massearthssini>
       <massjupiterssini errorminus="0.09" errorplus="0.09">1.74</massjupiterssini>
       <period errorminus="21.2" errorplus="21.2">2795.0</period>
       <semimajoraxis errorminus="0.033" errorplus="0.033">3.358</semimajoraxis>
@@ -19,7 +19,9 @@
       <periastron>None</periastron>
       <argumentofperiastron errorminus="2.6" errorplus="2.6">48.0</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
@@ -27,7 +29,7 @@
     <planet>
       <name>NN Ser c</name>
       <coordinates/>
-      <massearthssini>None</massearthssini>
+      <massearthssini computed="true">2200.0</massearthssini>
       <massjupiterssini errorminus="0.12" errorplus="0.12">6.96</massjupiterssini>
       <period errorminus="9.9" errorplus="9.9">5658.7</period>
       <semimajoraxis errorminus="0.045" errorplus="0.045">5.389</semimajoraxis>
@@ -37,7 +39,9 @@
       <periastron>None</periastron>
       <argumentofperiastron errorminus="6.4" errorplus="6.4">317.0</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>

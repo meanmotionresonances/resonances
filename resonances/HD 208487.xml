@@ -9,7 +9,7 @@
     <planet>
       <name>HD 208487 b</name>
       <coordinates/>
-      <massearthssini errorminus="0.05" errorplus="0.05">None</massearthssini>
+      <massearthssini computed="true">100.0</massearthssini>
       <massjupiterssini errorminus="0.05" errorplus="0.05">0.41</massjupiterssini>
       <period errorminus="0.4" errorplus="0.4">129.8</period>
       <semimajoraxis errorminus="0.02" errorplus="0.02">0.51</semimajoraxis>
@@ -19,7 +19,9 @@
       <periastron errorminus="38.0" errorplus="49.0">121.0</periastron>
       <argumentofperiastron errorminus="38.0" errorplus="49.0">None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
@@ -27,7 +29,7 @@
     <planet>
       <name>HD 208487 c</name>
       <coordinates/>
-      <massearthssini errorminus="0.13" errorplus="0.11">None</massearthssini>
+      <massearthssini computed="true">100.0</massearthssini>
       <massjupiterssini errorminus="0.13" errorplus="0.11">0.45</massjupiterssini>
       <period errorminus="92.0" errorplus="82.0">909.0</period>
       <semimajoraxis errorminus="0.14" errorplus="0.13">1.87</semimajoraxis>
@@ -37,7 +39,9 @@
       <periastron errorminus="52.0" errorplus="52.0">226.0</periastron>
       <argumentofperiastron errorminus="52.0" errorplus="52.0">None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>

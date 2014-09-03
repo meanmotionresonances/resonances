@@ -1,5 +1,7 @@
 <system>
   <name>Kepler-57</name>
+  <name>KOI-1270</name>
+  <name>KOI 1270</name>
   <distance>None</distance>
   <star>
     <mass>None</mass>
@@ -8,9 +10,11 @@
     <temperature>None</temperature>
     <planet>
       <name>Kepler-57 b</name>
+      <name>KOI-1270 01</name>
+      <name>KOI 1270 01</name>
       <coordinates/>
       <massearths errorminus="15.0" errorplus="15.0">100.0</massearths>
-      <massjupiters>None</massjupiters>
+      <massjupiters computed="true">0.3</massjupiters>
       <period errorminus="1.8e-05" errorplus="1.8e-05">5.7293196</period>
       <semimajoraxis>None</semimajoraxis>
       <eccentricity>None</eccentricity>
@@ -19,16 +23,20 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
     </planet>
     <planet>
       <name>Kepler-57 c</name>
+      <name>KOI-1270 02</name>
+      <name>KOI 1270 02</name>
       <coordinates/>
       <massearths errorminus="3.7" errorplus="3.7">5.4</massearths>
-      <massjupiters>None</massjupiters>
+      <massjupiters computed="true">0.02</massjupiters>
       <period errorminus="8.6e-05" errorplus="8.6e-05">11.6092567</period>
       <semimajoraxis>None</semimajoraxis>
       <eccentricity>None</eccentricity>
@@ -37,7 +45,9 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>

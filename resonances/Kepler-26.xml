@@ -1,5 +1,8 @@
 <system>
   <name>Kepler-26</name>
+  <name>KOI 250</name>
+  <name>KOI-250</name>
+  <name>KIC 9757613</name>
   <distance>None</distance>
   <star>
     <mass>0.65</mass>
@@ -8,9 +11,12 @@
     <temperature>4500.0</temperature>
     <planet>
       <name>Kepler-26 03</name>
+      <name>KOI 250 03</name>
+      <name>KOI-250 03</name>
+      <name>KIC 9757613 03</name>
       <coordinates/>
-      <massearths>None</massearths>
-      <massjupiters>None</massjupiters>
+      <massearths/>
+      <massjupiters/>
       <period>3.5438</period>
       <semimajoraxis>0.037</semimajoraxis>
       <eccentricity>None</eccentricity>
@@ -19,15 +25,20 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>U</status>
       <lastupdate>2014/08/28</lastupdate>
     </planet>
     <planet>
       <name>Kepler-26 b</name>
+      <name>KOI 250 01</name>
+      <name>KOI-250 01</name>
+      <name>KIC 9757613 b</name>
       <coordinates/>
-      <massearths>None</massearths>
+      <massearths computed="true">120.0</massearths>
       <massjupiters>0.38</massjupiters>
       <period>12.2829</period>
       <semimajoraxis>0.085</semimajoraxis>
@@ -37,15 +48,20 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/08/28</lastupdate>
     </planet>
     <planet>
       <name>Kepler-26 c</name>
+      <name>KOI 250 02</name>
+      <name>KOI-250 02</name>
+      <name>KIC 9757613 c</name>
       <coordinates/>
-      <massearths>None</massearths>
+      <massearths computed="true">119.0</massearths>
       <massjupiters>0.375</massjupiters>
       <period>17.2513</period>
       <semimajoraxis>0.107</semimajoraxis>
@@ -55,7 +71,9 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/08/28</lastupdate>

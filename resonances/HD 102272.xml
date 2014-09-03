@@ -9,7 +9,7 @@
     <planet>
       <name>HD 102272 b</name>
       <coordinates/>
-      <massearthssini errorminus="0.2" errorplus="0.2">None</massearthssini>
+      <massearthssini computed="true">1900.0</massearthssini>
       <massjupiterssini errorminus="0.2" errorplus="0.2">5.9</massjupiterssini>
       <period errorminus="0.3" errorplus="0.3">127.58</period>
       <semimajoraxis errorminus="0.001" errorplus="0.001">0.614</semimajoraxis>
@@ -17,9 +17,11 @@
       <timeofpericentre errorminus="64.0" errorplus="64.0">2452146.5</timeofpericentre>
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
-      <argumentofperiastron errorminus="58.0" errorplus="58.0">118.0</argumentofperiastron>
+      <argumentofperiastron errorminus="60.0" errorplus="60.0">118.0</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>12.0</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
@@ -27,7 +29,7 @@
     <planet>
       <name>HD 102272 c</name>
       <coordinates/>
-      <massearthssini errorminus="0.4" errorplus="0.4">None</massearthssini>
+      <massearthssini computed="true">800.0</massearthssini>
       <massjupiterssini errorminus="0.4" errorplus="0.4">2.6</massjupiterssini>
       <period errorminus="26.0" errorplus="26.0">520.0</period>
       <semimajoraxis errorminus="0.05" errorplus="0.05">1.57</semimajoraxis>
@@ -35,9 +37,11 @@
       <timeofpericentre errorminus="260.0" errorplus="260.0">2454135.5</timeofpericentre>
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
-      <argumentofperiastron errorminus="10.0" errorplus="10.0">320.0</argumentofperiastron>
+      <argumentofperiastron errorminus="40.0" errorplus="40.0">320.0</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>324.0</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>

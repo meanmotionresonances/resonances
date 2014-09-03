@@ -1,5 +1,7 @@
 <system>
   <name>Kepler-87</name>
+  <name>KOI-1574</name>
+  <name>KOI 1574</name>
   <distance>None</distance>
   <star>
     <mass>1.1</mass>
@@ -9,8 +11,8 @@
     <planet>
       <name>Kepler-87 03</name>
       <coordinates/>
-      <massearths>None</massearths>
-      <massjupiters>None</massjupiters>
+      <massearths/>
+      <massjupiters/>
       <period errorminus="5.9e-05" errorplus="5e-05">5.833904</period>
       <semimajoraxis errorminus="0.0039" errorplus="0.0036">0.066</semimajoraxis>
       <eccentricity>None</eccentricity>
@@ -19,7 +21,9 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>U</status>
       <lastupdate>2014/08/24</lastupdate>
@@ -27,8 +31,8 @@
     <planet>
       <name>Kepler-87 04</name>
       <coordinates/>
-      <massearths>None</massearths>
-      <massjupiters>None</massjupiters>
+      <massearths/>
+      <massjupiters/>
       <period errorminus="0.00011" errorplus="0.00011">8.97741</period>
       <semimajoraxis errorminus="0.0052" errorplus="0.0048">0.088</semimajoraxis>
       <eccentricity>None</eccentricity>
@@ -37,43 +41,53 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>U</status>
       <lastupdate>2014/08/24</lastupdate>
     </planet>
     <planet>
       <name>Kepler-87 b</name>
+      <name>KOI-1574 01</name>
+      <name>KOI 1574 01</name>
       <coordinates/>
       <massearths errorminus="8.8" errorplus="8.8">324.2</massearths>
-      <massjupiters>None</massjupiters>
+      <massjupiters computed="true">1.0</massjupiters>
       <period errorminus="0.0005" errorplus="0.0005">114.73635</period>
       <semimajoraxis errorminus="0.01" errorplus="0.01">0.471</semimajoraxis>
       <eccentricity errorminus="0.009" errorplus="0.009">0.036</eccentricity>
       <timeofpericentre>None</timeofpericentre>
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
-      <argumentofperiastron errorminus="27.6" errorplus="27.6">238.6</argumentofperiastron>
+      <argumentofperiastron errorminus="23.6" errorplus="23.6">238.6</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>293.0</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
     </planet>
     <planet>
       <name>Kepler-87 c</name>
+      <name>KOI-1574 02</name>
+      <name>KOI 1574 02</name>
       <coordinates/>
       <massearths errorminus="0.8" errorplus="0.8">6.4</massearths>
-      <massjupiters>None</massjupiters>
+      <massjupiters computed="true">0.02</massjupiters>
       <period errorminus="0.0015" errorplus="0.0015">191.2318</period>
       <semimajoraxis errorminus="0.013" errorplus="0.013">0.664</semimajoraxis>
       <eccentricity errorminus="0.012" errorplus="0.012">0.039</eccentricity>
       <timeofpericentre>None</timeofpericentre>
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
-      <argumentofperiastron errorminus="18.8" errorplus="18.8">223.2</argumentofperiastron>
+      <argumentofperiastron errorminus="14.4" errorplus="14.4">223.2</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>291.4</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>

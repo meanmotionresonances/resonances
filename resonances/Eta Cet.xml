@@ -1,5 +1,10 @@
 <system>
   <name>Eta Cet</name>
+  <name>Eta Ceti</name>
+  <name>Deneb Algenubi</name>
+  <name>HIP 5364</name>
+  <name>HD 6805</name>
+  <name>HR 334</name>
   <distance>37.99</distance>
   <star>
     <mass>1.7</mass>
@@ -9,7 +14,7 @@
     <planet>
       <name>Eta Cet b</name>
       <coordinates>Jacobi</coordinates>
-      <massearths>None</massearths>
+      <massearths computed="true">800.0</massearths>
       <massjupiters errorminus="0.16" errorplus="0.16">2.54</massjupiters>
       <period errorminus="2.67" errorplus="2.67">407.5</period>
       <semimajoraxis>1.28</semimajoraxis>
@@ -17,9 +22,11 @@
       <timeofpericentre>None</timeofpericentre>
       <ascendingnode>None</ascendingnode>
       <periastron errorminus="31.64" errorplus="31.64">244.7</periastron>
-      <argumentofperiastron>None</argumentofperiastron>
+      <argumentofperiastron errorminus="45.33" errorplus="45.33">None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>211.1</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
@@ -27,7 +34,7 @@
     <planet>
       <name>Eta Cet c</name>
       <coordinates>Jacobi</coordinates>
-      <massearths>None</massearths>
+      <massearths computed="true">1000.0</massearths>
       <massjupiters errorminus="0.19" errorplus="0.19">3.28</massjupiters>
       <period errorminus="3.71" errorplus="3.71">744.5</period>
       <semimajoraxis>1.92</semimajoraxis>
@@ -35,9 +42,11 @@
       <timeofpericentre>None</timeofpericentre>
       <ascendingnode>None</ascendingnode>
       <periastron errorminus="32.72" errorplus="32.72">32.5</periastron>
-      <argumentofperiastron>None</argumentofperiastron>
+      <argumentofperiastron errorminus="21.33" errorplus="21.33">None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>268.0</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>

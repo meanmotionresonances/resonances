@@ -10,7 +10,7 @@
       <name>HD 10180 b</name>
       <coordinates/>
       <massearthssini errorminus="0.23" errorplus="0.23">1.35</massearthssini>
-      <massjupiterssini>None</massjupiterssini>
+      <massjupiterssini computed="true">0.004</massjupiterssini>
       <period errorminus="0.0001" errorplus="0.0001">1.17768</period>
       <semimajoraxis errorminus="0.00035" errorplus="0.00035">0.02225</semimajoraxis>
       <eccentricity errorminus="0.0025" errorplus="0.0025">0.0</eccentricity>
@@ -19,7 +19,9 @@
       <periastron>None</periastron>
       <argumentofperiastron errorminus="78.0" errorplus="78.0">39.0</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>U</status>
       <lastupdate>2014/09/01</lastupdate>
@@ -28,7 +30,7 @@
       <name>HD 10180 c</name>
       <coordinates/>
       <massearthssini errorminus="0.54" errorplus="0.54">13.1</massearthssini>
-      <massjupiterssini>None</massjupiterssini>
+      <massjupiterssini computed="true">0.04</massjupiterssini>
       <period errorminus="0.00062" errorplus="0.00062">5.75979</period>
       <semimajoraxis errorminus="0.001" errorplus="0.001">0.0641</semimajoraxis>
       <eccentricity errorminus="0.026" errorplus="0.026">0.045</eccentricity>
@@ -37,7 +39,9 @@
       <periastron>None</periastron>
       <argumentofperiastron errorminus="43.0" errorplus="43.0">332.0</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
@@ -46,7 +50,7 @@
       <name>HD 10180 d</name>
       <coordinates/>
       <massearthssini errorminus="0.65" errorplus="0.65">11.75</massearthssini>
-      <massjupiterssini>None</massjupiterssini>
+      <massjupiterssini computed="true">0.04</massjupiterssini>
       <period errorminus="0.0038" errorplus="0.0038">16.3579</period>
       <semimajoraxis errorminus="0.002" errorplus="0.002">0.1286</semimajoraxis>
       <eccentricity errorminus="0.041" errorplus="0.041">0.088</eccentricity>
@@ -55,7 +59,9 @@
       <periastron>None</periastron>
       <argumentofperiastron errorminus="33.0" errorplus="33.0">315.0</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
@@ -64,7 +70,7 @@
       <name>HD 10180 e</name>
       <coordinates/>
       <massearthssini errorminus="1.2" errorplus="1.2">25.1</massearthssini>
-      <massjupiterssini>None</massjupiterssini>
+      <massjupiterssini computed="true">0.08</massjupiterssini>
       <period errorminus="0.022" errorplus="0.022">49.745</period>
       <semimajoraxis errorminus="0.0042" errorplus="0.0042">0.2699</semimajoraxis>
       <eccentricity errorminus="0.036" errorplus="0.036">0.026</eccentricity>
@@ -73,7 +79,9 @@
       <periastron>None</periastron>
       <argumentofperiastron errorminus="110.0" errorplus="110.0">166.0</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
@@ -82,7 +90,7 @@
       <name>HD 10180 f</name>
       <coordinates/>
       <massearthssini errorminus="1.4" errorplus="1.4">23.9</massearthssini>
-      <massjupiterssini>None</massjupiterssini>
+      <massjupiterssini computed="true">0.08</massjupiterssini>
       <period errorminus="0.17" errorplus="0.17">122.76</period>
       <semimajoraxis errorminus="0.0078" errorplus="0.0078">0.4929</semimajoraxis>
       <eccentricity errorminus="0.046" errorplus="0.046">0.135</eccentricity>
@@ -91,7 +99,9 @@
       <periastron>None</periastron>
       <argumentofperiastron errorminus="20.0" errorplus="20.0">332.0</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
@@ -100,7 +110,7 @@
       <name>HD 10180 g</name>
       <coordinates/>
       <massearthssini errorminus="3.4" errorplus="3.4">21.4</massearthssini>
-      <massjupiterssini>None</massjupiterssini>
+      <massjupiterssini computed="true">0.07</massjupiterssini>
       <period errorminus="8.1" errorplus="8.1">601.2</period>
       <semimajoraxis errorminus="0.026" errorplus="0.026">1.422</semimajoraxis>
       <eccentricity errorminus="0.14" errorplus="0.14">0.19</eccentricity>
@@ -109,7 +119,9 @@
       <periastron>None</periastron>
       <argumentofperiastron errorminus="49.0" errorplus="49.0">347.0</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
@@ -118,7 +130,7 @@
       <name>HD 10180 h</name>
       <coordinates/>
       <massearthssini errorminus="4.6" errorplus="4.6">64.4</massearthssini>
-      <massjupiterssini>None</massjupiterssini>
+      <massjupiterssini computed="true">0.2</massjupiterssini>
       <period errorminus="91.0" errorplus="91.0">2222.0</period>
       <semimajoraxis errorminus="0.11" errorplus="0.11">3.4</semimajoraxis>
       <eccentricity errorminus="0.07" errorplus="0.07">0.08</eccentricity>
@@ -127,7 +139,9 @@
       <periastron>None</periastron>
       <argumentofperiastron errorminus="74.0" errorplus="74.0">174.0</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>

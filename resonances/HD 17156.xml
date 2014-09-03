@@ -9,7 +9,7 @@
     <planet>
       <name>HD 17156 b</name>
       <coordinates/>
-      <massearths errorminus="0.02" errorplus="0.02">None</massearths>
+      <massearths computed="true">990.0</massearths>
       <massjupiters errorminus="0.02" errorplus="0.02">3.125</massjupiters>
       <period errorminus="0.0025" errorplus="0.0031">21.2144</period>
       <semimajoraxis errorminus="0.0001" errorplus="0.0001">0.159505</semimajoraxis>
@@ -19,7 +19,9 @@
       <periastron errorminus="0.03" errorplus="0.14">120.89</periastron>
       <argumentofperiastron errorminus="0.03" errorplus="0.14">None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
@@ -27,7 +29,7 @@
     <planet>
       <name>HD 17156 c</name>
       <coordinates/>
-      <massearths errorminus="0.019" errorplus="0.021">None</massearths>
+      <massearths computed="true">20.0</massearths>
       <massjupiters errorminus="0.019" errorplus="0.021">0.068</massjupiters>
       <period errorminus="0.09" errorplus="0.43">111.3937</period>
       <semimajoraxis errorminus="0.0003" errorplus="0.001">0.481478</semimajoraxis>
@@ -37,7 +39,9 @@
       <periastron errorminus="0.17" errorplus="0.17">273.57</periastron>
       <argumentofperiastron errorminus="0.17" errorplus="0.17">None</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>U</status>
       <lastupdate>2014/09/01</lastupdate>

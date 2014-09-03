@@ -9,7 +9,7 @@
     <planet>
       <name>HD 37124 b</name>
       <coordinates/>
-      <massearthssini errorminus="0.017" errorplus="0.017">None</massearthssini>
+      <massearthssini computed="true">210.0</massearthssini>
       <massjupiterssini errorminus="0.017" errorplus="0.017">0.675</massjupiterssini>
       <period errorminus="0.089" errorplus="0.089">154.378</period>
       <semimajoraxis errorminus="0.0002" errorplus="0.0002">0.53364</semimajoraxis>
@@ -19,7 +19,9 @@
       <periastron>None</periastron>
       <argumentofperiastron>130.0</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
@@ -27,7 +29,7 @@
     <planet>
       <name>HD 37124 c</name>
       <coordinates/>
-      <massearthssini errorminus="0.052" errorplus="0.052">None</massearthssini>
+      <massearthssini computed="true">200.0</massearthssini>
       <massjupiterssini errorminus="0.052" errorplus="0.052">0.652</massjupiterssini>
       <period errorminus="5.1" errorplus="5.1">885.5</period>
       <semimajoraxis errorminus="0.0065" errorplus="0.0065">1.71</semimajoraxis>
@@ -37,7 +39,9 @@
       <periastron>None</periastron>
       <argumentofperiastron errorminus="17.0" errorplus="17.0">53.0</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
@@ -45,7 +49,7 @@
     <planet>
       <name>HD 37124 d</name>
       <coordinates/>
-      <massearthssini errorminus="0.059" errorplus="0.059">None</massearthssini>
+      <massearthssini computed="true">200.0</massearthssini>
       <massjupiterssini errorminus="0.059" errorplus="0.059">0.696</massjupiterssini>
       <period errorminus="38.0" errorplus="38.0">1862.0</period>
       <semimajoraxis errorminus="0.038" errorplus="0.038">2.807</semimajoraxis>
@@ -55,7 +59,9 @@
       <periastron>None</periastron>
       <argumentofperiastron>0.0</argumentofperiastron>
       <longitude/>
-      <meananomaly/>
+      <meananomaly>None</meananomaly>
+      <argoflatitude/>
+      <meanargoflatitude/>
       <epoch/>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
