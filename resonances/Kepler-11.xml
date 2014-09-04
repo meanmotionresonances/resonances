@@ -57,9 +57,9 @@
     </planet>
     <planet>
       <name>Kepler-11 d</name>
-      <name>KOI-157 06</name>
+      <name>KOI-157 02</name>
       <name>KIC 6541920 d</name>
-      <name>KOI 157 06</name>
+      <name>KOI 157 02</name>
       <coordinates/>
       <massearths errorminus="1.7" errorplus="3.1">6.1</massearths>
       <massjupiters computed="true">0.02</massjupiters>
@@ -76,7 +76,7 @@
       <meanargoflatitude/>
       <epoch/>
       <status>C</status>
-      <lastupdate>2014/09/01</lastupdate>
+      <lastupdate>2014/09/04</lastupdate>
     </planet>
     <planet>
       <name>Kepler-11 e</name>
