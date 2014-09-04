@@ -14,7 +14,7 @@
       <period errorminus="0.044" errorplus="0.044">256.389</period>
       <semimajoraxis>0.8053</semimajoraxis>
       <eccentricity errorminus="0.001" errorplus="0.001">0.431</eccentricity>
-      <inclination errorplus="None">90.0</inclination>
+      <inclination>90.0</inclination>
       <timeofpericentre>None</timeofpericentre>
       <ascendingnode>0.0</ascendingnode>
       <periastron>None</periastron>
@@ -35,7 +35,7 @@
       <period errorminus="19.056" errorplus="19.056">1397.445</period>
       <semimajoraxis>2.49</semimajoraxis>
       <eccentricity errorminus="0.024" errorplus="0.024">0.104</eccentricity>
-      <inclination errorplus="None">90.0</inclination>
+      <inclination>90.0</inclination>
       <timeofpericentre>None</timeofpericentre>
       <ascendingnode>0.0</ascendingnode>
       <periastron>None</periastron>

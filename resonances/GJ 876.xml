@@ -79,7 +79,7 @@
       <period errorminus="1.4" errorplus="6.2">124.6</period>
       <semimajoraxis errorminus="0.0026" errorplus="0.011">0.3398</semimajoraxis>
       <eccentricity upperlimit="0.19"/>
-      <inclination errorminus="4.3"/>
+      <inclination errorminus="4.3" errorplus="1.9">55.1</inclination>
       <timeofpericentre>None</timeofpericentre>
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
