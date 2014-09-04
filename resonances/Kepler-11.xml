@@ -20,6 +20,7 @@
       <period errorminus="0.00016" errorplus="0.00016">10.30375</period>
       <semimajoraxis errorminus="0.003" errorplus="0.003">0.091</semimajoraxis>
       <eccentricity>None</eccentricity>
+      <inclination errorminus="0.6">88.5</inclination>
       <timeofpericentre>None</timeofpericentre>
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
@@ -43,6 +44,7 @@
       <period errorminus="8e-05" errorplus="8e-05">13.02502</period>
       <semimajoraxis errorminus="0.004" errorplus="0.004">0.106</semimajoraxis>
       <eccentricity>None</eccentricity>
+      <inclination errorminus="0.6">89.0</inclination>
       <timeofpericentre>None</timeofpericentre>
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
@@ -66,6 +68,7 @@
       <period errorminus="0.00021" errorplus="0.00021">22.68719</period>
       <semimajoraxis errorminus="0.005" errorplus="0.005">0.159</semimajoraxis>
       <eccentricity>None</eccentricity>
+      <inclination errorminus="0.4">89.3</inclination>
       <timeofpericentre>None</timeofpericentre>
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
@@ -89,6 +92,7 @@
       <period errorminus="0.00028" errorplus="0.00028">31.9959</period>
       <semimajoraxis errorminus="0.007" errorplus="0.007">0.194</semimajoraxis>
       <eccentricity>None</eccentricity>
+      <inclination errorminus="0.2">88.8</inclination>
       <timeofpericentre>None</timeofpericentre>
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
@@ -112,6 +116,7 @@
       <period errorminus="0.00074" errorplus="0.00074">46.68876</period>
       <semimajoraxis errorminus="0.009" errorplus="0.009">0.25</semimajoraxis>
       <eccentricity>None</eccentricity>
+      <inclination errorminus="0.2">89.4</inclination>
       <timeofpericentre>None</timeofpericentre>
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
@@ -130,11 +135,12 @@
       <name>KIC 6541920 g</name>
       <name>KOI 157 05</name>
       <coordinates/>
-      <massearths>300.0</massearths>
-      <massjupiters computed="true">0.9</massjupiters>
+      <massearths upperlimit="300.0"/>
+      <massjupiters upperlimit="0.9" computed="true"/>
       <period errorminus="0.00112" errorplus="0.00112">118.37774</period>
       <semimajoraxis errorminus="0.016" errorplus="0.016">0.462</semimajoraxis>
       <eccentricity>None</eccentricity>
+      <inclination errorminus="0.2">89.8</inclination>
       <timeofpericentre>None</timeofpericentre>
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>

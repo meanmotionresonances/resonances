@@ -17,11 +17,12 @@
       <name>2MASS J19021775+3824032 d</name>
       <name>KOI 377 d</name>
       <coordinates/>
-      <massearths>7.0</massearths>
-      <massjupiters computed="true">0.02</massjupiters>
+      <massearths upperlimit="7.0"/>
+      <massjupiters upperlimit="0.02" computed="true"/>
       <period>1.5925</period>
       <semimajoraxis errorminus="0.00043" errorplus="0.00042">None</semimajoraxis>
       <eccentricity>None</eccentricity>
+      <inclination>None</inclination>
       <timeofpericentre>None</timeofpericentre>
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
@@ -46,6 +47,7 @@
       <period errorminus="9.8e-05" errorplus="9.8e-05">19.243159</period>
       <semimajoraxis errorminus="0.001" errorplus="0.001">0.14</semimajoraxis>
       <eccentricity>None</eccentricity>
+      <inclination>None</inclination>
       <timeofpericentre>None</timeofpericentre>
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
@@ -70,6 +72,7 @@
       <period errorminus="-0.000738" errorplus="0.000738">38.90861</period>
       <semimajoraxis errorminus="0.001" errorplus="0.001">0.225</semimajoraxis>
       <eccentricity>None</eccentricity>
+      <inclination>None</inclination>
       <timeofpericentre>None</timeofpericentre>
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>

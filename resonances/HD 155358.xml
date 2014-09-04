@@ -14,6 +14,7 @@
       <period errorminus="0.3" errorplus="0.3">194.3</period>
       <semimajoraxis errorminus="0.01" errorplus="0.01">0.64</semimajoraxis>
       <eccentricity errorminus="0.03" errorplus="0.03">0.17</eccentricity>
+      <inclination errorplus="None">None</inclination>
       <timeofpericentre errorminus="6.0" errorplus="6.0">2451224.8</timeofpericentre>
       <ascendingnode>None</ascendingnode>
       <periastron errorminus="11.0" errorplus="11.0">143.0</periastron>
@@ -34,6 +35,7 @@
       <period errorminus="1.0" errorplus="1.0">391.9</period>
       <semimajoraxis errorminus="0.02" errorplus="0.02">1.02</semimajoraxis>
       <eccentricity errorminus="0.1" errorplus="0.1">0.16</eccentricity>
+      <inclination errorplus="None">None</inclination>
       <timeofpericentre errorminus="28.0" errorplus="28.0">2455345.4</timeofpericentre>
       <ascendingnode>None</ascendingnode>
       <periastron errorminus="26.0" errorplus="26.0">180.0</periastron>

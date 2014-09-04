@@ -13,11 +13,12 @@
       <name>Kepler-88 b</name>
       <name>KOI 142 b</name>
       <coordinates/>
-      <massearths>17.6</massearths>
-      <massjupiters computed="true">0.0553</massjupiters>
+      <massearths upperlimit="17.6"/>
+      <massjupiters upperlimit="0.0553" computed="true"/>
       <period errorminus="0.00143" errorplus="6.4e-05">10.954204</period>
       <semimajoraxis>None</semimajoraxis>
       <eccentricity errorminus="0.00052" errorplus="0.00121">0.05611</eccentricity>
+      <inclination errorminus="0.078" errorplus="0.077">0.962</inclination>
       <timeofpericentre>None</timeofpericentre>
       <ascendingnode>270.0</ascendingnode>
       <periastron errorminus="1.0" errorplus="3.4">90.7</periastron>
@@ -40,6 +41,7 @@
       <period errorminus="0.0031" errorplus="0.0036">22.3383</period>
       <semimajoraxis>None</semimajoraxis>
       <eccentricity errorminus="0.0028" errorplus="0.0014">0.05628</eccentricity>
+      <inclination errorminus="2.1" errorplus="2.7">3.7</inclination>
       <timeofpericentre>None</timeofpericentre>
       <ascendingnode errorminus="164.0" errorplus="11.0">259.0</ascendingnode>
       <periastron errorminus="2.0" errorplus="4.7">271.1</periastron>
