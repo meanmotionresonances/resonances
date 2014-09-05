@@ -21,11 +21,12 @@
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
       <argumentofperiastron errorminus="26.0" errorplus="14.0">241.0</argumentofperiastron>
-      <longitude/>
+      <longitude>None</longitude>
       <meananomaly>None</meananomaly>
-      <argoflatitude/>
-      <meanargoflatitude/>
-      <epoch/>
+      <argoflatitude errorminus="3.2" errorplus="3.2">None</argoflatitude>
+      <meanargoflatitude errorminus="0.9" errorplus="0.4">358.4</meanargoflatitude>
+      <transittime unit="BJD">None</transittime>
+      <epoch unit="JD">2452000.0</epoch>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
     </planet>
@@ -42,11 +43,12 @@
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
       <argumentofperiastron errorminus="2.0" errorplus="1.0">251.9</argumentofperiastron>
-      <longitude/>
+      <longitude>None</longitude>
       <meananomaly>None</meananomaly>
-      <argoflatitude/>
-      <meanargoflatitude/>
-      <epoch/>
+      <argoflatitude errorminus="0.46" errorplus="0.46">None</argoflatitude>
+      <meanargoflatitude errorminus="0.9" errorplus="1.2">72.2</meanargoflatitude>
+      <transittime unit="BJD">None</transittime>
+      <epoch unit="JD">2452000.0</epoch>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
     </planet>
@@ -63,11 +65,12 @@
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
       <argumentofperiastron errorminus="5.0" errorplus="12.0">248.0</argumentofperiastron>
-      <longitude/>
+      <longitude>None</longitude>
       <meananomaly>None</meananomaly>
-      <argoflatitude/>
-      <meanargoflatitude/>
-      <epoch/>
+      <argoflatitude errorminus="0.2" errorplus="0.2">None</argoflatitude>
+      <meanargoflatitude errorminus="0.48" errorplus="0.57">341.08</meanargoflatitude>
+      <transittime unit="BJD">None</transittime>
+      <epoch unit="JD">2452000.0</epoch>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
     </planet>
@@ -84,11 +87,12 @@
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
       <argumentofperiastron>0.0</argumentofperiastron>
-      <longitude/>
+      <longitude>None</longitude>
       <meananomaly>None</meananomaly>
-      <argoflatitude/>
-      <meanargoflatitude/>
-      <epoch/>
+      <argoflatitude errorminus="7.3" errorplus="7.3">None</argoflatitude>
+      <meanargoflatitude errorminus="27.0" errorplus="37.0">301.0</meanargoflatitude>
+      <transittime unit="BJD">None</transittime>
+      <epoch unit="JD">2452000.0</epoch>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
     </planet>

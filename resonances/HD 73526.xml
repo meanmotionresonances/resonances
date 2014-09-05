@@ -18,12 +18,13 @@
       <timeofpericentre errorminus="15.0" errorplus="15.0">None</timeofpericentre>
       <ascendingnode>None</ascendingnode>
       <periastron errorminus="9.0" errorplus="9.0">203.0</periastron>
-      <argumentofperiastron errorminus="13.0" errorplus="13.0">None</argumentofperiastron>
-      <longitude/>
-      <meananomaly>86.0</meananomaly>
-      <argoflatitude/>
-      <meanargoflatitude/>
-      <epoch/>
+      <argumentofperiastron errorminus="11.0" errorplus="11.0">None</argumentofperiastron>
+      <longitude>None</longitude>
+      <meananomaly errorminus="13.0" errorplus="13.0">86.0</meananomaly>
+      <argoflatitude>None</argoflatitude>
+      <meanargoflatitude>None</meanargoflatitude>
+      <transittime unit="BJD">None</transittime>
+      <epoch unit="JD">2451212.1302</epoch>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
     </planet>
@@ -39,12 +40,13 @@
       <timeofpericentre errorminus="33.0" errorplus="33.0">None</timeofpericentre>
       <ascendingnode>None</ascendingnode>
       <periastron errorminus="76.0" errorplus="76.0">13.0</periastron>
-      <argumentofperiastron errorminus="27.0" errorplus="27.0">None</argumentofperiastron>
-      <longitude/>
-      <meananomaly>82.0</meananomaly>
-      <argoflatitude/>
-      <meanargoflatitude/>
-      <epoch/>
+      <argumentofperiastron errorminus="30.0" errorplus="30.0">None</argumentofperiastron>
+      <longitude>None</longitude>
+      <meananomaly errorminus="27.0" errorplus="27.0">82.0</meananomaly>
+      <argoflatitude>None</argoflatitude>
+      <meanargoflatitude>None</meanargoflatitude>
+      <transittime unit="BJD">None</transittime>
+      <epoch unit="JD">2451212.1302</epoch>
       <status>C</status>
       <lastupdate>2014/09/01</lastupdate>
     </planet>
