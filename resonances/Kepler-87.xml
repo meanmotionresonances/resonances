@@ -59,10 +59,10 @@
       <coordinates/>
       <massearths errorminus="8.8" errorplus="8.8">324.2</massearths>
       <massjupiters computed="true">1.0</massjupiters>
-      <period errorminus="0.0005" errorplus="0.0005">114.73635</period>
+      <period errorminus="0.00015" errorplus="0.00015">114.73635</period>
       <semimajoraxis errorminus="0.01" errorplus="0.01">0.471</semimajoraxis>
       <eccentricity errorminus="0.009" errorplus="0.009">0.036</eccentricity>
-      <inclination errorminus="-0.03" errorplus="0.034">89.274</inclination>
+      <inclination errorminus="0.03" errorplus="0.034">89.274</inclination>
       <timeofpericentre>None</timeofpericentre>
       <ascendingnode>None</ascendingnode>
       <periastron>None</periastron>
@@ -95,10 +95,10 @@
       <meananomaly errorminus="14.4" errorplus="14.4">291.4</meananomaly>
       <argoflatitude>None</argoflatitude>
       <meanargoflatitude>None</meanargoflatitude>
-      <transittime unit="BJD" errorminus="0.0059" errorplus="0.0059">2455119.0894</transittime>
+      <transittime unit="BJD" errorminus="0.0069" errorplus="0.0059">2455119.0894</transittime>
       <epoch unit="BJD">2454833.0</epoch>
       <status>C</status>
-      <lastupdate>2014/09/01</lastupdate>
+      <lastupdate>2014/09/11</lastupdate>
     </planet>
   </star>
   <resonance>

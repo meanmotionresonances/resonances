@@ -42,7 +42,7 @@
       <coordinates/>
       <massearths computed="true">2000.0</massearths>
       <massjupiters>6.0</massjupiters>
-      <period errorminus="0.00021" errorplus="0.0002">33.60134</period>
+      <period errorminus="0.0002" errorplus="0.00021">33.60134</period>
       <semimajoraxis errorminus="0.0028" errorplus="0.0029">0.1968</semimajoraxis>
       <eccentricity errorminus="0.01" errorplus="0.01">0.01</eccentricity>
       <inclination errorminus="0.067" errorplus="0.075">89.038</inclination>

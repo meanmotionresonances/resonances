@@ -15,7 +15,7 @@
       <semimajoraxis errorminus="0.0001" errorplus="0.0001">0.159505</semimajoraxis>
       <eccentricity errorminus="0.0005" errorplus="0.003">0.669614</eccentricity>
       <inclination errorminus="0.31" errorplus="0.31">None</inclination>
-      <timeofpericentre errorminus="0.05" errorplus="0.05">2403738.593</timeofpericentre>
+      <timeofpericentre errorminus="0.05" errorplus="0.05">2453738.593</timeofpericentre>
       <ascendingnode>None</ascendingnode>
       <periastron errorminus="0.03" errorplus="0.14">120.89</periastron>
       <argumentofperiastron errorminus="0.03" errorplus="0.14">None</argumentofperiastron>
@@ -26,7 +26,7 @@
       <transittime unit="BJD">None</transittime>
       <epoch unit="HJD">2453746.7582</epoch>
       <status>C</status>
-      <lastupdate>2014/09/01</lastupdate>
+      <lastupdate>2014/09/10</lastupdate>
     </planet>
     <planet>
       <name>HD 17156 c</name>
@@ -37,7 +37,7 @@
       <semimajoraxis errorminus="0.0003" errorplus="0.001">0.481478</semimajoraxis>
       <eccentricity errorminus="0.0012" errorplus="0.0029">0.136492</eccentricity>
       <inclination>None</inclination>
-      <timeofpericentre errorminus="1.61" errorplus="0.58">2403736.88</timeofpericentre>
+      <timeofpericentre errorminus="1.61" errorplus="0.58">2453736.88</timeofpericentre>
       <ascendingnode>None</ascendingnode>
       <periastron errorminus="0.17" errorplus="0.17">273.57</periastron>
       <argumentofperiastron errorminus="0.17" errorplus="0.17">None</argumentofperiastron>
@@ -48,7 +48,7 @@
       <transittime unit="BJD">None</transittime>
       <epoch unit="HJD">2453746.7582</epoch>
       <status>U</status>
-      <lastupdate>2014/09/01</lastupdate>
+      <lastupdate>2014/09/10</lastupdate>
     </planet>
   </star>
   <resonance>

@@ -19,7 +19,7 @@
       <coordinates/>
       <massearths errorminus="0.27" errorplus="0.33">4.45</massearths>
       <massjupiters computed="true">0.014</massjupiters>
-      <period errorminus="0.006" errorplus="0.0082">13.83989</period>
+      <period errorminus="0.0006" errorplus="0.00082">13.83989</period>
       <semimajoraxis errorminus="0.0015" errorplus="0.0015">0.1153</semimajoraxis>
       <eccentricity upperlimit="0.04"/>
       <inclination errorminus="0.71" errorplus="0.69">90.01</inclination>
@@ -34,7 +34,7 @@
       <transittime unit="BJD" errorminus="0.0058" errorplus="0.0055">2454960.9753</transittime>
       <epoch unit="BJD">2454950.0</epoch>
       <status>C</status>
-      <lastupdate>2014/08/24</lastupdate>
+      <lastupdate>2014/09/11</lastupdate>
     </planet>
     <planet>
       <name>Kepler-36 c</name>
@@ -45,7 +45,7 @@
       <coordinates/>
       <massearths errorminus="0.46" errorplus="0.6">8.08</massearths>
       <massjupiters computed="true">0.0254</massjupiters>
-      <period errorminus="0.0054" errorplus="0.0038">16.23855</period>
+      <period errorminus="0.00054" errorplus="0.00038">16.23855</period>
       <semimajoraxis errorminus="0.0016" errorplus="0.0016">0.1283</semimajoraxis>
       <eccentricity upperlimit="0.04"/>
       <inclination errorminus="0.53" errorplus="0.54">89.98</inclination>
@@ -60,7 +60,7 @@
       <transittime unit="BJD" errorminus="0.001" errorplus="0.0011">2454955.9132</transittime>
       <epoch unit="BJD">2454950.0</epoch>
       <status>C</status>
-      <lastupdate>2014/08/24</lastupdate>
+      <lastupdate>2014/09/11</lastupdate>
     </planet>
   </star>
   <resonance>

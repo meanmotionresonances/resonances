@@ -11,7 +11,7 @@
       <coordinates/>
       <massearthssini computed="true">600.0</massearthssini>
       <massjupiterssini errorminus="0.09" errorplus="0.09">1.74</massjupiterssini>
-      <period errorminus="21.2" errorplus="21.2">2795.0</period>
+      <period errorminus="22.0" errorplus="22.0">2542.0</period>
       <semimajoraxis errorminus="0.033" errorplus="0.033">3.358</semimajoraxis>
       <eccentricity errorminus="0.019" errorplus="0.019">0.223</eccentricity>
       <inclination>90.0</inclination>
@@ -33,7 +33,7 @@
       <coordinates/>
       <massearthssini computed="true">2200.0</massearthssini>
       <massjupiterssini errorminus="0.12" errorplus="0.12">6.96</massjupiterssini>
-      <period errorminus="9.9" errorplus="9.9">5658.7</period>
+      <period errorminus="9.9" errorplus="9.9">5654.8</period>
       <semimajoraxis errorminus="0.045" errorplus="0.045">5.389</semimajoraxis>
       <eccentricity errorminus="0.011" errorplus="0.011">0.142</eccentricity>
       <inclination>90.0</inclination>

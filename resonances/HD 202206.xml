@@ -34,7 +34,7 @@
       <massearths computed="true">692.7</massearths>
       <massjupiters>2.179</massjupiters>
       <period errorminus="19.056" errorplus="19.056">1397.445</period>
-      <semimajoraxis>2.49</semimajoraxis>
+      <semimajoraxis>2.4832</semimajoraxis>
       <eccentricity errorminus="0.024" errorplus="0.024">0.104</eccentricity>
       <inclination>90.0</inclination>
       <timeofpericentre>None</timeofpericentre>
@@ -48,7 +48,7 @@
       <transittime unit="BJD">None</transittime>
       <epoch unit="JD">2453000.0</epoch>
       <status>C</status>
-      <lastupdate>2014/09/01</lastupdate>
+      <lastupdate>2014/09/10</lastupdate>
     </planet>
   </star>
   <resonance>

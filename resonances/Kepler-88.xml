@@ -28,9 +28,9 @@
       <argoflatitude>None</argoflatitude>
       <meanargoflatitude>None</meanargoflatitude>
       <transittime unit="BJD">None</transittime>
-      <epoch unit="BJD">None</epoch>
+      <epoch unit="BJD">2454954.62702</epoch>
       <status>C</status>
-      <lastupdate>2014/09/01</lastupdate>
+      <lastupdate>2014/09/14</lastupdate>
     </planet>
     <planet>
       <name>KOI-142 c</name>
@@ -52,9 +52,9 @@
       <argoflatitude>None</argoflatitude>
       <meanargoflatitude>None</meanargoflatitude>
       <transittime unit="BJD">None</transittime>
-      <epoch unit="BJD">None</epoch>
+      <epoch unit="BJD">2454954.62702</epoch>
       <status>C</status>
-      <lastupdate>2014/09/01</lastupdate>
+      <lastupdate>2014/09/14</lastupdate>
     </planet>
   </star>
   <resonance>

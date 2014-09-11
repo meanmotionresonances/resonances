@@ -26,7 +26,7 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude>None</longitude>
-      <meananomaly>None</meananomaly>
+      <meananomaly>26.1</meananomaly>
       <argoflatitude>None</argoflatitude>
       <meanargoflatitude>None</meanargoflatitude>
       <transittime unit="BJD" errorminus="0.0077" errorplus="0.0077">2454971.5052</transittime>
@@ -51,7 +51,7 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude>None</longitude>
-      <meananomaly>None</meananomaly>
+      <meananomaly>169.6</meananomaly>
       <argoflatitude>None</argoflatitude>
       <meanargoflatitude>None</meanargoflatitude>
       <transittime unit="BJD" errorminus="0.0031" errorplus="0.0031">2454971.1748</transittime>
@@ -76,7 +76,7 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude>None</longitude>
-      <meananomaly>None</meananomaly>
+      <meananomaly>350.9</meananomaly>
       <argoflatitude>None</argoflatitude>
       <meanargoflatitude>None</meanargoflatitude>
       <transittime unit="BJD" errorminus="0.0044" errorplus="0.0044">2454981.455</transittime>
@@ -101,7 +101,7 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude>None</longitude>
-      <meananomaly>None</meananomaly>
+      <meananomaly>77.2</meananomaly>
       <argoflatitude>None</argoflatitude>
       <meanargoflatitude>None</meanargoflatitude>
       <transittime unit="BJD" errorminus="0.0037" errorplus="0.0037">2454987.159</transittime>
@@ -126,7 +126,7 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude>None</longitude>
-      <meananomaly>None</meananomaly>
+      <meananomaly>23.0</meananomaly>
       <argoflatitude>None</argoflatitude>
       <meanargoflatitude>None</meanargoflatitude>
       <transittime unit="BJD" errorminus="0.0059" errorplus="0.0059">2454964.6487</transittime>
@@ -151,7 +151,7 @@
       <periastron>None</periastron>
       <argumentofperiastron>None</argumentofperiastron>
       <longitude>None</longitude>
-      <meananomaly>None</meananomaly>
+      <meananomaly>34.5</meananomaly>
       <argoflatitude>None</argoflatitude>
       <meanargoflatitude>None</meanargoflatitude>
       <transittime unit="BJD" errorminus="0.0022" errorplus="0.0022">2455120.2901</transittime>
@@ -169,6 +169,12 @@
       <link>http://adsabs.harvard.edu/abs/2011Natur.470...53L</link>
       <publisher>Nature, Volume 470, Issue 7332, pp. 53-58 (2011)</publisher>
     </literature>
+    <literature>
+      <title>Astrophysics - Earth and Planetary Astrophysics</title>
+      <authors ordering="0">Mahajan, Nikhil; Wu, Yanqin (2014)</authors>
+      <link>http://adsabs.harvard.edu/abs/2014arXiv1409.0011M</link>
+      <publisher>ARXIV Accepted for publication by ApJ. Comments encouraged</publisher>
+    </literature>
   </resonance>
   <resonance>
     <p p="5">g</p>
@@ -178,6 +184,12 @@
       <authors ordering="0">Lissauer et al. (2011a)</authors>
       <link>http://adsabs.harvard.edu/abs/2011Natur.470...53L</link>
       <publisher>Nature, Volume 470, Issue 7332, pp. 53-58 (2011)</publisher>
+    </literature>
+    <literature>
+      <title>Astrophysics - Earth and Planetary Astrophysics</title>
+      <authors ordering="0">Mahajan, Nikhil; Wu, Yanqin (2014)</authors>
+      <link>http://adsabs.harvard.edu/abs/2014arXiv1409.0011M</link>
+      <publisher>ARXIV Accepted for publication by ApJ. Comments encouraged</publisher>
     </literature>
   </resonance>
 </system>

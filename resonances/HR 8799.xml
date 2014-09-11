@@ -7,28 +7,6 @@
     <age>0.06</age>
     <temperature>0.0</temperature>
     <planet>
-      <name>HR 8799 e</name>
-      <coordinates/>
-      <massearths computed="true">3000.0</massearths>
-      <massjupiters errorminus="2.0" errorplus="2.0">9.0</massjupiters>
-      <period>None</period>
-      <semimajoraxis errorminus="0.2" errorplus="0.2">15.4</semimajoraxis>
-      <eccentricity errorminus="0.03" errorplus="0.03">0.13</eccentricity>
-      <inclination errorminus="3.0" errorplus="3.0">25.0</inclination>
-      <timeofpericentre>None</timeofpericentre>
-      <ascendingnode errorminus="3.0" errorplus="3.0">64.0</ascendingnode>
-      <periastron errorminus="6.0" errorplus="6.0">176.0</periastron>
-      <argumentofperiastron>None</argumentofperiastron>
-      <longitude>None</longitude>
-      <meananomaly errorminus="5.0" errorplus="5.0">326.0</meananomaly>
-      <argoflatitude>None</argoflatitude>
-      <meanargoflatitude>None</meanargoflatitude>
-      <transittime unit="BJD">None</transittime>
-      <epoch unit="JD">2451118.1575</epoch>
-      <status>C</status>
-      <lastupdate>2014/08/24</lastupdate>
-    </planet>
-    <planet>
       <name>HR 8799 b</name>
       <coordinates/>
       <massearths computed="true">2000.0</massearths>
@@ -87,6 +65,28 @@
       <argumentofperiastron>None</argumentofperiastron>
       <longitude>None</longitude>
       <meananomaly errorminus="6.0" errorplus="6.0">148.0</meananomaly>
+      <argoflatitude>None</argoflatitude>
+      <meanargoflatitude>None</meanargoflatitude>
+      <transittime unit="BJD">None</transittime>
+      <epoch unit="JD">2451118.1575</epoch>
+      <status>C</status>
+      <lastupdate>2014/08/24</lastupdate>
+    </planet>
+    <planet>
+      <name>HR 8799 e</name>
+      <coordinates/>
+      <massearths computed="true">3000.0</massearths>
+      <massjupiters errorminus="2.0" errorplus="2.0">9.0</massjupiters>
+      <period>None</period>
+      <semimajoraxis errorminus="0.2" errorplus="0.2">15.4</semimajoraxis>
+      <eccentricity errorminus="0.03" errorplus="0.03">0.13</eccentricity>
+      <inclination errorminus="3.0" errorplus="3.0">25.0</inclination>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode errorminus="3.0" errorplus="3.0">64.0</ascendingnode>
+      <periastron errorminus="6.0" errorplus="6.0">176.0</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude>None</longitude>
+      <meananomaly errorminus="5.0" errorplus="5.0">326.0</meananomaly>
       <argoflatitude>None</argoflatitude>
       <meanargoflatitude>None</meanargoflatitude>
       <transittime unit="BJD">None</transittime>
