@@ -1,0 +1,129 @@
+<system>
+  <name>Kepler-82</name>
+  <name>KOI 880</name>
+  <name>KOI-880</name>
+  <name>KIC 7366258</name>
+  <distance>None</distance>
+  <star>
+    <mass>None</mass>
+    <metallicity>None</metallicity>
+    <age>None</age>
+    <temperature>None</temperature>
+    <planet>
+      <name>Kepler-82 d</name>
+      <name>KOI 880 04</name>
+      <name>KOI-880 04</name>
+      <name>KIC 7366258 d</name>
+      <coordinates/>
+      <massearths/>
+      <massjupiters/>
+      <period errorminus="5e-06" errorplus="5e-06">2.382961</period>
+      <semimajoraxis>None</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <inclination>None</inclination>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude>None</longitude>
+      <meananomaly>None</meananomaly>
+      <argoflatitude>None</argoflatitude>
+      <meanargoflatitude>None</meanargoflatitude>
+      <transittime unit="BJD" errorminus="0.00132" errorplus="0.00132">2454968.08186</transittime>
+      <epoch>None</epoch>
+      <status>C</status>
+      <lastupdate>2014/09/15</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-82 e</name>
+      <name>KOI 880 03</name>
+      <name>KOI-880 03</name>
+      <name>KIC 7366258 e</name>
+      <coordinates/>
+      <massearths/>
+      <massjupiters/>
+      <period errorminus="1.2e-05" errorplus="1.2e-05">5.902206</period>
+      <semimajoraxis>None</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <inclination>None</inclination>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude>None</longitude>
+      <meananomaly>None</meananomaly>
+      <argoflatitude>None</argoflatitude>
+      <meanargoflatitude>None</meanargoflatitude>
+      <transittime unit="BJD" errorminus="0.00115" errorplus="0.00115">2454969.78443</transittime>
+      <epoch>None</epoch>
+      <status>C</status>
+      <lastupdate>2014/09/15</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-82 b</name>
+      <name>KOI 880 01</name>
+      <name>KOI-880 01</name>
+      <name>KIC 7366258 b</name>
+      <coordinates/>
+      <massearths/>
+      <massjupiters/>
+      <period errorminus="6.5e-05" errorplus="6.5e-05">26.443794</period>
+      <semimajoraxis>None</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <inclination>None</inclination>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude>None</longitude>
+      <meananomaly>None</meananomaly>
+      <argoflatitude>None</argoflatitude>
+      <meanargoflatitude>None</meanargoflatitude>
+      <transittime unit="BJD" errorminus="0.00138" errorplus="0.00138">2455027.12502</transittime>
+      <epoch>None</epoch>
+      <status>C</status>
+      <lastupdate>2014/09/15</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-82 c</name>
+      <name>KOI 880 02</name>
+      <name>KOI-880 02</name>
+      <name>KIC 7366258 c</name>
+      <coordinates/>
+      <massearths/>
+      <massjupiters/>
+      <period errorminus="9.9e-05" errorplus="9.9e-05">51.531855</period>
+      <semimajoraxis>None</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <inclination>None</inclination>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude>None</longitude>
+      <meananomaly>None</meananomaly>
+      <argoflatitude>None</argoflatitude>
+      <meanargoflatitude>None</meanargoflatitude>
+      <transittime unit="BJD" errorminus="0.00099" errorplus="0.00099">2455007.11378</transittime>
+      <epoch>None</epoch>
+      <status>C</status>
+      <lastupdate>2014/09/15</lastupdate>
+    </planet>
+  </star>
+  <resonance>
+    <p p="2">c</p>
+    <q q="1">b</q>
+    <literature>
+      <title>Validation of Kepler's Multiple Planet Candidates. III. Light Curve Analysis and Announcement of Hundreds of New Multi-planet Systems</title>
+      <authors ordering="0">Rowe, Jason F.; Bryson, Stephen T.; Marcy, Geoffrey W.; Lissauer, Jack J.; Jontof-Hutter, Daniel; Mullally, Fergal; Gilliland, Ronald L.; Issacson, Howard; Ford, Eric; Howell, Steve B.; Borucki, William J.; Haas, Michael; Huber, Daniel; Steffen, Jason H.; </authors>
+      <link>http://adsabs.harvard.edu/abs/2014ApJ...784...45R</link>
+      <publisher>The Astrophysical Journal, Volume 784, Issue 1, article id. 45, 20 pp. (2014).</publisher>
+    </literature>
+    <literature>
+      <title>Transit Timing Variation of Near-resonance Planetary Pairs: Confirmation of 12 Multiple-planet Systems</title>
+      <authors ordering="0">Xie, Ji-Wei</authors>
+      <link>http://adsabs.harvard.edu/abs/2013ApJS..208...22X</link>
+      <publisher>The Astrophysical Journal Supplement, Volume 208, Issue 2, article id. 22, 12 pp. (2013).</publisher>
+    </literature>
+  </resonance>
+</system>

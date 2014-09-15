@@ -7,28 +7,6 @@
     <age>0.06</age>
     <temperature>0.0</temperature>
     <planet>
-      <name>HR 8799 b</name>
-      <coordinates/>
-      <massearths computed="true">2000.0</massearths>
-      <massjupiters errorminus="2.0" errorplus="2.0">7.0</massjupiters>
-      <period>None</period>
-      <semimajoraxis errorminus="0.2" errorplus="0.2">69.1</semimajoraxis>
-      <eccentricity errorminus="0.003" errorplus="0.003">0.02</eccentricity>
-      <inclination errorminus="3.0" errorplus="3.0">25.0</inclination>
-      <timeofpericentre>None</timeofpericentre>
-      <ascendingnode errorminus="3.0" errorplus="3.0">64.0</ascendingnode>
-      <periastron errorminus="10.0" errorplus="10.0">95.0</periastron>
-      <argumentofperiastron>None</argumentofperiastron>
-      <longitude>None</longitude>
-      <meananomaly errorminus="10.0" errorplus="10.0">321.0</meananomaly>
-      <argoflatitude>None</argoflatitude>
-      <meanargoflatitude>None</meanargoflatitude>
-      <transittime unit="BJD">None</transittime>
-      <epoch unit="JD">2451118.1575</epoch>
-      <status>C</status>
-      <lastupdate>2014/08/24</lastupdate>
-    </planet>
-    <planet>
       <name>HR 8799 d</name>
       <coordinates/>
       <massearths computed="true">3000.0</massearths>
@@ -94,41 +72,29 @@
       <status>C</status>
       <lastupdate>2014/08/24</lastupdate>
     </planet>
+    <planet>
+      <name>HR 8799 b</name>
+      <coordinates/>
+      <massearths computed="true">2000.0</massearths>
+      <massjupiters errorminus="2.0" errorplus="2.0">7.0</massjupiters>
+      <period>None</period>
+      <semimajoraxis errorminus="0.2" errorplus="0.2">69.1</semimajoraxis>
+      <eccentricity errorminus="0.003" errorplus="0.003">0.02</eccentricity>
+      <inclination errorminus="3.0" errorplus="3.0">25.0</inclination>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode errorminus="3.0" errorplus="3.0">64.0</ascendingnode>
+      <periastron errorminus="10.0" errorplus="10.0">95.0</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude>None</longitude>
+      <meananomaly errorminus="10.0" errorplus="10.0">321.0</meananomaly>
+      <argoflatitude>None</argoflatitude>
+      <meanargoflatitude>None</meanargoflatitude>
+      <transittime unit="BJD">None</transittime>
+      <epoch unit="JD">2451118.1575</epoch>
+      <status>C</status>
+      <lastupdate>2014/08/24</lastupdate>
+    </planet>
   </star>
-  <resonance>
-    <p p="2">b</p>
-    <q q="1">c</q>
-    <literature>
-      <title>Is the HR 8799 extrasolar system destined for planetary scattering?</title>
-      <authors ordering="1">Gozdziewski and Migaszewski (2009)</authors>
-      <link>http://adsabs.harvard.edu/abs/2009MNRAS.397L..16G</link>
-      <publisher>Monthly Notices of the Royal Astronomical Society: Letters, Volume 397, Issue 1, pp. L16-L20</publisher>
-    </literature>
-    <literature>
-      <title>Images of a fourth planet orbiting HR 8799</title>
-      <authors ordering="1">Marois et al. (2010)</authors>
-      <link>http://adsabs.harvard.edu/abs/2010Natur.468.1080M</link>
-      <publisher>Nature, Volume 468, Issue 7327, pp. 1080-1083 (2010).</publisher>
-    </literature>
-    <literature>
-      <title>High-Mass, Four-Planet Models for HR 8799: Constraining the Orbital Inclination and Age of the System</title>
-      <authors ordering="1">Sudol, Jeffrey J.; Haghighipour, Nader</authors>
-      <link>http://adsabs.harvard.edu/abs/2012ApJ...755...38S</link>
-      <publisher>The Astrophysical Journal, Volume 755, Issue 1, article id. 38, 9 pp. (2012)</publisher>
-    </literature>
-    <literature>
-      <title>Orbital Motion of HR 8799 b, c, d Using Hubble Space Telescope Data from 1998: Constraints on Inclination, Eccentricity, and Stability</title>
-      <authors ordering="1">Soummer, Rémi; Brendan Hagan, J.; Pueyo, Laurent; Thormann, Adrien; Rajan, Abhijith; Marois, Christian</authors>
-      <link>http://adsabs.harvard.edu/abs/2011ApJ...741...55S</link>
-      <publisher>The Astrophysical Journal, Volume 741, Issue 1, article id. 55, 16 pp. (2011)</publisher>
-    </literature>
-    <literature>
-      <title>Multiple mean motion resonances in the HR 8799 planetary system</title>
-      <authors ordering="0">Gozdziewski, Krzysztof; Migaszewski, Cezary</authors>
-      <link>http://adsabs.harvard.edu/abs/2013arXiv1308.6462G</link>
-      <publisher>Monthly Notices of the Royal Astronomical Society, Volume 440, Issue 4, p.3140-3171 (2014)</publisher>
-    </literature>
-  </resonance>
   <resonance>
     <p p="2">d</p>
     <q q="1">e</q>
@@ -166,6 +132,40 @@
   <resonance>
     <p p="2">c</p>
     <q q="1">d</q>
+    <literature>
+      <title>Is the HR 8799 extrasolar system destined for planetary scattering?</title>
+      <authors ordering="1">Gozdziewski and Migaszewski (2009)</authors>
+      <link>http://adsabs.harvard.edu/abs/2009MNRAS.397L..16G</link>
+      <publisher>Monthly Notices of the Royal Astronomical Society: Letters, Volume 397, Issue 1, pp. L16-L20</publisher>
+    </literature>
+    <literature>
+      <title>Images of a fourth planet orbiting HR 8799</title>
+      <authors ordering="1">Marois et al. (2010)</authors>
+      <link>http://adsabs.harvard.edu/abs/2010Natur.468.1080M</link>
+      <publisher>Nature, Volume 468, Issue 7327, pp. 1080-1083 (2010).</publisher>
+    </literature>
+    <literature>
+      <title>High-Mass, Four-Planet Models for HR 8799: Constraining the Orbital Inclination and Age of the System</title>
+      <authors ordering="1">Sudol, Jeffrey J.; Haghighipour, Nader</authors>
+      <link>http://adsabs.harvard.edu/abs/2012ApJ...755...38S</link>
+      <publisher>The Astrophysical Journal, Volume 755, Issue 1, article id. 38, 9 pp. (2012)</publisher>
+    </literature>
+    <literature>
+      <title>Orbital Motion of HR 8799 b, c, d Using Hubble Space Telescope Data from 1998: Constraints on Inclination, Eccentricity, and Stability</title>
+      <authors ordering="1">Soummer, Rémi; Brendan Hagan, J.; Pueyo, Laurent; Thormann, Adrien; Rajan, Abhijith; Marois, Christian</authors>
+      <link>http://adsabs.harvard.edu/abs/2011ApJ...741...55S</link>
+      <publisher>The Astrophysical Journal, Volume 741, Issue 1, article id. 55, 16 pp. (2011)</publisher>
+    </literature>
+    <literature>
+      <title>Multiple mean motion resonances in the HR 8799 planetary system</title>
+      <authors ordering="0">Gozdziewski, Krzysztof; Migaszewski, Cezary</authors>
+      <link>http://adsabs.harvard.edu/abs/2013arXiv1308.6462G</link>
+      <publisher>Monthly Notices of the Royal Astronomical Society, Volume 440, Issue 4, p.3140-3171 (2014)</publisher>
+    </literature>
+  </resonance>
+  <resonance>
+    <p p="2">b</p>
+    <q q="1">c</q>
     <literature>
       <title>Is the HR 8799 extrasolar system destined for planetary scattering?</title>
       <authors ordering="1">Gozdziewski and Migaszewski (2009)</authors>

@@ -1,0 +1,181 @@
+<system>
+  <name>Kepler-80</name>
+  <name>KOI 500</name>
+  <name>KOI-500</name>
+  <name>KIC 4852528</name>
+  <distance>None</distance>
+  <star>
+    <mass>None</mass>
+    <metallicity>None</metallicity>
+    <age>None</age>
+    <temperature>None</temperature>
+    <planet>
+      <name>Kepler-80 05</name>
+      <name>KOI 500 05</name>
+      <name>KIC 4852528 05</name>
+      <coordinates/>
+      <massearths/>
+      <massjupiters/>
+      <period errorminus="2e-06" errorplus="2e-06">0.986784</period>
+      <semimajoraxis>None</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <inclination>None</inclination>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude>None</longitude>
+      <meananomaly>None</meananomaly>
+      <argoflatitude>None</argoflatitude>
+      <meanargoflatitude>None</meanargoflatitude>
+      <transittime unit="BJD" errorminus="0.00115" errorplus="0.00115">2454966.16814</transittime>
+      <epoch>None</epoch>
+      <status>C</status>
+      <lastupdate>2014/09/15</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-80 d</name>
+      <name>KOI 500 03</name>
+      <name>KIC 4852528 d</name>
+      <coordinates/>
+      <massearths/>
+      <massjupiters/>
+      <period errorminus="1e-05" errorplus="1e-05">3.072186</period>
+      <semimajoraxis>None</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <inclination>None</inclination>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude>None</longitude>
+      <meananomaly>None</meananomaly>
+      <argoflatitude>None</argoflatitude>
+      <meanargoflatitude>None</meanargoflatitude>
+      <transittime unit="BJD" errorminus="0.00169" errorplus="0.00169">2454967.02149</transittime>
+      <epoch>None</epoch>
+      <status>C</status>
+      <lastupdate>2014/09/15</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-80 e</name>
+      <name>KOI 500 04</name>
+      <name>KIC 4852528 e</name>
+      <coordinates/>
+      <massearths/>
+      <massjupiters/>
+      <period errorminus="1.5e-05" errorplus="1.5e-05">4.645387</period>
+      <semimajoraxis>None</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <inclination>None</inclination>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude>None</longitude>
+      <meananomaly>None</meananomaly>
+      <argoflatitude>None</argoflatitude>
+      <meanargoflatitude>None</meanargoflatitude>
+      <transittime unit="BJD" errorminus="0.00168" errorplus="0.00168">2454967.58736</transittime>
+      <epoch>None</epoch>
+      <status>C</status>
+      <lastupdate>2014/09/15</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-80 b</name>
+      <name>KOI 500 01</name>
+      <name>KIC 4852528 b</name>
+      <coordinates/>
+      <massearths/>
+      <massjupiters/>
+      <period errorminus="1.2e-05" errorplus="1.2e-05">7.053458</period>
+      <semimajoraxis>None</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <inclination>None</inclination>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude>None</longitude>
+      <meananomaly>None</meananomaly>
+      <argoflatitude>None</argoflatitude>
+      <meanargoflatitude>None</meanargoflatitude>
+      <transittime unit="BJD" errorminus="0.00086" errorplus="0.00086">2455009.47645</transittime>
+      <epoch>None</epoch>
+      <status>C</status>
+      <lastupdate>2014/09/15</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-80 c</name>
+      <name>KOI 500 02</name>
+      <name>KIC 4852528 c</name>
+      <coordinates/>
+      <massearths/>
+      <massjupiters/>
+      <period errorminus="1.8e-05" errorplus="1.8e-05">9.521772</period>
+      <semimajoraxis>None</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <inclination>None</inclination>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude>None</longitude>
+      <meananomaly>None</meananomaly>
+      <argoflatitude>None</argoflatitude>
+      <meanargoflatitude>None</meanargoflatitude>
+      <transittime unit="BJD" errorminus="0.00097" errorplus="0.00097">2455010.47812</transittime>
+      <epoch>None</epoch>
+      <status>C</status>
+      <lastupdate>2014/09/15</lastupdate>
+    </planet>
+  </star>
+  <resonance>
+    <p p="3">e</p>
+    <q q="2">d</q>
+    <literature>
+      <title>Validation of Kepler's Multiple Planet Candidates. III. Light Curve Analysis and Announcement of Hundreds of New Multi-planet Systems</title>
+      <authors ordering="0">Rowe, Jason F.; Bryson, Stephen T.; Marcy, Geoffrey W.; Lissauer, Jack J.; Jontof-Hutter, Daniel; Mullally, Fergal; Gilliland, Ronald L.; Issacson, Howard; Ford, Eric; Howell, Steve B.; Borucki, William J.; Haas, Michael; Huber, Daniel; Steffen, Jason H.; </authors>
+      <link>http://adsabs.harvard.edu/abs/2014ApJ...784...45R</link>
+      <publisher>The Astrophysical Journal, Volume 784, Issue 1, article id. 45, 20 pp. (2014).</publisher>
+    </literature>
+    <literature>
+      <title>Transit Timing Variation of Near-resonance Planetary Pairs: Confirmation of 12 Multiple-planet Systems</title>
+      <authors ordering="0">Xie, Ji-Wei</authors>
+      <link>http://adsabs.harvard.edu/abs/2013ApJS..208...22X</link>
+      <publisher>The Astrophysical Journal Supplement, Volume 208, Issue 2, article id. 22, 12 pp. (2013).</publisher>
+    </literature>
+  </resonance>
+  <resonance>
+    <p p="3">b</p>
+    <q q="2">e</q>
+    <literature>
+      <title>Validation of Kepler's Multiple Planet Candidates. III. Light Curve Analysis and Announcement of Hundreds of New Multi-planet Systems</title>
+      <authors ordering="0">Rowe, Jason F.; Bryson, Stephen T.; Marcy, Geoffrey W.; Lissauer, Jack J.; Jontof-Hutter, Daniel; Mullally, Fergal; Gilliland, Ronald L.; Issacson, Howard; Ford, Eric; Howell, Steve B.; Borucki, William J.; Haas, Michael; Huber, Daniel; Steffen, Jason H.; </authors>
+      <link>http://adsabs.harvard.edu/abs/2014ApJ...784...45R</link>
+      <publisher>The Astrophysical Journal, Volume 784, Issue 1, article id. 45, 20 pp. (2014).</publisher>
+    </literature>
+    <literature>
+      <title>Transit Timing Variation of Near-resonance Planetary Pairs: Confirmation of 12 Multiple-planet Systems</title>
+      <authors ordering="0">Xie, Ji-Wei</authors>
+      <link>http://adsabs.harvard.edu/abs/2013ApJS..208...22X</link>
+      <publisher>The Astrophysical Journal Supplement, Volume 208, Issue 2, article id. 22, 12 pp. (2013).</publisher>
+    </literature>
+  </resonance>
+  <resonance>
+    <p p="4">c</p>
+    <q q="3">b</q>
+    <literature>
+      <title>Validation of Kepler's Multiple Planet Candidates. III. Light Curve Analysis and Announcement of Hundreds of New Multi-planet Systems</title>
+      <authors ordering="0">Rowe, Jason F.; Bryson, Stephen T.; Marcy, Geoffrey W.; Lissauer, Jack J.; Jontof-Hutter, Daniel; Mullally, Fergal; Gilliland, Ronald L.; Issacson, Howard; Ford, Eric; Howell, Steve B.; Borucki, William J.; Haas, Michael; Huber, Daniel; Steffen, Jason H.; </authors>
+      <link>http://adsabs.harvard.edu/abs/2014ApJ...784...45R</link>
+      <publisher>The Astrophysical Journal, Volume 784, Issue 1, article id. 45, 20 pp. (2014).</publisher>
+    </literature>
+    <literature>
+      <title>Transit Timing Variation of Near-resonance Planetary Pairs: Confirmation of 12 Multiple-planet Systems</title>
+      <authors ordering="0">Xie, Ji-Wei</authors>
+      <link>http://adsabs.harvard.edu/abs/2013ApJS..208...22X</link>
+      <publisher>The Astrophysical Journal Supplement, Volume 208, Issue 2, article id. 22, 12 pp. (2013).</publisher>
+    </literature>
+  </resonance>
+</system>

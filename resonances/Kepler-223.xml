@@ -1,0 +1,161 @@
+<system>
+  <name>Kepler-223</name>
+  <name>KOI 730</name>
+  <name>KOI-730</name>
+  <name>KIC 10227020</name>
+  <distance>None</distance>
+  <star>
+    <mass>None</mass>
+    <metallicity>None</metallicity>
+    <age>None</age>
+    <temperature>None</temperature>
+    <planet>
+      <name>Kepler-223 b</name>
+      <name>KOI 730 04</name>
+      <name>KOI-730 04</name>
+      <name>KIC 10227020 b</name>
+      <coordinates/>
+      <massearths/>
+      <massjupiters/>
+      <period errorminus="0.000159" errorplus="0.000159">7.384108</period>
+      <semimajoraxis>None</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <inclination>None</inclination>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude>None</longitude>
+      <meananomaly>None</meananomaly>
+      <argoflatitude>None</argoflatitude>
+      <meanargoflatitude>None</meanargoflatitude>
+      <transittime unit="BJD" errorminus="0.01126" errorplus="0.01126">2454970.48632</transittime>
+      <epoch>None</epoch>
+      <status>C</status>
+      <lastupdate>2014/09/14</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-223 c</name>
+      <name>KOI 730 02</name>
+      <name>KOI-730 02</name>
+      <name>KIC 10227020 c</name>
+      <coordinates/>
+      <massearths/>
+      <massjupiters/>
+      <period errorminus="0.000145" errorplus="0.000145">9.848183</period>
+      <semimajoraxis>None</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <inclination>None</inclination>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude>None</longitude>
+      <meananomaly>None</meananomaly>
+      <argoflatitude>None</argoflatitude>
+      <meanargoflatitude>None</meanargoflatitude>
+      <transittime unit="BJD" errorminus="0.01037" errorplus="0.01037">2454971.38748</transittime>
+      <epoch>None</epoch>
+      <status>C</status>
+      <lastupdate>2014/09/14</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-223 d</name>
+      <name>KOI 730 01</name>
+      <name>KOI-730 01</name>
+      <name>KIC 10227020 d</name>
+      <coordinates/>
+      <massearths/>
+      <massjupiters/>
+      <period errorminus="0.000108" errorplus="0.000108">14.788759</period>
+      <semimajoraxis>None</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <inclination>None</inclination>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude>None</longitude>
+      <meananomaly>None</meananomaly>
+      <argoflatitude>None</argoflatitude>
+      <meanargoflatitude>None</meanargoflatitude>
+      <transittime unit="BJD" errorminus="0.00376" errorplus="0.00376">2455009.76379</transittime>
+      <epoch>None</epoch>
+      <status>C</status>
+      <lastupdate>2014/09/14</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-223 e</name>
+      <name>KOI 730 03</name>
+      <name>KOI-730 03</name>
+      <name>KIC 10227020 e</name>
+      <coordinates/>
+      <massearths/>
+      <massjupiters/>
+      <period errorminus="0.000228" errorplus="0.000228">19.721734</period>
+      <semimajoraxis>None</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <inclination>None</inclination>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude>None</longitude>
+      <meananomaly>None</meananomaly>
+      <argoflatitude>None</argoflatitude>
+      <meanargoflatitude>None</meanargoflatitude>
+      <transittime unit="BJD" errorminus="0.00593" errorplus="0.00593">2454968.10369</transittime>
+      <epoch>None</epoch>
+      <status>C</status>
+      <lastupdate>2014/09/14</lastupdate>
+    </planet>
+  </star>
+  <resonance>
+    <p p="8">c</p>
+    <q q="6">b</q>
+    <literature>
+      <title>Validation of Kepler's Multiple Planet Candidates. III. Light Curve Analysis and Announcement of Hundreds of New Multi-planet Systems</title>
+      <authors ordering="0">Rowe, Jason F.; Bryson, Stephen T.; Marcy, Geoffrey W.; Lissauer, Jack J.; Jontof-Hutter, Daniel; Mullally, Fergal; Gilliland, Ronald L.; Issacson, Howard; Ford, Eric; Howell, Steve B.; Borucki, William J.; Haas, Michael; Huber, Daniel; Steffen, Jason H.; </authors>
+      <link>http://adsabs.harvard.edu/abs/2014ApJ...784...45R</link>
+      <publisher>The Astrophysical Journal, Volume 784, Issue 1, article id. 45, 20 pp. (2014).</publisher>
+    </literature>
+    <literature>
+      <title>Architecture and Dynamics of Kepler's Candidate Multiple Transiting Planet Systems</title>
+      <authors ordering="0">Lissauer, Jack J.; Ragozzine, Darin; Fabrycky, Daniel C.; Steffen, Jason H.; Ford, Eric B.; Jenkins, Jon M.; Shporer, Avi; Holman, Matthew J.; Rowe, Jason F.; Quintana, Elisa V.; Batalha, Natalie M.; Borucki, William J.; Bryson, Stephen T.; Caldwell, Dougl</authors>
+      <link>http://adsabs.harvard.edu/abs/2011ApJS..197....8L</link>
+      <publisher>The Astrophysical Journal Supplement, Volume 197, Issue 1, article id. 8, 26 pp. (2011).</publisher>
+    </literature>
+  </resonance>
+  <resonance>
+    <p p="6">d</p>
+    <q q="4">c</q>
+    <literature>
+      <title>Validation of Kepler's Multiple Planet Candidates. III. Light Curve Analysis and Announcement of Hundreds of New Multi-planet Systems</title>
+      <authors ordering="0">Rowe, Jason F.; Bryson, Stephen T.; Marcy, Geoffrey W.; Lissauer, Jack J.; Jontof-Hutter, Daniel; Mullally, Fergal; Gilliland, Ronald L.; Issacson, Howard; Ford, Eric; Howell, Steve B.; Borucki, William J.; Haas, Michael; Huber, Daniel; Steffen, Jason H.; </authors>
+      <link>http://adsabs.harvard.edu/abs/2014ApJ...784...45R</link>
+      <publisher>The Astrophysical Journal, Volume 784, Issue 1, article id. 45, 20 pp. (2014).</publisher>
+    </literature>
+    <literature>
+      <title>Architecture and Dynamics of Kepler's Candidate Multiple Transiting Planet Systems</title>
+      <authors ordering="0">Lissauer, Jack J.; Ragozzine, Darin; Fabrycky, Daniel C.; Steffen, Jason H.; Ford, Eric B.; Jenkins, Jon M.; Shporer, Avi; Holman, Matthew J.; Rowe, Jason F.; Quintana, Elisa V.; Batalha, Natalie M.; Borucki, William J.; Bryson, Stephen T.; Caldwell, Dougl</authors>
+      <link>http://adsabs.harvard.edu/abs/2011ApJS..197....8L</link>
+      <publisher>The Astrophysical Journal Supplement, Volume 197, Issue 1, article id. 8, 26 pp. (2011).</publisher>
+    </literature>
+  </resonance>
+  <resonance>
+    <p p="4">e</p>
+    <q q="3">d</q>
+    <literature>
+      <title>Validation of Kepler's Multiple Planet Candidates. III. Light Curve Analysis and Announcement of Hundreds of New Multi-planet Systems</title>
+      <authors ordering="0">Rowe, Jason F.; Bryson, Stephen T.; Marcy, Geoffrey W.; Lissauer, Jack J.; Jontof-Hutter, Daniel; Mullally, Fergal; Gilliland, Ronald L.; Issacson, Howard; Ford, Eric; Howell, Steve B.; Borucki, William J.; Haas, Michael; Huber, Daniel; Steffen, Jason H.; </authors>
+      <link>http://adsabs.harvard.edu/abs/2014ApJ...784...45R</link>
+      <publisher>The Astrophysical Journal, Volume 784, Issue 1, article id. 45, 20 pp. (2014).</publisher>
+    </literature>
+    <literature>
+      <title>Architecture and Dynamics of Kepler's Candidate Multiple Transiting Planet Systems</title>
+      <authors ordering="0">Lissauer, Jack J.; Ragozzine, Darin; Fabrycky, Daniel C.; Steffen, Jason H.; Ford, Eric B.; Jenkins, Jon M.; Shporer, Avi; Holman, Matthew J.; Rowe, Jason F.; Quintana, Elisa V.; Batalha, Natalie M.; Borucki, William J.; Bryson, Stephen T.; Caldwell, Dougl</authors>
+      <link>http://adsabs.harvard.edu/abs/2011ApJS..197....8L</link>
+      <publisher>The Astrophysical Journal Supplement, Volume 197, Issue 1, article id. 8, 26 pp. (2011).</publisher>
+    </literature>
+  </resonance>
+</system>
