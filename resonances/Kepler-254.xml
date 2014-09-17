@@ -1,0 +1,98 @@
+<system>
+  <name>Kepler-254</name>
+  <name>KOI 934</name>
+  <name>KOI-934</name>
+  <name>KIC 9334289</name>
+  <distance>None</distance>
+  <star>
+    <mass>None</mass>
+    <metallicity errorminus="0.5" errorplus="0.5">-0.19</metallicity>
+    <age>None</age>
+    <temperature>5957.0</temperature>
+    <planet>
+      <name>Kepler-254 b</name>
+      <name>KOI 934 01</name>
+      <name>KOI-934 01</name>
+      <name>KIC 9334289 b</name>
+      <coordinates/>
+      <massearths/>
+      <massjupiters/>
+      <period errorminus="1e-05" errorplus="1e-05">5.826662</period>
+      <semimajoraxis>None</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <inclination>None</inclination>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude>None</longitude>
+      <meananomaly>None</meananomaly>
+      <argoflatitude>None</argoflatitude>
+      <meanargoflatitude>None</meanargoflatitude>
+      <transittime unit="BJD" errorminus="0.00101" errorplus="0.00101">2455006.01039</transittime>
+      <epoch>None</epoch>
+      <status/>
+      <lastupdate>None</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-254 c</name>
+      <name>KOI 934 02</name>
+      <name>KOI-934 02</name>
+      <name>KIC 9334289 c</name>
+      <coordinates/>
+      <massearths/>
+      <massjupiters/>
+      <period errorminus="8.2e-05" errorplus="8.2e-05">12.412183</period>
+      <semimajoraxis>None</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <inclination>None</inclination>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude>None</longitude>
+      <meananomaly>None</meananomaly>
+      <argoflatitude>None</argoflatitude>
+      <meanargoflatitude>None</meanargoflatitude>
+      <transittime unit="BJD" errorminus="0.00389" errorplus="0.00389">2454975.53938</transittime>
+      <epoch>None</epoch>
+      <status/>
+      <lastupdate>None</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-254 d</name>
+      <name>KOI 934 03</name>
+      <name>KOI-934 03</name>
+      <name>KIC 9334289 d</name>
+      <coordinates/>
+      <massearths/>
+      <massjupiters/>
+      <period errorminus="0.000121" errorplus="0.000121">18.746477</period>
+      <semimajoraxis>None</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <inclination>None</inclination>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude>None</longitude>
+      <meananomaly>None</meananomaly>
+      <argoflatitude>None</argoflatitude>
+      <meanargoflatitude>None</meanargoflatitude>
+      <transittime unit="BJD" errorminus="0.00384" errorplus="0.00384">2454980.12909</transittime>
+      <epoch>None</epoch>
+      <status/>
+      <lastupdate>None</lastupdate>
+    </planet>
+  </star>
+  <resonance>
+    <p p="3">d</p>
+    <q q="2">c</q>
+    <literature>
+      <title>The period ratio distribution of Kepler ’s candidate</title>
+      <authors ordering="0">Steffen J. H. and Hwang J. A. (2014)</authors>
+      <link>http://adsabs.harvard.edu/abs/2014arXiv1409.3320S</link>
+      <publisher>arXiv:1409.3320</publisher>
+    </literature>
+  </resonance>
+</system>

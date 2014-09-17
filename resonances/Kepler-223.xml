@@ -6,9 +6,9 @@
   <distance>None</distance>
   <star>
     <mass>None</mass>
-    <metallicity>None</metallicity>
+    <metallicity errorminus="0.5" errorplus="0.5">-0.21</metallicity>
     <age>None</age>
-    <temperature>None</temperature>
+    <temperature>5829.0</temperature>
     <planet>
       <name>Kepler-223 b</name>
       <name>KOI 730 04</name>
@@ -111,8 +111,8 @@
     </planet>
   </star>
   <resonance>
-    <p p="8">c</p>
-    <q q="6">b</q>
+    <p p="4">c</p>
+    <q q="3">b</q>
     <literature>
       <title>Validation of Kepler's Multiple Planet Candidates. III. Light Curve Analysis and Announcement of Hundreds of New Multi-planet Systems</title>
       <authors ordering="0">Rowe, Jason F.; Bryson, Stephen T.; Marcy, Geoffrey W.; Lissauer, Jack J.; Jontof-Hutter, Daniel; Mullally, Fergal; Gilliland, Ronald L.; Issacson, Howard; Ford, Eric; Howell, Steve B.; Borucki, William J.; Haas, Michael; Huber, Daniel; Steffen, Jason H.; </authors>
@@ -124,11 +124,17 @@
       <authors ordering="0">Lissauer, Jack J.; Ragozzine, Darin; Fabrycky, Daniel C.; Steffen, Jason H.; Ford, Eric B.; Jenkins, Jon M.; Shporer, Avi; Holman, Matthew J.; Rowe, Jason F.; Quintana, Elisa V.; Batalha, Natalie M.; Borucki, William J.; Bryson, Stephen T.; Caldwell, Dougl</authors>
       <link>http://adsabs.harvard.edu/abs/2011ApJS..197....8L</link>
       <publisher>The Astrophysical Journal Supplement, Volume 197, Issue 1, article id. 8, 26 pp. (2011).</publisher>
+    </literature>
+    <literature>
+      <title>The period ratio distribution of Kepler ’s candidate</title>
+      <authors ordering="1">Steffen J. H. and Hwang J. A. (2014)</authors>
+      <link>http://adsabs.harvard.edu/abs/2014arXiv1409.3320S</link>
+      <publisher>arXiv:1409.3320</publisher>
     </literature>
   </resonance>
   <resonance>
-    <p p="6">d</p>
-    <q q="4">c</q>
+    <p p="3">d</p>
+    <q q="2">c</q>
     <literature>
       <title>Validation of Kepler's Multiple Planet Candidates. III. Light Curve Analysis and Announcement of Hundreds of New Multi-planet Systems</title>
       <authors ordering="0">Rowe, Jason F.; Bryson, Stephen T.; Marcy, Geoffrey W.; Lissauer, Jack J.; Jontof-Hutter, Daniel; Mullally, Fergal; Gilliland, Ronald L.; Issacson, Howard; Ford, Eric; Howell, Steve B.; Borucki, William J.; Haas, Michael; Huber, Daniel; Steffen, Jason H.; </authors>
@@ -140,6 +146,12 @@
       <authors ordering="0">Lissauer, Jack J.; Ragozzine, Darin; Fabrycky, Daniel C.; Steffen, Jason H.; Ford, Eric B.; Jenkins, Jon M.; Shporer, Avi; Holman, Matthew J.; Rowe, Jason F.; Quintana, Elisa V.; Batalha, Natalie M.; Borucki, William J.; Bryson, Stephen T.; Caldwell, Dougl</authors>
       <link>http://adsabs.harvard.edu/abs/2011ApJS..197....8L</link>
       <publisher>The Astrophysical Journal Supplement, Volume 197, Issue 1, article id. 8, 26 pp. (2011).</publisher>
+    </literature>
+    <literature>
+      <title>The period ratio distribution of Kepler ’s candidate</title>
+      <authors ordering="1">Steffen J. H. and Hwang J. A. (2014)</authors>
+      <link>http://adsabs.harvard.edu/abs/2014arXiv1409.3320S</link>
+      <publisher>arXiv:1409.3320</publisher>
     </literature>
   </resonance>
   <resonance>
@@ -156,6 +168,12 @@
       <authors ordering="0">Lissauer, Jack J.; Ragozzine, Darin; Fabrycky, Daniel C.; Steffen, Jason H.; Ford, Eric B.; Jenkins, Jon M.; Shporer, Avi; Holman, Matthew J.; Rowe, Jason F.; Quintana, Elisa V.; Batalha, Natalie M.; Borucki, William J.; Bryson, Stephen T.; Caldwell, Dougl</authors>
       <link>http://adsabs.harvard.edu/abs/2011ApJS..197....8L</link>
       <publisher>The Astrophysical Journal Supplement, Volume 197, Issue 1, article id. 8, 26 pp. (2011).</publisher>
+    </literature>
+    <literature>
+      <title>The period ratio distribution of Kepler ’s candidate</title>
+      <authors ordering="1">Steffen J. H. and Hwang J. A. (2014)</authors>
+      <link>http://adsabs.harvard.edu/abs/2014arXiv1409.3320S</link>
+      <publisher>arXiv:1409.3320</publisher>
     </literature>
   </resonance>
 </system>

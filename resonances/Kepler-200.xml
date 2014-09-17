@@ -1,0 +1,73 @@
+<system>
+  <name>Kepler-200</name>
+  <name>KOI 654</name>
+  <name>KOI-654</name>
+  <name>KIC 5941160</name>
+  <distance>None</distance>
+  <star>
+    <mass>None</mass>
+    <metallicity errorminus="0.1" errorplus="0.1">-0.17</metallicity>
+    <age>None</age>
+    <temperature>5678.0</temperature>
+    <planet>
+      <name>Kepler-200 b</name>
+      <name>KOI 654 01</name>
+      <name>KOI-654 b</name>
+      <name>KIC 5941160 b</name>
+      <coordinates/>
+      <massearths/>
+      <massjupiters/>
+      <period errorminus="3.6e-05" errorplus="3.6e-05">8.594805</period>
+      <semimajoraxis>None</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <inclination>None</inclination>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude>None</longitude>
+      <meananomaly>None</meananomaly>
+      <argoflatitude>None</argoflatitude>
+      <meanargoflatitude>None</meanargoflatitude>
+      <transittime unit="BJD" errorminus="0.00234" errorplus="0.00234">2455004.62998</transittime>
+      <epoch>None</epoch>
+      <status/>
+      <lastupdate>None</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-200 c</name>
+      <name>KOI 654 02</name>
+      <name>KOI-654 c</name>
+      <name>KIC 5941160 c</name>
+      <coordinates/>
+      <massearths/>
+      <massjupiters/>
+      <period errorminus="5.3e-05" errorplus="5.3e-05">10.222157</period>
+      <semimajoraxis>None</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <inclination>None</inclination>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude>None</longitude>
+      <meananomaly>None</meananomaly>
+      <argoflatitude>None</argoflatitude>
+      <meanargoflatitude>None</meanargoflatitude>
+      <transittime unit="BJD" errorminus="0.00297" errorplus="0.00297">2454968.89056</transittime>
+      <epoch>None</epoch>
+      <status/>
+      <lastupdate>None</lastupdate>
+    </planet>
+  </star>
+  <resonance>
+    <p p="6">c</p>
+    <q q="5">b</q>
+    <literature>
+      <title>The period ratio distribution of Kepler ’s candidate</title>
+      <authors ordering="0">Steffen J. H. and Hwang J. A. (2014)</authors>
+      <link>http://adsabs.harvard.edu/abs/2014arXiv1409.3320S</link>
+      <publisher>arXiv:1409.3320</publisher>
+    </literature>
+  </resonance>
+</system>

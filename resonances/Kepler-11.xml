@@ -175,6 +175,12 @@
       <link>http://adsabs.harvard.edu/abs/2014arXiv1409.0011M</link>
       <publisher>ARXIV Accepted for publication by ApJ. Comments encouraged</publisher>
     </literature>
+    <literature>
+      <title>The period ratio distribution of Kepler ’s candidate</title>
+      <authors ordering="1">Steffen J. H. and Hwang J. A. (2014)</authors>
+      <link>http://adsabs.harvard.edu/abs/2014arXiv1409.3320S</link>
+      <publisher>arXiv:1409.3320</publisher>
+    </literature>
   </resonance>
   <resonance>
     <p p="5">g</p>
@@ -190,6 +196,12 @@
       <authors ordering="0">Mahajan, Nikhil; Wu, Yanqin (2014)</authors>
       <link>http://adsabs.harvard.edu/abs/2014arXiv1409.0011M</link>
       <publisher>ARXIV Accepted for publication by ApJ. Comments encouraged</publisher>
+    </literature>
+    <literature>
+      <title>The period ratio distribution of Kepler ’s candidate</title>
+      <authors ordering="1">Steffen J. H. and Hwang J. A. (2014)</authors>
+      <link>http://adsabs.harvard.edu/abs/2014arXiv1409.3320S</link>
+      <publisher>arXiv:1409.3320</publisher>
     </literature>
   </resonance>
 </system>

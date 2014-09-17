@@ -1,0 +1,79 @@
+<system>
+  <name>Kepler-177</name>
+  <name>KOI 523</name>
+  <name>KOI-523</name>
+  <name>KIC 8806123</name>
+  <distance>None</distance>
+  <star>
+    <mass>None</mass>
+    <metallicity errorminus="0.5" errorplus="0.5">-0.09</metallicity>
+    <age>None</age>
+    <temperature>6216.0</temperature>
+    <planet>
+      <name>Kepler-177 b</name>
+      <name>KOI 523 02</name>
+      <name>KOI-523 02</name>
+      <name>KIC 8806123 b</name>
+      <coordinates/>
+      <massearths/>
+      <massjupiters/>
+      <period errorminus="0.000266" errorplus="0.000266">36.85583</period>
+      <semimajoraxis>None</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <inclination>None</inclination>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude>None</longitude>
+      <meananomaly>None</meananomaly>
+      <argoflatitude>None</argoflatitude>
+      <meanargoflatitude>None</meanargoflatitude>
+      <transittime unit="BJD" errorminus="0.0038" errorplus="0.0038">2454971.91608</transittime>
+      <epoch>None</epoch>
+      <status>C</status>
+      <lastupdate>2014/09/16</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-177 c</name>
+      <name>KOI 523 01</name>
+      <name>KOI-523 01</name>
+      <name>KIC 8806123 c</name>
+      <coordinates/>
+      <massearths/>
+      <massjupiters/>
+      <period errorminus="9.5e-05" errorplus="9.5e-05">49.411689</period>
+      <semimajoraxis>None</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <inclination>None</inclination>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude>None</longitude>
+      <meananomaly>None</meananomaly>
+      <argoflatitude>None</argoflatitude>
+      <meanargoflatitude>None</meanargoflatitude>
+      <transittime unit="BJD" errorminus="0.001" errorplus="0.001">2455031.23477</transittime>
+      <epoch>None</epoch>
+      <status>C</status>
+      <lastupdate>2014/09/16</lastupdate>
+    </planet>
+  </star>
+  <resonance>
+    <p p="4">c</p>
+    <q q="3">b</q>
+    <literature>
+      <title>Validation of Kepler's Multiple Planet Candidates. III. Light Curve Analysis and Announcement of Hundreds of New Multi-planet Systems</title>
+      <authors ordering="0">Rowe, Jason F.; Bryson, Stephen T.; Marcy, Geoffrey W.; Lissauer, Jack J.; Jontof-Hutter, Daniel; Mullally, Fergal; Gilliland, Ronald L.; Issacson, Howard; Ford, Eric; Howell, Steve B.; Borucki, William J.; Haas, Michael; Huber, Daniel; Steffen, Jason H.;</authors>
+      <link>http://adsabs.harvard.edu/abs/2014ApJ...784...45R</link>
+      <publisher>The Astrophysical Journal, Volume 784, Issue 1, article id. 45, 20 pp. (2014).</publisher>
+    </literature>
+    <literature>
+      <title>The period ratio distribution of Kepler's candidate multiplanet systems</title>
+      <authors ordering="0">Steffen, Jason H.; Hwang, Jason A.</authors>
+      <link>http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1409.3320</link>
+      <publisher>20 pages, many figures, for submission to MNRAS</publisher>
+    </literature>
+  </resonance>
+</system>

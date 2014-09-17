@@ -1,0 +1,173 @@
+<system>
+  <name>Kepler-169</name>
+  <name>KOI 505</name>
+  <name>KOI-505</name>
+  <name>KIC 5689351</name>
+  <distance>None</distance>
+  <star>
+    <mass>None</mass>
+    <metallicity errorminus="0.1" errorplus="0.1">0.03</metallicity>
+    <age>None</age>
+    <temperature>4997.0</temperature>
+    <planet>
+      <name>Kepler-169 b</name>
+      <name>KOI 505 03</name>
+      <name>KOI-505 03</name>
+      <name>KIC 5689351 b</name>
+      <coordinates/>
+      <massearths/>
+      <massjupiters/>
+      <period errorminus="1.3e-05" errorplus="1.3e-05">3.250619</period>
+      <semimajoraxis>None</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <inclination>None</inclination>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude>None</longitude>
+      <meananomaly>None</meananomaly>
+      <argoflatitude>None</argoflatitude>
+      <meanargoflatitude>None</meanargoflatitude>
+      <transittime unit="BJD" errorminus="0.00232" errorplus="0.00232">2454966.69209</transittime>
+      <epoch>None</epoch>
+      <status/>
+      <lastupdate>None</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-169 c</name>
+      <name>KOI 505 02</name>
+      <name>KOI-505 02</name>
+      <name>KIC 5689351 c</name>
+      <coordinates/>
+      <massearths/>
+      <massjupiters/>
+      <period errorminus="2.9e-05" errorplus="2.9e-05">6.195469</period>
+      <semimajoraxis>None</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <inclination>None</inclination>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude>None</longitude>
+      <meananomaly>None</meananomaly>
+      <argoflatitude>None</argoflatitude>
+      <meanargoflatitude>None</meanargoflatitude>
+      <transittime unit="BJD" errorminus="0.00275" errorplus="0.00275">2454967.71616</transittime>
+      <epoch>None</epoch>
+      <status/>
+      <lastupdate>None</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-169 d</name>
+      <name>KOI 505 04</name>
+      <name>KOI-505 04</name>
+      <name>KIC 5689351 d</name>
+      <coordinates/>
+      <massearths/>
+      <massjupiters/>
+      <period errorminus="4.1e-05" errorplus="4.1e-05">8.348125</period>
+      <semimajoraxis>None</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <inclination>None</inclination>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude>None</longitude>
+      <meananomaly>None</meananomaly>
+      <argoflatitude>None</argoflatitude>
+      <meanargoflatitude>None</meanargoflatitude>
+      <transittime unit="BJD" errorminus="0.00249" errorplus="0.00249">2454969.84117</transittime>
+      <epoch>None</epoch>
+      <status/>
+      <lastupdate>None</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-169 e</name>
+      <name>KOI 505 01</name>
+      <name>KOI-505 01</name>
+      <name>KIC 5689351 e</name>
+      <coordinates/>
+      <massearths/>
+      <massjupiters/>
+      <period errorminus="3.4e-05" errorplus="3.4e-05">13.767102</period>
+      <semimajoraxis>None</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <inclination>None</inclination>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude>None</longitude>
+      <meananomaly>None</meananomaly>
+      <argoflatitude>None</argoflatitude>
+      <meanargoflatitude>None</meanargoflatitude>
+      <transittime unit="BJD" errorminus="0.00145" errorplus="0.00145">2455007.81064</transittime>
+      <epoch>None</epoch>
+      <status/>
+      <lastupdate>None</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-169 06</name>
+      <name>KOI 505 06</name>
+      <name>KOI-505 06</name>
+      <name>KIC 5689351 06</name>
+      <coordinates/>
+      <massearths/>
+      <massjupiters/>
+      <period errorminus="0.001642" errorplus="0.001642">29.876783</period>
+      <semimajoraxis>None</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <inclination>None</inclination>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude>None</longitude>
+      <meananomaly>None</meananomaly>
+      <argoflatitude>None</argoflatitude>
+      <meanargoflatitude>None</meanargoflatitude>
+      <transittime unit="BJD" errorminus="0.03451" errorplus="0.03451">2454967.01902</transittime>
+      <epoch>None</epoch>
+      <status/>
+      <lastupdate>None</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-169 f</name>
+      <name>KOI 505 05</name>
+      <name>KOI-505 05</name>
+      <name>KIC 5689351 f</name>
+      <coordinates/>
+      <massearths/>
+      <massjupiters/>
+      <period errorminus="0.000406" errorplus="0.000406">87.090195</period>
+      <semimajoraxis>None</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <inclination>None</inclination>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude>None</longitude>
+      <meananomaly>None</meananomaly>
+      <argoflatitude>None</argoflatitude>
+      <meanargoflatitude>None</meanargoflatitude>
+      <transittime unit="BJD" errorminus="0.00276" errorplus="0.00276">2455020.3184</transittime>
+      <epoch>None</epoch>
+      <status/>
+      <lastupdate>None</lastupdate>
+    </planet>
+  </star>
+  <resonance>
+    <p p="4">d</p>
+    <q q="3">c</q>
+    <literature>
+      <title>The period ratio distribution of Kepler ’s candidate</title>
+      <authors ordering="0">Steffen J. H. and Hwang J. A. (2014)</authors>
+      <link>http://adsabs.harvard.edu/abs/2014arXiv1409.3320S</link>
+      <publisher>arXiv:1409.3320</publisher>
+    </literature>
+  </resonance>
+</system>

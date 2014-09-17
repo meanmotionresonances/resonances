@@ -186,15 +186,27 @@
       <link>http://adsabs.harvard.edu/abs/2013arXiv1310.6248C</link>
       <publisher>The Astrophysical Journal, Volume 781, Issue 1, article id. 18, 13 pp. (2014)</publisher>
     </literature>
+    <literature>
+      <title>The period ratio distribution of Kepler ’s candidate</title>
+      <authors ordering="1">Steffen J. H. and Hwang J. A. (2014)</authors>
+      <link>http://adsabs.harvard.edu/abs/2014arXiv1409.3320S</link>
+      <publisher>arXiv:1409.3320</publisher>
+    </literature>
   </resonance>
   <resonance>
     <p p="3">e</p>
     <q q="2">d</q>
     <literature>
       <title>The Planetary System to KIC 11442793: A Compact Analogue to the Solar System</title>
-      <authors ordering="1">Cabrera, J.; Csizmadia, Sz.; Lehmann, H.; Dvorak, R.; Gandolfi, D.; Rauer, H.; Erikson, A.; Dreyer, C.; Eigmueller, Ph.; Hatzes, A.</authors>
+      <authors ordering="0">Cabrera, J.; Csizmadia, Sz.; Lehmann, H.; Dvorak, R.; Gandolfi, D.; Rauer, H.; Erikson, A.; Dreyer, C.; Eigmueller, Ph.; Hatzes, A.</authors>
       <link>http://adsabs.harvard.edu/abs/2013arXiv1310.6248C</link>
       <publisher>The Astrophysical Journal, Volume 781, Issue 1, article id. 18, 13 pp. (2014)</publisher>
+    </literature>
+    <literature>
+      <title>The period ratio distribution of Kepler ’s candidate</title>
+      <authors ordering="1">Steffen J. H. and Hwang J. A. (2014)</authors>
+      <link>http://adsabs.harvard.edu/abs/2014arXiv1409.3320S</link>
+      <publisher>arXiv:1409.3320</publisher>
     </literature>
   </resonance>
   <resonance>

@@ -1,23 +1,23 @@
 <system>
-  <name>Kepler-49</name>
-  <name>KOI-248</name>
-  <name>KIC 5364071</name>
-  <name>KOI 248</name>
+  <name>Kepler-305</name>
+  <name>KOI 1563</name>
+  <name>KOI-1563</name>
+  <name>KIC 5219234</name>
   <distance>None</distance>
   <star>
     <mass>None</mass>
-    <metallicity>None</metallicity>
+    <metallicity errorminus="0.1" errorplus="0.1">0.03</metallicity>
     <age>None</age>
-    <temperature>None</temperature>
+    <temperature>5100.0</temperature>
     <planet>
-      <name>Kepler-49 d</name>
-      <name>KOI-248 03</name>
-      <name>KIC 5364071 d</name>
-      <name>KOI 248 03</name>
+      <name>Kepler-305 03</name>
+      <name>KOI 1563 03</name>
+      <name>KOI-1563 03</name>
+      <name>KIC 5219234 03</name>
       <coordinates/>
       <massearths/>
       <massjupiters/>
-      <period errorminus="1.2e-05" errorplus="1.2e-05">2.576555</period>
+      <period errorminus="3.2e-05" errorplus="3.2e-05">3.205386</period>
       <semimajoraxis>None</semimajoraxis>
       <eccentricity>None</eccentricity>
       <inclination>None</inclination>
@@ -29,70 +29,20 @@
       <meananomaly>None</meananomaly>
       <argoflatitude>None</argoflatitude>
       <meanargoflatitude>None</meanargoflatitude>
-      <transittime unit="BJD" errorminus="0.0012" errorplus="0.0012">2455005.12838</transittime>
-      <epoch unit="JD">None</epoch>
-      <status>U</status>
-      <lastupdate>2014/08/24</lastupdate>
+      <transittime unit="BJD" errorminus="0.00448" errorplus="0.00448">2455187.63229</transittime>
+      <epoch>None</epoch>
+      <status/>
+      <lastupdate>None</lastupdate>
     </planet>
     <planet>
-      <name>Kepler-49 b</name>
-      <name>KOI-248 01</name>
-      <name>KIC 5364071 b</name>
-      <name>KOI 248 01</name>
-      <coordinates/>
-      <massearths computed="true">310.0</massearths>
-      <massjupiters>0.98</massjupiters>
-      <period errorminus="2.2e-05" errorplus="2.2e-05">7.2037945</period>
-      <semimajoraxis>None</semimajoraxis>
-      <eccentricity>None</eccentricity>
-      <inclination>None</inclination>
-      <timeofpericentre>None</timeofpericentre>
-      <ascendingnode>None</ascendingnode>
-      <periastron>None</periastron>
-      <argumentofperiastron>None</argumentofperiastron>
-      <longitude>None</longitude>
-      <meananomaly>None</meananomaly>
-      <argoflatitude>None</argoflatitude>
-      <meanargoflatitude>None</meanargoflatitude>
-      <transittime unit="BJD" errorminus="0.001" errorplus="0.001">2455003.28753</transittime>
-      <epoch unit="JD">None</epoch>
-      <status>C</status>
-      <lastupdate>2014/08/24</lastupdate>
-    </planet>
-    <planet>
-      <name>Kepler-49 c</name>
-      <name>KOI-248 02</name>
-      <name>KIC 5364071 c</name>
-      <name>KOI 248 02</name>
-      <coordinates/>
-      <massearths computed="true">230.0</massearths>
-      <massjupiters>0.72</massjupiters>
-      <period errorminus="6.9e-05" errorplus="6.9e-05">10.9129343</period>
-      <semimajoraxis>None</semimajoraxis>
-      <eccentricity>None</eccentricity>
-      <inclination>None</inclination>
-      <timeofpericentre>None</timeofpericentre>
-      <ascendingnode>None</ascendingnode>
-      <periastron>None</periastron>
-      <argumentofperiastron>None</argumentofperiastron>
-      <longitude>None</longitude>
-      <meananomaly>None</meananomaly>
-      <argoflatitude>None</argoflatitude>
-      <meanargoflatitude>None</meanargoflatitude>
-      <transittime unit="BJD" errorminus="0.0022" errorplus="0.0022">2455002.84919</transittime>
-      <epoch unit="JD">None</epoch>
-      <status>C</status>
-      <lastupdate>2014/08/24</lastupdate>
-    </planet>
-    <planet>
-      <name>Kepler-49 e</name>
-      <name>KOI-248 04</name>
-      <name>KIC 5364071 e</name>
-      <name>KOI 248 04</name>
+      <name>Kepler-305 b</name>
+      <name>KOI 1563 01</name>
+      <name>KOI-1563 01</name>
+      <name>KIC 5219234 b</name>
       <coordinates/>
       <massearths/>
       <massjupiters/>
-      <period errorminus="0.00021" errorplus="0.00021">18.5962181</period>
+      <period errorminus="2.1e-05" errorplus="2.1e-05">5.487108</period>
       <semimajoraxis>None</semimajoraxis>
       <eccentricity>None</eccentricity>
       <inclination>None</inclination>
@@ -104,24 +54,74 @@
       <meananomaly>None</meananomaly>
       <argoflatitude>None</argoflatitude>
       <meanargoflatitude>None</meanargoflatitude>
-      <transittime unit="BJD" errorminus="0.0043" errorplus="0.0043">2454974.26167</transittime>
-      <epoch unit="JD">None</epoch>
-      <status>U</status>
-      <lastupdate>2014/08/24</lastupdate>
+      <transittime unit="BJD" errorminus="0.00176" errorplus="0.00176">2455189.07559</transittime>
+      <epoch>None</epoch>
+      <status/>
+      <lastupdate>None</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-305 c</name>
+      <name>KOI 1563 02</name>
+      <name>KOI-1563 02</name>
+      <name>KIC 5219234 c</name>
+      <coordinates/>
+      <massearths/>
+      <massjupiters/>
+      <period errorminus="5.6e-05" errorplus="5.6e-05">8.290858</period>
+      <semimajoraxis>None</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <inclination>None</inclination>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude>None</longitude>
+      <meananomaly>None</meananomaly>
+      <argoflatitude>None</argoflatitude>
+      <meanargoflatitude>None</meanargoflatitude>
+      <transittime unit="BJD" errorminus="0.00322" errorplus="0.00322">2455192.63623</transittime>
+      <epoch>None</epoch>
+      <status/>
+      <lastupdate>None</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-305 d</name>
+      <name>KOI 1563 04</name>
+      <name>KOI-1563 04</name>
+      <name>KIC 5219234 d</name>
+      <coordinates/>
+      <massearths/>
+      <massjupiters/>
+      <period errorminus="0.000145" errorplus="0.000145">16.738661</period>
+      <semimajoraxis>None</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <inclination>None</inclination>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude>None</longitude>
+      <meananomaly>None</meananomaly>
+      <argoflatitude>None</argoflatitude>
+      <meanargoflatitude>None</meanargoflatitude>
+      <transittime unit="BJD" errorminus="0.00358" errorplus="0.00358">2455192.41608</transittime>
+      <epoch>None</epoch>
+      <status/>
+      <lastupdate>None</lastupdate>
     </planet>
   </star>
   <resonance>
     <p p="3">c</p>
     <q q="2">b</q>
     <literature>
-      <title>Transit Timing Observations from Kepler: VII. Conﬁrmation of 27 planets in 13 multiplanet systems via Transit Timing Variations and orbital stability</title>
-      <authors ordering="0">Steffen J H et al. (2013)</authors>
-      <link>http://adsabs.harvard.edu/abs/2013MNRAS.428.1077S</link>
-      <publisher>Monthly Notices of the Royal Astronomical Society, Volume 428, Issue 2, p.1077-1087</publisher>
+      <title>The period ratio distribution of Kepler ’s candidate</title>
+      <authors ordering="0">Steffen J. H. and Hwang J. A. (2014)</authors>
+      <link>http://adsabs.harvard.edu/abs/2014arXiv1409.3320S</link>
+      <publisher>arXiv:1409.3320</publisher>
     </literature>
     <literature>
       <title>The period ratio distribution of Kepler ’s candidate</title>
-      <authors ordering="1">Steffen J. H. and Hwang J. A. (2014)</authors>
+      <authors ordering="0">Steffen J. H. and Hwang J. A. (2014)</authors>
       <link>http://adsabs.harvard.edu/abs/2014arXiv1409.3320S</link>
       <publisher>arXiv:1409.3320</publisher>
     </literature>

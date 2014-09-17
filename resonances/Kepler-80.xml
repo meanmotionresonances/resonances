@@ -145,6 +145,12 @@
       <link>http://adsabs.harvard.edu/abs/2013ApJS..208...22X</link>
       <publisher>The Astrophysical Journal Supplement, Volume 208, Issue 2, article id. 22, 12 pp. (2013).</publisher>
     </literature>
+    <literature>
+      <title>The period ratio distribution of Kepler ’s candidate</title>
+      <authors ordering="1">Steffen J. H. and Hwang J. A. (2014)</authors>
+      <link>http://adsabs.harvard.edu/abs/2014arXiv1409.3320S</link>
+      <publisher>arXiv:1409.3320</publisher>
+    </literature>
   </resonance>
   <resonance>
     <p p="3">b</p>
@@ -161,6 +167,12 @@
       <link>http://adsabs.harvard.edu/abs/2013ApJS..208...22X</link>
       <publisher>The Astrophysical Journal Supplement, Volume 208, Issue 2, article id. 22, 12 pp. (2013).</publisher>
     </literature>
+    <literature>
+      <title>The period ratio distribution of Kepler ’s candidate</title>
+      <authors ordering="1">Steffen J. H. and Hwang J. A. (2014)</authors>
+      <link>http://adsabs.harvard.edu/abs/2014arXiv1409.3320S</link>
+      <publisher>arXiv:1409.3320</publisher>
+    </literature>
   </resonance>
   <resonance>
     <p p="4">c</p>
@@ -176,6 +188,12 @@
       <authors ordering="0">Xie, Ji-Wei</authors>
       <link>http://adsabs.harvard.edu/abs/2013ApJS..208...22X</link>
       <publisher>The Astrophysical Journal Supplement, Volume 208, Issue 2, article id. 22, 12 pp. (2013).</publisher>
+    </literature>
+    <literature>
+      <title>The period ratio distribution of Kepler ’s candidate</title>
+      <authors ordering="1">Steffen J. H. and Hwang J. A. (2014)</authors>
+      <link>http://adsabs.harvard.edu/abs/2014arXiv1409.3320S</link>
+      <publisher>arXiv:1409.3320</publisher>
     </literature>
   </resonance>
 </system>

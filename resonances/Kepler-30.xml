@@ -1,69 +1,23 @@
 <system>
-  <name>Kepler-51</name>
-  <name>KOI-620</name>
-  <name>KOI 620</name>
+  <name>Kepler-30</name>
+  <name>KOI 806</name>
+  <name>KOI-806</name>
+  <name>KIC 3832474</name>
   <distance>None</distance>
   <star>
     <mass>None</mass>
-    <metallicity>None</metallicity>
+    <metallicity errorminus="0.09" errorplus="0.09">0.19</metallicity>
     <age>None</age>
-    <temperature>None</temperature>
+    <temperature>5461.0</temperature>
     <planet>
-      <name>Kepler-51 b</name>
-      <name>KOI-620 01</name>
-      <name>KOI 620 01</name>
-      <coordinates/>
-      <massearths computed="true">1030.0</massearths>
-      <massjupiters>3.23</massjupiters>
-      <period errorminus="7.2e-05" errorplus="7.2e-05">45.1555023</period>
-      <semimajoraxis>None</semimajoraxis>
-      <eccentricity>None</eccentricity>
-      <inclination>None</inclination>
-      <timeofpericentre>None</timeofpericentre>
-      <ascendingnode>None</ascendingnode>
-      <periastron>None</periastron>
-      <argumentofperiastron>None</argumentofperiastron>
-      <longitude>None</longitude>
-      <meananomaly>None</meananomaly>
-      <argoflatitude>None</argoflatitude>
-      <meanargoflatitude>None</meanargoflatitude>
-      <transittime unit="BJD" errorminus="0.00062" errorplus="0.00062">2454992.10435</transittime>
-      <epoch unit="JD">None</epoch>
-      <status>C</status>
-      <lastupdate>2014/08/24</lastupdate>
-    </planet>
-    <planet>
-      <name>Kepler-51 c</name>
-      <name>KOI-620 03</name>
-      <name>KOI 620 03</name>
-      <coordinates/>
-      <massearths computed="true">830.0</massearths>
-      <massjupiters>2.6</massjupiters>
-      <period errorminus="0.00096" errorplus="0.00096">85.3128662</period>
-      <semimajoraxis>None</semimajoraxis>
-      <eccentricity>None</eccentricity>
-      <inclination>None</inclination>
-      <timeofpericentre>None</timeofpericentre>
-      <ascendingnode>None</ascendingnode>
-      <periastron>None</periastron>
-      <argumentofperiastron>None</argumentofperiastron>
-      <longitude>None</longitude>
-      <meananomaly>None</meananomaly>
-      <argoflatitude>None</argoflatitude>
-      <meanargoflatitude>None</meanargoflatitude>
-      <transittime unit="BJD" errorminus="0.0022" errorplus="0.0022">2455128.32095</transittime>
-      <epoch unit="JD">None</epoch>
-      <status>C</status>
-      <lastupdate>2014/08/24</lastupdate>
-    </planet>
-    <planet>
-      <name>Kepler-51 d</name>
-      <name>KOI-620 02</name>
-      <name>KOI 620 02</name>
+      <name>Kepler-30 b</name>
+      <name>KOI 806 03</name>
+      <name>KOI-806 03</name>
+      <name>KIC 3832474 b</name>
       <coordinates/>
       <massearths/>
       <massjupiters/>
-      <period errorminus="0.00033" errorplus="0.00033">130.1831055</period>
+      <period errorminus="0.000419" errorplus="0.000419">29.158204</period>
       <semimajoraxis>None</semimajoraxis>
       <eccentricity>None</eccentricity>
       <inclination>None</inclination>
@@ -75,24 +29,68 @@
       <meananomaly>None</meananomaly>
       <argoflatitude>None</argoflatitude>
       <meanargoflatitude>None</meanargoflatitude>
-      <transittime unit="BJD" errorminus="0.00062" errorplus="0.00062">2455045.02345</transittime>
-      <epoch unit="JD">None</epoch>
-      <status>C</status>
-      <lastupdate>2014/09/11</lastupdate>
+      <transittime unit="BJD" errorminus="0.00495" errorplus="0.00495">2454983.71661</transittime>
+      <epoch>None</epoch>
+      <status/>
+      <lastupdate>None</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-30 c</name>
+      <name>KOI 806 02</name>
+      <name>KOI-806 02</name>
+      <name>KIC 3832474 c</name>
+      <coordinates/>
+      <massearths/>
+      <massjupiters/>
+      <period errorminus="4.4e-05" errorplus="4.4e-05">60.321328</period>
+      <semimajoraxis>None</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <inclination>None</inclination>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude>None</longitude>
+      <meananomaly>None</meananomaly>
+      <argoflatitude>None</argoflatitude>
+      <meanargoflatitude>None</meanargoflatitude>
+      <transittime unit="BJD" errorminus="0.00039" errorplus="0.00039">2455076.91077</transittime>
+      <epoch>None</epoch>
+      <status/>
+      <lastupdate>None</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-30 d</name>
+      <name>KOI 806 01</name>
+      <name>KOI-806 01</name>
+      <name>KIC 3832474 d</name>
+      <coordinates/>
+      <massearths/>
+      <massjupiters/>
+      <period errorminus="0.000243" errorplus="0.000243">143.210889</period>
+      <semimajoraxis>None</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <inclination>None</inclination>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude>None</longitude>
+      <meananomaly>None</meananomaly>
+      <argoflatitude>None</argoflatitude>
+      <meanargoflatitude>None</meanargoflatitude>
+      <transittime unit="BJD" errorminus="0.00102" errorplus="0.00102">2454987.22092</transittime>
+      <epoch>None</epoch>
+      <status/>
+      <lastupdate>None</lastupdate>
     </planet>
   </star>
   <resonance>
     <p p="2">c</p>
     <q q="1">b</q>
     <literature>
-      <title>Transit Timing Observations from Kepler: VII. Conﬁrmation of 27 planets in 13 multiplanet systems via Transit Timing Variations and orbital stability</title>
-      <authors ordering="0">Steffen J H et al. (2013)</authors>
-      <link>http://adsabs.harvard.edu/abs/2013MNRAS.428.1077S</link>
-      <publisher>Monthly Notices of the Royal Astronomical Society, Volume 428, Issue 2, p.1077-1087</publisher>
-    </literature>
-    <literature>
       <title>The period ratio distribution of Kepler ’s candidate</title>
-      <authors ordering="1">Steffen J. H. and Hwang J. A. (2014)</authors>
+      <authors ordering="0">Steffen J. H. and Hwang J. A. (2014)</authors>
       <link>http://adsabs.harvard.edu/abs/2014arXiv1409.3320S</link>
       <publisher>arXiv:1409.3320</publisher>
     </literature>

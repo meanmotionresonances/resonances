@@ -1,0 +1,104 @@
+<system>
+  <name>Kepler-266</name>
+  <name>KOI 1070</name>
+  <name>KOI-1070</name>
+  <name>KIC 8240904</name>
+  <distance>None</distance>
+  <star>
+    <mass>None</mass>
+    <metallicity errorminus="0.5" errorplus="0.5">0.11</metallicity>
+    <age>None</age>
+    <temperature>5885.0</temperature>
+    <planet>
+      <name>Kepler-266 b</name>
+      <name>KOI 1070 01</name>
+      <name>KOI-1070 01</name>
+      <name>KIC 8240904 b</name>
+      <coordinates/>
+      <massearths/>
+      <massjupiters/>
+      <period errorminus="4.8e-05" errorplus="4.8e-05">6.61833</period>
+      <semimajoraxis>None</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <inclination>None</inclination>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude>None</longitude>
+      <meananomaly>None</meananomaly>
+      <argoflatitude>None</argoflatitude>
+      <meanargoflatitude>None</meanargoflatitude>
+      <transittime unit="BJD" errorminus="0.00323" errorplus="0.00323">2455193.3696</transittime>
+      <epoch>None</epoch>
+      <status>C</status>
+      <lastupdate>2014/09/16</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-266 03</name>
+      <name>KOI 1070 03</name>
+      <name>KOI-1070 03</name>
+      <name>KIC 8240904 03</name>
+      <coordinates/>
+      <massearths/>
+      <massjupiters/>
+      <period errorminus="0.022717" errorplus="0.022717">92.756687</period>
+      <semimajoraxis>None</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <inclination>None</inclination>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude>None</longitude>
+      <meananomaly>None</meananomaly>
+      <argoflatitude>None</argoflatitude>
+      <meanargoflatitude>None</meanargoflatitude>
+      <transittime unit="BJD" errorminus="0.05152" errorplus="0.05152">2455200.65872</transittime>
+      <epoch>None</epoch>
+      <status>C</status>
+      <lastupdate>2014/09/16</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-266 c</name>
+      <name>KOI 1070 02</name>
+      <name>KOI-1070 02</name>
+      <name>KIC 8240904 c</name>
+      <coordinates/>
+      <massearths/>
+      <massjupiters/>
+      <period errorminus="0.001643" errorplus="0.001643">107.723601</period>
+      <semimajoraxis>None</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <inclination>None</inclination>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude>None</longitude>
+      <meananomaly>None</meananomaly>
+      <argoflatitude>None</argoflatitude>
+      <meanargoflatitude>None</meanargoflatitude>
+      <transittime unit="BJD" errorminus="0.00744" errorplus="0.00744">2455187.18347</transittime>
+      <epoch>None</epoch>
+      <status>C</status>
+      <lastupdate>2014/09/16</lastupdate>
+    </planet>
+  </star>
+  <resonance>
+    <p p="7">c</p>
+    <q q="6">03</q>
+    <literature>
+      <title>Validation of Kepler's Multiple Planet Candidates. III. Light Curve Analysis and Announcement of Hundreds of New Multi-planet Systems</title>
+      <authors ordering="0">Rowe, Jason F.; Bryson, Stephen T.; Marcy, Geoffrey W.; Lissauer, Jack J.; Jontof-Hutter, Daniel; Mullally, Fergal; Gilliland, Ronald L.; Issacson, Howard; Ford, Eric; Howell, Steve B.; Borucki, William J.; Haas, Michael; Huber, Daniel; Steffen, Jason H.;</authors>
+      <link>http://adsabs.harvard.edu/abs/2014ApJ...784...45R</link>
+      <publisher>The Astrophysical Journal, Volume 784, Issue 1, article id. 45, 20 pp. (2014).</publisher>
+    </literature>
+    <literature>
+      <title>The period ratio distribution of Kepler's candidate multiplanet systems</title>
+      <authors ordering="0">Steffen, Jason H.; Hwang, Jason A.</authors>
+      <link>http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1409.3320</link>
+      <publisher>20 pages, many figures, for submission to MNRAS</publisher>
+    </literature>
+  </resonance>
+</system>
