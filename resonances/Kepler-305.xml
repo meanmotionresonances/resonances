@@ -32,7 +32,7 @@
       <transittime unit="BJD" errorminus="0.00448" errorplus="0.00448">2455187.63229</transittime>
       <epoch>None</epoch>
       <status/>
-      <lastupdate>None</lastupdate>
+      <lastupdate>2014/09/17</lastupdate>
     </planet>
     <planet>
       <name>Kepler-305 b</name>
@@ -57,7 +57,7 @@
       <transittime unit="BJD" errorminus="0.00176" errorplus="0.00176">2455189.07559</transittime>
       <epoch>None</epoch>
       <status/>
-      <lastupdate>None</lastupdate>
+      <lastupdate>2014/09/17</lastupdate>
     </planet>
     <planet>
       <name>Kepler-305 c</name>
@@ -82,7 +82,7 @@
       <transittime unit="BJD" errorminus="0.00322" errorplus="0.00322">2455192.63623</transittime>
       <epoch>None</epoch>
       <status/>
-      <lastupdate>None</lastupdate>
+      <lastupdate>2014/09/17</lastupdate>
     </planet>
     <planet>
       <name>Kepler-305 d</name>
@@ -107,7 +107,7 @@
       <transittime unit="BJD" errorminus="0.00358" errorplus="0.00358">2455192.41608</transittime>
       <epoch>None</epoch>
       <status/>
-      <lastupdate>None</lastupdate>
+      <lastupdate>2014/09/17</lastupdate>
     </planet>
   </star>
   <resonance>
@@ -120,10 +120,10 @@
       <publisher>arXiv:1409.3320</publisher>
     </literature>
     <literature>
-      <title>The period ratio distribution of Kepler ’s candidate</title>
-      <authors ordering="0">Steffen J. H. and Hwang J. A. (2014)</authors>
-      <link>http://adsabs.harvard.edu/abs/2014arXiv1409.3320S</link>
-      <publisher>arXiv:1409.3320</publisher>
+      <title>Validation of Kepler ’s Multiple Planet Candidates. III. Light Curve Analysis and Announcement of Hundreds of New Multi-planet Systems</title>
+      <authors ordering="0"> Rowe J. F. et al. (2014)</authors>
+      <link>http://adsabs.harvard.edu/abs/2014ApJ...784...45R</link>
+      <publisher>The Astrophysical Journal, Volume 784, Issue 1, article id. 45, 20 pp.</publisher>
     </literature>
   </resonance>
 </system>

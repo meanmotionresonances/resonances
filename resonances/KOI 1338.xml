@@ -1,0 +1,100 @@
+<system>
+  <name>KOI 1338</name>
+  <name>KIC 4466677</name>
+  <distance>None</distance>
+  <star>
+    <mass>None</mass>
+    <metallicity errorminus="0.5" errorplus="0.5">-0.25</metallicity>
+    <age>None</age>
+    <temperature>5826.0</temperature>
+    <planet>
+      <name>KOI 1338 01</name>
+      <name>KOI 1338 01</name>
+      <name>KIC 4466677 01</name>
+      <name>KIC 4466677 01</name>
+      <coordinates/>
+      <massearths/>
+      <massjupiters/>
+      <period errorminus="2.5e-05" errorplus="2.5e-05">3.222961</period>
+      <semimajoraxis>0.042</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <inclination>89.95</inclination>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude>None</longitude>
+      <meananomaly>None</meananomaly>
+      <argoflatitude>None</argoflatitude>
+      <meanargoflatitude>None</meanargoflatitude>
+      <transittime unit="BJD" errorminus="0.003" errorplus="0.003">2455011.0695</transittime>
+      <epoch>None</epoch>
+      <status>C</status>
+      <lastupdate>2014/09/17</lastupdate>
+    </planet>
+    <planet>
+      <name>KOI 1338 03</name>
+      <name>KIC 4466677 03</name>
+      <coordinates/>
+      <massearths/>
+      <massjupiters/>
+      <period errorminus="0.00069" errorplus="0.00069">21.01086</period>
+      <semimajoraxis>0.147</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <inclination>88.81</inclination>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude>None</longitude>
+      <meananomaly>None</meananomaly>
+      <argoflatitude>None</argoflatitude>
+      <meanargoflatitude>None</meanargoflatitude>
+      <transittime unit="BJD" errorminus="0.017" errorplus="0.017">2455032.635</transittime>
+      <epoch>None</epoch>
+      <status>C</status>
+      <lastupdate>2014/09/17</lastupdate>
+    </planet>
+    <planet>
+      <name>KOI 1338 02</name>
+      <name>KOI 1338 02</name>
+      <name>KIC 4466677 02</name>
+      <name>KIC 4466677 02</name>
+      <coordinates/>
+      <massearths/>
+      <massjupiters/>
+      <period errorminus="0.001" errorplus="0.001">42.0365</period>
+      <semimajoraxis>0.233</semimajoraxis>
+      <eccentricity>None</eccentricity>
+      <inclination>89.38</inclination>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode>None</ascendingnode>
+      <periastron>None</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude>None</longitude>
+      <meananomaly>None</meananomaly>
+      <argoflatitude>None</argoflatitude>
+      <meanargoflatitude>None</meanargoflatitude>
+      <transittime unit="BJD" errorminus="0.011" errorplus="0.011">2455011.255</transittime>
+      <epoch>None</epoch>
+      <status>C</status>
+      <lastupdate>2014/09/17</lastupdate>
+    </planet>
+  </star>
+  <resonance>
+    <p p="2">02</p>
+    <q q="1">03</q>
+    <literature>
+      <title>The period ratio distribution of Kepler's candidate multiplanet systems</title>
+      <authors ordering="0">Steffen, Jason H.; Hwang, Jason A.</authors>
+      <link>http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1409.3320</link>
+      <publisher>20 pages, many figures, for submission to MNRAS</publisher>
+    </literature>
+    <literature>
+      <title>NASA Exoplanet Archive</title>
+      <authors ordering="0">NASA Exoplanet Archive Team</authors>
+      <link>http://exoplanetarchive.ipac.caltech.edu/cgi-bin/ExoTables/nph-exotbls?dataset=cumulative</link>
+      <publisher>NASA Exoplanet Science Institute</publisher>
+    </literature>
+  </resonance>
+</system>

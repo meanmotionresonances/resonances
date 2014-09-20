@@ -32,7 +32,7 @@
       <transittime unit="BJD" errorminus="0.00232" errorplus="0.00232">2454966.69209</transittime>
       <epoch>None</epoch>
       <status/>
-      <lastupdate>None</lastupdate>
+      <lastupdate>2014/09/17</lastupdate>
     </planet>
     <planet>
       <name>Kepler-169 c</name>
@@ -57,7 +57,7 @@
       <transittime unit="BJD" errorminus="0.00275" errorplus="0.00275">2454967.71616</transittime>
       <epoch>None</epoch>
       <status/>
-      <lastupdate>None</lastupdate>
+      <lastupdate>2014/09/17</lastupdate>
     </planet>
     <planet>
       <name>Kepler-169 d</name>
@@ -82,7 +82,7 @@
       <transittime unit="BJD" errorminus="0.00249" errorplus="0.00249">2454969.84117</transittime>
       <epoch>None</epoch>
       <status/>
-      <lastupdate>None</lastupdate>
+      <lastupdate>2014/09/17</lastupdate>
     </planet>
     <planet>
       <name>Kepler-169 e</name>
@@ -107,7 +107,7 @@
       <transittime unit="BJD" errorminus="0.00145" errorplus="0.00145">2455007.81064</transittime>
       <epoch>None</epoch>
       <status/>
-      <lastupdate>None</lastupdate>
+      <lastupdate>2014/09/17</lastupdate>
     </planet>
     <planet>
       <name>Kepler-169 06</name>
@@ -132,7 +132,7 @@
       <transittime unit="BJD" errorminus="0.03451" errorplus="0.03451">2454967.01902</transittime>
       <epoch>None</epoch>
       <status/>
-      <lastupdate>None</lastupdate>
+      <lastupdate>2014/09/17</lastupdate>
     </planet>
     <planet>
       <name>Kepler-169 f</name>
@@ -157,7 +157,7 @@
       <transittime unit="BJD" errorminus="0.00276" errorplus="0.00276">2455020.3184</transittime>
       <epoch>None</epoch>
       <status/>
-      <lastupdate>None</lastupdate>
+      <lastupdate>2014/09/17</lastupdate>
     </planet>
   </star>
   <resonance>
@@ -168,6 +168,12 @@
       <authors ordering="0">Steffen J. H. and Hwang J. A. (2014)</authors>
       <link>http://adsabs.harvard.edu/abs/2014arXiv1409.3320S</link>
       <publisher>arXiv:1409.3320</publisher>
+    </literature>
+    <literature>
+      <title>Validation of Kepler ’s Multiple Planet Candidates. III. Light Curve Analysis and Announcement of Hundreds of New Multi-planet Systems</title>
+      <authors ordering="0"> Rowe J. F. et al. (2014)</authors>
+      <link>http://adsabs.harvard.edu/abs/2014ApJ...784...45R</link>
+      <publisher>The Astrophysical Journal, Volume 784, Issue 1, article id. 45, 20 pp.</publisher>
     </literature>
   </resonance>
 </system>

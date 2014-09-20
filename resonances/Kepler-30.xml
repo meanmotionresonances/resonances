@@ -32,7 +32,7 @@
       <transittime unit="BJD" errorminus="0.00495" errorplus="0.00495">2454983.71661</transittime>
       <epoch>None</epoch>
       <status/>
-      <lastupdate>None</lastupdate>
+      <lastupdate>2014/09/17</lastupdate>
     </planet>
     <planet>
       <name>Kepler-30 c</name>
@@ -57,7 +57,7 @@
       <transittime unit="BJD" errorminus="0.00039" errorplus="0.00039">2455076.91077</transittime>
       <epoch>None</epoch>
       <status/>
-      <lastupdate>None</lastupdate>
+      <lastupdate>2014/09/17</lastupdate>
     </planet>
     <planet>
       <name>Kepler-30 d</name>
@@ -82,7 +82,7 @@
       <transittime unit="BJD" errorminus="0.00102" errorplus="0.00102">2454987.22092</transittime>
       <epoch>None</epoch>
       <status/>
-      <lastupdate>None</lastupdate>
+      <lastupdate>2014/09/17</lastupdate>
     </planet>
   </star>
   <resonance>
@@ -93,6 +93,12 @@
       <authors ordering="0">Steffen J. H. and Hwang J. A. (2014)</authors>
       <link>http://adsabs.harvard.edu/abs/2014arXiv1409.3320S</link>
       <publisher>arXiv:1409.3320</publisher>
+    </literature>
+    <literature>
+      <title>Validation of Kepler's Multiple Planet Candidates. III. Light Curve Analysis and Announcement of Hundreds of New Multi-planet Systems</title>
+      <authors ordering="0"> Rowe J. F. et al. (2014)</authors>
+      <link>http://adsabs.harvard.edu/abs/2014ApJ...784...45R</link>
+      <publisher>The Astrophysical Journal, Volume 784, Issue 1, article id. 45, 20 pp.</publisher>
     </literature>
   </resonance>
 </system>
