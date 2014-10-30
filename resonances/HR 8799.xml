@@ -7,10 +7,36 @@
     <age>0.06</age>
     <temperature>0.0</temperature>
     <planet>
+      <name>HR 8799 e</name>
+      <coordinates/>
+      <massearths computed="true">3000.0</massearths>
+      <massjupiters errorminus="2.0" errorplus="2.0">9.0</massjupiters>
+      <radius/>
+      <radiusjupiters/>
+      <period>None</period>
+      <semimajoraxis errorminus="0.2" errorplus="0.2">15.4</semimajoraxis>
+      <eccentricity errorminus="0.03" errorplus="0.03">0.13</eccentricity>
+      <inclination errorminus="3.0" errorplus="3.0">25.0</inclination>
+      <timeofpericentre>None</timeofpericentre>
+      <ascendingnode errorminus="3.0" errorplus="3.0">64.0</ascendingnode>
+      <periastron errorminus="6.0" errorplus="6.0">176.0</periastron>
+      <argumentofperiastron>None</argumentofperiastron>
+      <longitude>None</longitude>
+      <meananomaly errorminus="5.0" errorplus="5.0">326.0</meananomaly>
+      <argoflatitude>None</argoflatitude>
+      <meanargoflatitude>None</meanargoflatitude>
+      <transittime unit="BJD">None</transittime>
+      <epoch unit="JD">2451118.1575</epoch>
+      <status>C</status>
+      <lastupdate>2014/08/24</lastupdate>
+    </planet>
+    <planet>
       <name>HR 8799 d</name>
       <coordinates/>
       <massearths computed="true">3000.0</massearths>
       <massjupiters errorminus="3.0" errorplus="3.0">9.0</massjupiters>
+      <radius/>
+      <radiusjupiters/>
       <period>None</period>
       <semimajoraxis errorminus="0.3" errorplus="0.3">25.4</semimajoraxis>
       <eccentricity errorminus="0.02" errorplus="0.02">0.12</eccentricity>
@@ -33,6 +59,8 @@
       <coordinates/>
       <massearths computed="true">3000.0</massearths>
       <massjupiters errorminus="3.0" errorplus="3.0">9.0</massjupiters>
+      <radius/>
+      <radiusjupiters/>
       <period>None</period>
       <semimajoraxis errorminus="0.3" errorplus="0.3">39.4</semimajoraxis>
       <eccentricity errorminus="0.02" errorplus="0.02">0.05</eccentricity>
@@ -51,32 +79,12 @@
       <lastupdate>2014/08/24</lastupdate>
     </planet>
     <planet>
-      <name>HR 8799 e</name>
-      <coordinates/>
-      <massearths computed="true">3000.0</massearths>
-      <massjupiters errorminus="2.0" errorplus="2.0">9.0</massjupiters>
-      <period>None</period>
-      <semimajoraxis errorminus="0.2" errorplus="0.2">15.4</semimajoraxis>
-      <eccentricity errorminus="0.03" errorplus="0.03">0.13</eccentricity>
-      <inclination errorminus="3.0" errorplus="3.0">25.0</inclination>
-      <timeofpericentre>None</timeofpericentre>
-      <ascendingnode errorminus="3.0" errorplus="3.0">64.0</ascendingnode>
-      <periastron errorminus="6.0" errorplus="6.0">176.0</periastron>
-      <argumentofperiastron>None</argumentofperiastron>
-      <longitude>None</longitude>
-      <meananomaly errorminus="5.0" errorplus="5.0">326.0</meananomaly>
-      <argoflatitude>None</argoflatitude>
-      <meanargoflatitude>None</meanargoflatitude>
-      <transittime unit="BJD">None</transittime>
-      <epoch unit="JD">2451118.1575</epoch>
-      <status>C</status>
-      <lastupdate>2014/08/24</lastupdate>
-    </planet>
-    <planet>
       <name>HR 8799 b</name>
       <coordinates/>
       <massearths computed="true">2000.0</massearths>
       <massjupiters errorminus="2.0" errorplus="2.0">7.0</massjupiters>
+      <radius/>
+      <radiusjupiters/>
       <period>None</period>
       <semimajoraxis errorminus="0.2" errorplus="0.2">69.1</semimajoraxis>
       <eccentricity errorminus="0.003" errorplus="0.003">0.02</eccentricity>

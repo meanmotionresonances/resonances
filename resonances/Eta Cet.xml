@@ -16,6 +16,8 @@
       <coordinates>Jacobi</coordinates>
       <massearths computed="true">800.0</massearths>
       <massjupiters errorminus="0.16" errorplus="0.16">2.54</massjupiters>
+      <radius/>
+      <radiusjupiters/>
       <period errorminus="2.67" errorplus="2.67">407.5</period>
       <semimajoraxis>1.28</semimajoraxis>
       <eccentricity errorminus="0.05" errorplus="0.05">0.155</eccentricity>
@@ -38,6 +40,8 @@
       <coordinates>Jacobi</coordinates>
       <massearths computed="true">1000.0</massearths>
       <massjupiters errorminus="0.19" errorplus="0.19">3.28</massjupiters>
+      <radius/>
+      <radiusjupiters/>
       <period errorminus="3.71" errorplus="3.71">744.5</period>
       <semimajoraxis>1.92</semimajoraxis>
       <eccentricity errorminus="0.05" errorplus="0.05">0.025</eccentricity>

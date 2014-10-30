@@ -12,6 +12,8 @@
       <coordinates/>
       <massearthssini computed="true">10.56</massearthssini>
       <massjupiterssini>0.03321</massjupiterssini>
+      <radius/>
+      <radiusjupiters/>
       <period errorminus="0.0015" errorplus="0.0015">9.6386</period>
       <semimajoraxis>0.09094</semimajoraxis>
       <eccentricity errorminus="0.04" errorplus="0.04">0.172</eccentricity>
@@ -34,6 +36,8 @@
       <coordinates/>
       <massearthssini computed="true">165.9</massearthssini>
       <massjupiterssini>0.5219</massjupiterssini>
+      <radius/>
+      <radiusjupiters/>
       <period errorminus="0.83" errorplus="0.83">310.55</period>
       <semimajoraxis>0.921</semimajoraxis>
       <eccentricity errorminus="0.0122" errorplus="0.0122">0.0666</eccentricity>
@@ -56,6 +60,8 @@
       <coordinates/>
       <massearthssini computed="true">532.8</massearthssini>
       <massjupiterssini>1.676</massjupiterssini>
+      <radius/>
+      <radiusjupiters/>
       <period errorminus="0.9" errorplus="0.9">643.25</period>
       <semimajoraxis>1.497</semimajoraxis>
       <eccentricity errorminus="0.017" errorplus="0.017">0.128</eccentricity>
@@ -78,6 +84,8 @@
       <coordinates/>
       <massearthssini computed="true">576.7</massearthssini>
       <massjupiterssini>1.814</massjupiterssini>
+      <radius/>
+      <radiusjupiters/>
       <period errorminus="758.9" errorplus="758.9">4205.8</period>
       <semimajoraxis>5.235</semimajoraxis>
       <eccentricity errorminus="0.0627" errorplus="0.0627">0.0985</eccentricity>

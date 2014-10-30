@@ -15,6 +15,8 @@
       <coordinates/>
       <massearths/>
       <massjupiters/>
+      <radius/>
+      <radiusjupiters/>
       <period errorminus="1.9e-05" errorplus="1.9e-05">7.008151</period>
       <semimajoraxis errorminus="0.016" errorplus="0.016">0.074</semimajoraxis>
       <eccentricity>None</eccentricity>
@@ -39,6 +41,8 @@
       <coordinates/>
       <massearths/>
       <massjupiters/>
+      <radius/>
+      <radiusjupiters/>
       <period errorminus="2.7e-05" errorplus="2.7e-05">8.719375</period>
       <semimajoraxis errorminus="0.012" errorplus="0.012">0.089</semimajoraxis>
       <eccentricity>None</eccentricity>
@@ -63,6 +67,8 @@
       <coordinates/>
       <massearths/>
       <massjupiters/>
+      <radius/>
+      <radiusjupiters/>
       <period errorminus="0.00038" errorplus="0.00038">59.73667</period>
       <semimajoraxis errorminus="0.05" errorplus="0.05">0.32</semimajoraxis>
       <eccentricity>None</eccentricity>
@@ -87,6 +93,8 @@
       <coordinates/>
       <massearths/>
       <massjupiters/>
+      <radius/>
+      <radiusjupiters/>
       <period errorminus="0.00073" errorplus="0.00073">91.93913</period>
       <semimajoraxis errorminus="0.06" errorplus="0.06">0.42</semimajoraxis>
       <eccentricity>None</eccentricity>
@@ -111,6 +119,8 @@
       <coordinates/>
       <massearths/>
       <massjupiters/>
+      <radius/>
+      <radiusjupiters/>
       <period errorminus="0.0019" errorplus="0.0019">124.9144</period>
       <semimajoraxis errorminus="0.09" errorplus="0.09">0.48</semimajoraxis>
       <eccentricity>None</eccentricity>
@@ -135,6 +145,8 @@
       <coordinates/>
       <massearths/>
       <massjupiters/>
+      <radius/>
+      <radiusjupiters/>
       <period errorminus="0.00043" errorplus="0.00043">210.60697</period>
       <semimajoraxis errorminus="0.08" errorplus="0.08">0.71</semimajoraxis>
       <eccentricity>None</eccentricity>
@@ -159,6 +171,8 @@
       <coordinates/>
       <massearths/>
       <massjupiters/>
+      <radius/>
+      <radiusjupiters/>
       <period errorminus="0.00037" errorplus="0.00037">331.60059</period>
       <semimajoraxis errorminus="0.11" errorplus="0.11">1.01</semimajoraxis>
       <eccentricity>None</eccentricity>

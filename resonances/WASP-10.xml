@@ -11,6 +11,8 @@
       <coordinates/>
       <massearths computed="true">900.0</massearths>
       <massjupiters errorminus="0.17" errorplus="0.22">2.96</massjupiters>
+      <radius computed="true" errorminus="1.1" errorplus="0.87">14.3</radius>
+      <radiusjupiters errorminus="0.091" errorplus="0.077">1.28</radiusjupiters>
       <period errorminus="2.1e-05" errorplus="9.4e-06">3.0927636</period>
       <semimajoraxis errorminus="0.0014" errorplus="0.0012">0.0369</semimajoraxis>
       <eccentricity errorminus="0.004" errorplus="0.014">0.059</eccentricity>
@@ -33,6 +35,8 @@
       <coordinates/>
       <massearths computed="true">30.0</massearths>
       <massjupiters>0.1</massjupiters>
+      <radius/>
+      <radiusjupiters/>
       <period>5.2293</period>
       <semimajoraxis>0.0536</semimajoraxis>
       <eccentricity>None</eccentricity>
